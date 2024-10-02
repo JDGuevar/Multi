@@ -1,0 +1,3534 @@
+Dia 1:
+Sala 1, Sessió 1:
+  Assistència:387 persones. Major:82,43% Minor:9,56% Minor de 8:8,01%
+  Recaptació:5400 euros. Major:94,52% Minor:5,48%
+Sala 1, Sessió 2:
+  Assistència:355 persones. Major:85,92% Minor:7,89% Minor de 8:6,20%
+  Recaptació:5104 euros. Major:95,61% Minor:4,39%
+Sala 1, Sessió 3:
+  Assistència:324 persones. Major:83,64% Minor:10,19% Minor de 8:6,17%
+  Recaptació:4600 euros. Major:94,26% Minor:5,74%
+Total Sala 1:
+  Assistència total:1066 persones. Major:83,96% Minor:9,19% Minor de 8:6,85%
+  Recaptació total:15104 euros. Major:94,81% Minor:5,19%
+
+Sala 2, Sessió 1:
+  Assistència:328 persones. Major:84,15% Minor:8,23% Minor de 8:7,62%
+  Recaptació:4632 euros. Major:95,34% Minor:4,66%
+Sala 2, Sessió 2:
+  Assistència:346 persones. Major:84,10% Minor:10,69% Minor de 8:5,20%
+  Recaptació:4952 euros. Major:94,02% Minor:5,98%
+Sala 2, Sessió 3:
+  Assistència:399 persones. Major:82,96% Minor:9,77% Minor de 8:7,27%
+  Recaptació:5608 euros. Major:94,44% Minor:5,56%
+Total Sala 2:
+  Assistència total:1073 persones. Major:83,69% Minor:9,60% Minor de 8:6,71%
+  Recaptació total:15192 euros. Major:94,58% Minor:5,42%
+
+Sala 3, Sessió 1:
+  Assistència:375 persones. Major:81,87% Minor:9,87% Minor de 8:8,27%
+  Recaptació:5208 euros. Major:94,32% Minor:5,68%
+Sala 3, Sessió 2:
+  Assistència:344 persones. Major:80,81% Minor:9,59% Minor de 8:9,59%
+  Recaptació:4712 euros. Major:94,40% Minor:5,60%
+Sala 3, Sessió 3:
+  Assistència:321 persones. Major:86,60% Minor:9,35% Minor de 8:4,05%
+  Recaptació:4688 euros. Major:94,88% Minor:5,12%
+Total Sala 3:
+  Assistència total:1040 persones. Major:82,98% Minor:9,62% Minor de 8:7,40%
+  Recaptació total:14608 euros. Major:94,52% Minor:5,48%
+
+Sala 4, Sessió 1:
+  Assistència:368 persones. Major:78,80% Minor:12,50% Minor de 8:8,70%
+  Recaptació:5008 euros. Major:92,65% Minor:7,35%
+Sala 4, Sessió 2:
+  Assistència:329 persones. Major:81,46% Minor:11,25% Minor de 8:7,29%
+  Recaptació:4584 euros. Major:93,54% Minor:6,46%
+Sala 4, Sessió 3:
+  Assistència:359 persones. Major:84,12% Minor:7,52% Minor de 8:8,36%
+  Recaptació:5048 euros. Major:95,72% Minor:4,28%
+Total Sala 4:
+  Assistència total:1056 persones. Major:81,44% Minor:10,42% Minor de 8:8,14%
+  Recaptació total:14640 euros. Major:93,99% Minor:6,01%
+
+Sala 5, Sessió 1:
+  Assistència:332 persones. Major:85,84% Minor:7,23% Minor de 8:6,93%
+  Recaptació:4752 euros. Major:95,96% Minor:4,04%
+Sala 5, Sessió 2:
+  Assistència:385 persones. Major:83,64% Minor:11,43% Minor de 8:4,94%
+  Recaptació:5504 euros. Major:93,60% Minor:6,40%
+Sala 5, Sessió 3:
+  Assistència:376 persones. Major:83,78% Minor:10,11% Minor de 8:6,12%
+  Recaptació:5344 euros. Major:94,31% Minor:5,69%
+Total Sala 5:
+  Assistència total:1093 persones. Major:84,35% Minor:9,70% Minor de 8:5,95%
+  Recaptació total:15600 euros. Major:94,56% Minor:5,44%
+
+Sala 6, Sessió 1:
+  Assistència:361 persones. Major:78,95% Minor:13,30% Minor de 8:7,76%
+  Recaptació:4944 euros. Major:92,23% Minor:7,77%
+Sala 6, Sessió 2:
+  Assistència:365 persones. Major:85,75% Minor:9,04% Minor de 8:5,21%
+  Recaptació:5272 euros. Major:94,99% Minor:5,01%
+Sala 6, Sessió 3:
+  Assistència:327 persones. Major:79,51% Minor:11,31% Minor de 8:9,17%
+  Recaptació:4456 euros. Major:93,36% Minor:6,64%
+Total Sala 6:
+  Assistència total:1053 persones. Major:81,48% Minor:11,21% Minor de 8:7,31%
+  Recaptació total:14672 euros. Major:93,57% Minor:6,43%
+
+Sala 7, Sessió 1:
+  Assistència:380 persones. Major:80,00% Minor:13,95% Minor de 8:6,05%
+  Recaptació:5288 euros. Major:91,98% Minor:8,02%
+Sala 7, Sessió 2:
+  Assistència:346 persones. Major:83,24% Minor:9,83% Minor de 8:6,94%
+  Recaptació:4880 euros. Major:94,43% Minor:5,57%
+Sala 7, Sessió 3:
+  Assistència:377 persones. Major:81,17% Minor:11,41% Minor de 8:7,43%
+  Recaptació:5240 euros. Major:93,44% Minor:6,56%
+Total Sala 7:
+  Assistència total:1103 persones. Major:81,41% Minor:11,79% Minor de 8:6,80%
+  Recaptació total:15408 euros. Major:93,25% Minor:6,75%
+
+Sala 8, Sessió 1:
+  Assistència:367 persones. Major:83,65% Minor:9,54% Minor de 8:6,81%
+  Recaptació:5192 euros. Major:94,61% Minor:5,39%
+Sala 8, Sessió 2:
+  Assistència:325 persones. Major:86,15% Minor:6,77% Minor de 8:7,08%
+  Recaptació:4656 euros. Major:96,22% Minor:3,78%
+Sala 8, Sessió 3:
+  Assistència:365 persones. Major:84,11% Minor:9,86% Minor de 8:6,03%
+  Recaptació:5200 euros. Major:94,46% Minor:5,54%
+Total Sala 8:
+  Assistència total:1057 persones. Major:84,58% Minor:8,80% Minor de 8:6,62%
+  Recaptació total:15048 euros. Major:95,06% Minor:4,94%
+
+Dia 2:
+Sala 1, Sessió 1:
+  Assistència:345 persones. Major:84,06% Minor:9,86% Minor de 8:6,09%
+  Recaptació:4912 euros. Major:94,46% Minor:5,54%
+Sala 1, Sessió 2:
+  Assistència:377 persones. Major:85,94% Minor:7,69% Minor de 8:6,37%
+  Recaptació:5416 euros. Major:95,72% Minor:4,28%
+Sala 1, Sessió 3:
+  Assistència:383 persones. Major:83,55% Minor:10,44% Minor de 8:6,01%
+  Recaptació:5440 euros. Major:94,12% Minor:5,88%
+Total Sala 1:
+  Assistència total:1105 persones. Major:84,52% Minor:9,32% Minor de 8:6,15%
+  Recaptació total:15768 euros. Major:94,77% Minor:5,23%
+
+Sala 2, Sessió 1:
+  Assistència:342 persones. Major:80,99% Minor:12,28% Minor de 8:6,73%
+  Recaptació:4768 euros. Major:92,95% Minor:7,05%
+Sala 2, Sessió 2:
+  Assistència:324 persones. Major:85,19% Minor:8,02% Minor de 8:6,79%
+  Recaptació:4624 euros. Major:95,50% Minor:4,50%
+Sala 2, Sessió 3:
+  Assistència:366 persones. Major:81,69% Minor:11,20% Minor de 8:7,10%
+  Recaptació:5112 euros. Major:93,58% Minor:6,42%
+Total Sala 2:
+  Assistència total:1032 persones. Major:82,56% Minor:10,56% Minor de 8:6,88%
+  Recaptació total:14504 euros. Major:93,99% Minor:6,01%
+
+Sala 3, Sessió 1:
+  Assistència:370 persones. Major:83,24% Minor:9,46% Minor de 8:7,30%
+  Recaptació:5208 euros. Major:94,62% Minor:5,38%
+Sala 3, Sessió 2:
+  Assistència:374 persones. Major:84,49% Minor:11,50% Minor de 8:4,01%
+  Recaptació:5400 euros. Major:93,63% Minor:6,37%
+Sala 3, Sessió 3:
+  Assistència:322 persones. Major:83,54% Minor:11,80% Minor de 8:4,66%
+  Recaptació:4608 euros. Major:93,40% Minor:6,60%
+Total Sala 3:
+  Assistència total:1066 persones. Major:83,77% Minor:10,88% Minor de 8:5,35%
+  Recaptació total:15216 euros. Major:93,90% Minor:6,10%
+
+Sala 4, Sessió 1:
+  Assistència:350 persones. Major:82,29% Minor:11,43% Minor de 8:6,29%
+  Recaptació:4928 euros. Major:93,51% Minor:6,49%
+Sala 4, Sessió 2:
+  Assistència:350 persones. Major:85,14% Minor:10,00% Minor de 8:4,86%
+  Recaptació:5048 euros. Major:94,45% Minor:5,55%
+Sala 4, Sessió 3:
+  Assistència:392 persones. Major:78,57% Minor:12,76% Minor de 8:8,67%
+  Recaptació:5328 euros. Major:92,49% Minor:7,51%
+Total Sala 4:
+  Assistència total:1092 persones. Major:81,87% Minor:11,45% Minor de 8:6,68%
+  Recaptació total:15304 euros. Major:93,47% Minor:6,53%
+
+Sala 5, Sessió 1:
+  Assistència:335 persones. Major:85,37% Minor:7,76% Minor de 8:6,87%
+  Recaptació:4784 euros. Major:95,65% Minor:4,35%
+Sala 5, Sessió 2:
+  Assistència:337 persones. Major:82,20% Minor:10,98% Minor de 8:6,82%
+  Recaptació:4728 euros. Major:93,74% Minor:6,26%
+Sala 5, Sessió 3:
+  Assistència:324 persones. Major:81,17% Minor:10,49% Minor de 8:8,33%
+  Recaptació:4480 euros. Major:93,93% Minor:6,07%
+Total Sala 5:
+  Assistència total:996 persones. Major:82,93% Minor:9,74% Minor de 8:7,33%
+  Recaptació total:13992 euros. Major:94,45% Minor:5,55%
+
+Sala 6, Sessió 1:
+  Assistència:326 persones. Major:83,13% Minor:10,12% Minor de 8:6,75%
+  Recaptació:4600 euros. Major:94,26% Minor:5,74%
+Sala 6, Sessió 2:
+  Assistència:387 persones. Major:78,29% Minor:14,21% Minor de 8:7,49%
+  Recaptació:5288 euros. Major:91,68% Minor:8,32%
+Sala 6, Sessió 3:
+  Assistència:339 persones. Major:81,12% Minor:13,86% Minor de 8:5,01%
+  Recaptació:4776 euros. Major:92,13% Minor:7,87%
+Total Sala 6:
+  Assistència total:1052 persones. Major:80,70% Minor:12,83% Minor de 8:6,46%
+  Recaptació total:14664 euros. Major:92,64% Minor:7,36%
+
+Sala 7, Sessió 1:
+  Assistència:392 persones. Major:84,69% Minor:11,22% Minor de 8:4,08%
+  Recaptació:5664 euros. Major:93,79% Minor:6,21%
+Sala 7, Sessió 2:
+  Assistència:384 persones. Major:82,55% Minor:9,64% Minor de 8:7,81%
+  Recaptació:5368 euros. Major:94,49% Minor:5,51%
+Sala 7, Sessió 3:
+  Assistència:347 persones. Major:84,73% Minor:8,93% Minor de 8:6,34%
+  Recaptació:4952 euros. Major:94,99% Minor:5,01%
+Total Sala 7:
+  Assistència total:1123 persones. Major:83,97% Minor:9,97% Minor de 8:6,06%
+  Recaptació total:15984 euros. Major:94,39% Minor:5,61%
+
+Sala 8, Sessió 1:
+  Assistència:335 persones. Major:80,90% Minor:12,84% Minor de 8:6,27%
+  Recaptació:4680 euros. Major:92,65% Minor:7,35%
+Sala 8, Sessió 2:
+  Assistència:380 persones. Major:83,16% Minor:8,95% Minor de 8:7,89%
+  Recaptació:5328 euros. Major:94,89% Minor:5,11%
+Sala 8, Sessió 3:
+  Assistència:353 persones. Major:84,99% Minor:9,07% Minor de 8:5,95%
+  Recaptació:5056 euros. Major:94,94% Minor:5,06%
+Total Sala 8:
+  Assistència total:1068 persones. Major:83,05% Minor:10,21% Minor de 8:6,74%
+  Recaptació total:15064 euros. Major:94,21% Minor:5,79%
+
+Dia 3:
+Sala 1, Sessió 1:
+  Assistència:390 persones. Major:82,05% Minor:10,26% Minor de 8:7,69%
+  Recaptació:5440 euros. Major:94,12% Minor:5,88%
+Sala 1, Sessió 2:
+  Assistència:327 persones. Major:79,51% Minor:12,54% Minor de 8:7,95%
+  Recaptació:4488 euros. Major:92,69% Minor:7,31%
+Sala 1, Sessió 3:
+  Assistència:323 persones. Major:85,45% Minor:8,36% Minor de 8:6,19%
+  Recaptació:4632 euros. Major:95,34% Minor:4,66%
+Total Sala 1:
+  Assistència total:1040 persones. Major:82,31% Minor:10,38% Minor de 8:7,31%
+  Recaptació total:14560 euros. Major:94,07% Minor:5,93%
+
+Sala 2, Sessió 1:
+  Assistència:339 persones. Major:83,19% Minor:9,44% Minor de 8:7,37%
+  Recaptació:4768 euros. Major:94,63% Minor:5,37%
+Sala 2, Sessió 2:
+  Assistència:340 persones. Major:80,88% Minor:12,35% Minor de 8:6,76%
+  Recaptació:4736 euros. Major:92,91% Minor:7,09%
+Sala 2, Sessió 3:
+  Assistència:354 persones. Major:81,64% Minor:11,86% Minor de 8:6,50%
+  Recaptació:4960 euros. Major:93,23% Minor:6,77%
+Total Sala 2:
+  Assistència total:1033 persones. Major:81,90% Minor:11,23% Minor de 8:6,87%
+  Recaptació total:14464 euros. Major:93,58% Minor:6,42%
+
+Sala 3, Sessió 1:
+  Assistència:347 persones. Major:82,13% Minor:10,66% Minor de 8:7,20%
+  Recaptació:4856 euros. Major:93,90% Minor:6,10%
+Sala 3, Sessió 2:
+  Assistència:327 persones. Major:82,87% Minor:9,79% Minor de 8:7,34%
+  Recaptació:4592 euros. Major:94,43% Minor:5,57%
+Sala 3, Sessió 3:
+  Assistència:336 persones. Major:80,36% Minor:10,42% Minor de 8:9,23%
+  Recaptació:4600 euros. Major:93,91% Minor:6,09%
+Total Sala 3:
+  Assistència total:1010 persones. Major:81,78% Minor:10,30% Minor de 8:7,92%
+  Recaptació total:14048 euros. Major:94,08% Minor:5,92%
+
+Sala 4, Sessió 1:
+  Assistència:399 persones. Major:80,20% Minor:11,78% Minor de 8:8,02%
+  Recaptació:5496 euros. Major:93,16% Minor:6,84%
+Sala 4, Sessió 2:
+  Assistència:365 persones. Major:84,11% Minor:9,59% Minor de 8:6,30%
+  Recaptació:5192 euros. Major:94,61% Minor:5,39%
+Sala 4, Sessió 3:
+  Assistència:327 persones. Major:84,10% Minor:9,48% Minor de 8:6,42%
+  Recaptació:4648 euros. Major:94,66% Minor:5,34%
+Total Sala 4:
+  Assistència total:1091 persones. Major:82,68% Minor:10,36% Minor de 8:6,97%
+  Recaptació total:15336 euros. Major:94,11% Minor:5,89%
+
+Sala 5, Sessió 1:
+  Assistència:326 persones. Major:82,52% Minor:10,43% Minor de 8:7,06%
+  Recaptació:4576 euros. Major:94,06% Minor:5,94%
+Sala 5, Sessió 2:
+  Assistència:324 persones. Major:83,64% Minor:10,80% Minor de 8:5,56%
+  Recaptació:4616 euros. Major:93,93% Minor:6,07%
+Sala 5, Sessió 3:
+  Assistència:340 persones. Major:87,06% Minor:8,24% Minor de 8:4,71%
+  Recaptació:4960 euros. Major:95,48% Minor:4,52%
+Total Sala 5:
+  Assistència total:990 persones. Major:84,44% Minor:9,80% Minor de 8:5,76%
+  Recaptació total:14152 euros. Major:94,52% Minor:5,48%
+
+Sala 6, Sessió 1:
+  Assistència:320 persones. Major:83,75% Minor:11,88% Minor de 8:4,38%
+  Recaptació:4592 euros. Major:93,38% Minor:6,62%
+Sala 6, Sessió 2:
+  Assistència:384 persones. Major:82,81% Minor:11,72% Minor de 8:5,47%
+  Recaptació:5448 euros. Major:93,39% Minor:6,61%
+Sala 6, Sessió 3:
+  Assistència:394 persones. Major:85,03% Minor:10,91% Minor de 8:4,06%
+  Recaptació:5704 euros. Major:93,97% Minor:6,03%
+Total Sala 6:
+  Assistència total:1098 persones. Major:83,88% Minor:11,48% Minor de 8:4,64%
+  Recaptació total:15744 euros. Major:93,60% Minor:6,40%
+
+Sala 7, Sessió 1:
+  Assistència:343 persones. Major:81,05% Minor:9,62% Minor de 8:9,33%
+  Recaptació:4712 euros. Major:94,40% Minor:5,60%
+Sala 7, Sessió 2:
+  Assistència:363 persones. Major:86,23% Minor:6,61% Minor de 8:7,16%
+  Recaptació:5200 euros. Major:96,31% Minor:3,69%
+Sala 7, Sessió 3:
+  Assistència:347 persones. Major:85,88% Minor:8,36% Minor de 8:5,76%
+  Recaptació:5000 euros. Major:95,36% Minor:4,64%
+Total Sala 7:
+  Assistència total:1053 persones. Major:84,43% Minor:8,17% Minor de 8:7,41%
+  Recaptació total:14912 euros. Major:95,39% Minor:4,61%
+
+Sala 8, Sessió 1:
+  Assistència:391 persones. Major:83,12% Minor:8,44% Minor de 8:8,44%
+  Recaptació:5464 euros. Major:95,17% Minor:4,83%
+Sala 8, Sessió 2:
+  Assistència:322 persones. Major:82,61% Minor:9,32% Minor de 8:8,07%
+  Recaptació:4496 euros. Major:94,66% Minor:5,34%
+Sala 8, Sessió 3:
+  Assistència:328 persones. Major:80,49% Minor:10,67% Minor de 8:8,84%
+  Recaptació:4504 euros. Major:93,78% Minor:6,22%
+Total Sala 8:
+  Assistència total:1041 persones. Major:82,13% Minor:9,41% Minor de 8:8,45%
+  Recaptació total:14464 euros. Major:94,58% Minor:5,42%
+
+Dia 4:
+Sala 1, Sessió 1:
+  Assistència:389 persones. Major:84,58% Minor:10,80% Minor de 8:4,63%
+  Recaptació:5600 euros. Major:94,00% Minor:6,00%
+Sala 1, Sessió 2:
+  Assistència:349 persones. Major:86,53% Minor:8,02% Minor de 8:5,44%
+  Recaptació:5056 euros. Major:95,57% Minor:4,43%
+Sala 1, Sessió 3:
+  Assistència:322 persones. Major:81,68% Minor:10,87% Minor de 8:7,45%
+  Recaptació:4488 euros. Major:93,76% Minor:6,24%
+Total Sala 1:
+  Assistència total:1060 persones. Major:84,34% Minor:9,91% Minor de 8:5,75%
+  Recaptació total:15144 euros. Major:94,45% Minor:5,55%
+
+Sala 2, Sessió 1:
+  Assistència:343 persones. Major:85,71% Minor:7,87% Minor de 8:6,41%
+  Recaptació:4920 euros. Major:95,61% Minor:4,39%
+Sala 2, Sessió 2:
+  Assistència:321 persones. Major:78,50% Minor:16,20% Minor de 8:5,30%
+  Recaptació:4448 euros. Major:90,65% Minor:9,35%
+Sala 2, Sessió 3:
+  Assistència:383 persones. Major:82,51% Minor:10,97% Minor de 8:6,53%
+  Recaptació:5392 euros. Major:93,77% Minor:6,23%
+Total Sala 2:
+  Assistència total:1047 persones. Major:82,33% Minor:11,56% Minor de 8:6,11%
+  Recaptació total:14760 euros. Major:93,44% Minor:6,56%
+
+Sala 3, Sessió 1:
+  Assistència:369 persones. Major:81,84% Minor:9,21% Minor de 8:8,94%
+  Recaptació:5104 euros. Major:94,67% Minor:5,33%
+Sala 3, Sessió 2:
+  Assistència:377 persones. Major:78,51% Minor:12,47% Minor de 8:9,02%
+  Recaptació:5112 euros. Major:92,64% Minor:7,36%
+Sala 3, Sessió 3:
+  Assistència:323 persones. Major:82,97% Minor:8,67% Minor de 8:8,36%
+  Recaptació:4512 euros. Major:95,04% Minor:4,96%
+Total Sala 3:
+  Assistència total:1069 persones. Major:81,01% Minor:10,20% Minor de 8:8,79%
+  Recaptació total:14728 euros. Major:94,08% Minor:5,92%
+
+Sala 4, Sessió 1:
+  Assistència:346 persones. Major:80,92% Minor:10,12% Minor de 8:8,96%
+  Recaptació:4760 euros. Major:94,12% Minor:5,88%
+Sala 4, Sessió 2:
+  Assistència:383 persones. Major:80,42% Minor:11,49% Minor de 8:8,09%
+  Recaptació:5280 euros. Major:93,33% Minor:6,67%
+Sala 4, Sessió 3:
+  Assistència:366 persones. Major:85,52% Minor:10,11% Minor de 8:4,37%
+  Recaptació:5304 euros. Major:94,42% Minor:5,58%
+Total Sala 4:
+  Assistència total:1095 persones. Major:82,28% Minor:10,59% Minor de 8:7,12%
+  Recaptació total:15344 euros. Major:93,95% Minor:6,05%
+
+Sala 5, Sessió 1:
+  Assistència:336 persones. Major:83,93% Minor:9,82% Minor de 8:6,25%
+  Recaptació:4776 euros. Major:94,47% Minor:5,53%
+Sala 5, Sessió 2:
+  Assistència:320 persones. Major:85,63% Minor:7,19% Minor de 8:7,19%
+  Recaptació:4568 euros. Major:95,97% Minor:4,03%
+Sala 5, Sessió 3:
+  Assistència:355 persones. Major:82,54% Minor:8,73% Minor de 8:8,73%
+  Recaptació:4936 euros. Major:94,98% Minor:5,02%
+Total Sala 5:
+  Assistència total:1011 persones. Major:83,98% Minor:8,61% Minor de 8:7,42%
+  Recaptació total:14280 euros. Major:95,13% Minor:4,87%
+
+Sala 6, Sessió 1:
+  Assistència:364 persones. Major:86,54% Minor:9,62% Minor de 8:3,85%
+  Recaptació:5320 euros. Major:94,74% Minor:5,26%
+Sala 6, Sessió 2:
+  Assistència:326 persones. Major:85,58% Minor:7,98% Minor de 8:6,44%
+  Recaptació:4672 euros. Major:95,55% Minor:4,45%
+Sala 6, Sessió 3:
+  Assistència:382 persones. Major:82,72% Minor:10,99% Minor de 8:6,28%
+  Recaptació:5392 euros. Major:93,77% Minor:6,23%
+Total Sala 6:
+  Assistència total:1072 persones. Major:84,89% Minor:9,61% Minor de 8:5,50%
+  Recaptació total:15384 euros. Major:94,64% Minor:5,36%
+
+Sala 7, Sessió 1:
+  Assistència:343 persones. Major:82,22% Minor:11,37% Minor de 8:6,41%
+  Recaptació:4824 euros. Major:93,53% Minor:6,47%
+Sala 7, Sessió 2:
+  Assistència:357 persones. Major:83,47% Minor:13,45% Minor de 8:3,08%
+  Recaptació:5152 euros. Major:92,55% Minor:7,45%
+Sala 7, Sessió 3:
+  Assistència:345 persones. Major:82,61% Minor:10,43% Minor de 8:6,96%
+  Recaptació:4848 euros. Major:94,06% Minor:5,94%
+Total Sala 7:
+  Assistència total:1045 persones. Major:82,78% Minor:11,77% Minor de 8:5,45%
+  Recaptació total:14824 euros. Major:93,36% Minor:6,64%
+
+Sala 8, Sessió 1:
+  Assistència:385 persones. Major:84,68% Minor:9,87% Minor de 8:5,45%
+  Recaptació:5520 euros. Major:94,49% Minor:5,51%
+Sala 8, Sessió 2:
+  Assistència:338 persones. Major:80,77% Minor:10,65% Minor de 8:8,58%
+  Recaptació:4656 euros. Major:93,81% Minor:6,19%
+Sala 8, Sessió 3:
+  Assistència:377 persones. Major:83,55% Minor:11,94% Minor de 8:4,51%
+  Recaptació:5400 euros. Major:93,33% Minor:6,67%
+Total Sala 8:
+  Assistència total:1100 persones. Major:83,09% Minor:10,82% Minor de 8:6,09%
+  Recaptació total:15576 euros. Major:93,89% Minor:6,11%
+
+Dia 5:
+Sala 1, Sessió 1:
+  Assistència:386 persones. Major:82,38% Minor:10,10% Minor de 8:7,51%
+  Recaptació:5400 euros. Major:94,22% Minor:5,78%
+Sala 1, Sessió 2:
+  Assistència:375 persones. Major:79,73% Minor:10,13% Minor de 8:10,13%
+  Recaptació:5088 euros. Major:94,03% Minor:5,97%
+Sala 1, Sessió 3:
+  Assistència:325 persones. Major:80,92% Minor:12,31% Minor de 8:6,77%
+  Recaptació:4528 euros. Major:92,93% Minor:7,07%
+Total Sala 1:
+  Assistència total:1086 persones. Major:81,03% Minor:10,77% Minor de 8:8,20%
+  Recaptació total:15016 euros. Major:93,77% Minor:6,23%
+
+Sala 2, Sessió 1:
+  Assistència:364 persones. Major:83,52% Minor:12,64% Minor de 8:3,85%
+  Recaptació:5232 euros. Major:92,97% Minor:7,03%
+Sala 2, Sessió 2:
+  Assistència:364 persones. Major:85,71% Minor:9,62% Minor de 8:4,67%
+  Recaptació:5272 euros. Major:94,69% Minor:5,31%
+Sala 2, Sessió 3:
+  Assistència:331 persones. Major:82,18% Minor:9,37% Minor de 8:8,46%
+  Recaptació:4600 euros. Major:94,61% Minor:5,39%
+Total Sala 2:
+  Assistència total:1059 persones. Major:83,85% Minor:10,58% Minor de 8:5,57%
+  Recaptació total:15104 euros. Major:94,07% Minor:5,93%
+
+Sala 3, Sessió 1:
+  Assistència:378 persones. Major:86,24% Minor:6,35% Minor de 8:7,41%
+  Recaptació:5408 euros. Major:96,45% Minor:3,55%
+Sala 3, Sessió 2:
+  Assistència:385 persones. Major:84,68% Minor:9,35% Minor de 8:5,97%
+  Recaptació:5504 euros. Major:94,77% Minor:5,23%
+Sala 3, Sessió 3:
+  Assistència:385 persones. Major:84,94% Minor:7,27% Minor de 8:7,79%
+  Recaptació:5456 euros. Major:95,89% Minor:4,11%
+Total Sala 3:
+  Assistència total:1148 persones. Major:85,28% Minor:7,67% Minor de 8:7,06%
+  Recaptació total:16368 euros. Major:95,70% Minor:4,30%
+
+Sala 4, Sessió 1:
+  Assistència:374 persones. Major:85,56% Minor:9,36% Minor de 8:5,08%
+  Recaptació:5400 euros. Major:94,81% Minor:5,19%
+Sala 4, Sessió 2:
+  Assistència:393 persones. Major:80,41% Minor:8,91% Minor de 8:10,69%
+  Recaptació:5336 euros. Major:94,75% Minor:5,25%
+Sala 4, Sessió 3:
+  Assistència:334 persones. Major:86,23% Minor:11,08% Minor de 8:2,69%
+  Recaptació:4904 euros. Major:93,96% Minor:6,04%
+Total Sala 4:
+  Assistència total:1101 persones. Major:83,92% Minor:9,72% Minor de 8:6,36%
+  Recaptació total:15640 euros. Major:94,53% Minor:5,47%
+
+Sala 5, Sessió 1:
+  Assistència:378 persones. Major:83,33% Minor:11,11% Minor de 8:5,56%
+  Recaptació:5376 euros. Major:93,75% Minor:6,25%
+Sala 5, Sessió 2:
+  Assistència:384 persones. Major:83,07% Minor:10,94% Minor de 8:5,99%
+  Recaptació:5440 euros. Major:93,82% Minor:6,18%
+Sala 5, Sessió 3:
+  Assistència:338 persones. Major:85,50% Minor:10,36% Minor de 8:4,14%
+  Recaptació:4904 euros. Major:94,29% Minor:5,71%
+Total Sala 5:
+  Assistència total:1100 persones. Major:83,91% Minor:10,82% Minor de 8:5,27%
+  Recaptació total:15720 euros. Major:93,94% Minor:6,06%
+
+Sala 6, Sessió 1:
+  Assistència:342 persones. Major:80,12% Minor:11,99% Minor de 8:7,89%
+  Recaptació:4712 euros. Major:93,04% Minor:6,96%
+Sala 6, Sessió 2:
+  Assistència:361 persones. Major:85,87% Minor:8,03% Minor de 8:6,09%
+  Recaptació:5192 euros. Major:95,53% Minor:4,47%
+Sala 6, Sessió 3:
+  Assistència:360 persones. Major:82,50% Minor:10,28% Minor de 8:7,22%
+  Recaptació:5048 euros. Major:94,14% Minor:5,86%
+Total Sala 6:
+  Assistència total:1063 persones. Major:82,88% Minor:10,07% Minor de 8:7,06%
+  Recaptació total:14952 euros. Major:94,28% Minor:5,72%
+
+Sala 7, Sessió 1:
+  Assistència:346 persones. Major:83,53% Minor:11,27% Minor de 8:5,20%
+  Recaptació:4936 euros. Major:93,68% Minor:6,32%
+Sala 7, Sessió 2:
+  Assistència:380 persones. Major:83,95% Minor:9,47% Minor de 8:6,58%
+  Recaptació:5392 euros. Major:94,66% Minor:5,34%
+Sala 7, Sessió 3:
+  Assistència:381 persones. Major:81,89% Minor:10,24% Minor de 8:7,87%
+  Recaptació:5304 euros. Major:94,12% Minor:5,88%
+Total Sala 7:
+  Assistència total:1107 persones. Major:83,11% Minor:10,30% Minor de 8:6,59%
+  Recaptació total:15632 euros. Major:94,17% Minor:5,83%
+
+Sala 8, Sessió 1:
+  Assistència:363 persones. Major:82,92% Minor:10,74% Minor de 8:6,34%
+  Recaptació:5128 euros. Major:93,92% Minor:6,08%
+Sala 8, Sessió 2:
+  Assistència:346 persones. Major:80,06% Minor:10,69% Minor de 8:9,25%
+  Recaptació:4728 euros. Major:93,74% Minor:6,26%
+Sala 8, Sessió 3:
+  Assistència:397 persones. Major:80,86% Minor:10,83% Minor de 8:8,31%
+  Recaptació:5480 euros. Major:93,72% Minor:6,28%
+Total Sala 8:
+  Assistència total:1106 persones. Major:81,28% Minor:10,76% Minor de 8:7,96%
+  Recaptació total:15336 euros. Major:93,79% Minor:6,21%
+
+Dia 6:
+Sala 1, Sessió 1:
+  Assistència:381 persones. Major:84,25% Minor:9,19% Minor de 8:6,56%
+  Recaptació:5416 euros. Major:94,83% Minor:5,17%
+Sala 1, Sessió 2:
+  Assistència:354 persones. Major:85,59% Minor:6,78% Minor de 8:7,63%
+  Recaptació:5040 euros. Major:96,19% Minor:3,81%
+Sala 1, Sessió 3:
+  Assistència:340 persones. Major:80,59% Minor:13,53% Minor de 8:5,88%
+  Recaptació:4752 euros. Major:92,26% Minor:7,74%
+Sala 1, Sessió 4:
+  Assistència:373 persones. Major:82,57% Minor:9,92% Minor de 8:7,51%
+  Recaptació:5224 euros. Major:94,33% Minor:5,67%
+Sala 1, Sessió 5:
+  Assistència:351 persones. Major:80,34% Minor:11,40% Minor de 8:8,26%
+  Recaptació:4832 euros. Major:93,38% Minor:6,62%
+Total Sala 1:
+  Assistència total:1799 persones. Major:82,71% Minor:10,12% Minor de 8:7,17%
+  Recaptació total:25264 euros. Major:94,24% Minor:5,76%
+
+Sala 2, Sessió 1:
+  Assistència:342 persones. Major:82,75% Minor:11,99% Minor de 8:5,26%
+  Recaptació:4856 euros. Major:93,25% Minor:6,75%
+Sala 2, Sessió 2:
+  Assistència:345 persones. Major:87,83% Minor:6,67% Minor de 8:5,51%
+  Recaptació:5032 euros. Major:96,34% Minor:3,66%
+Sala 2, Sessió 3:
+  Assistència:363 persones. Major:80,44% Minor:12,12% Minor de 8:7,44%
+  Recaptació:5024 euros. Major:92,99% Minor:7,01%
+Sala 2, Sessió 4:
+  Assistència:340 persones. Major:82,35% Minor:10,59% Minor de 8:7,06%
+  Recaptació:4768 euros. Major:93,96% Minor:6,04%
+Sala 2, Sessió 5:
+  Assistència:361 persones. Major:80,89% Minor:11,91% Minor de 8:7,20%
+  Recaptació:5016 euros. Major:93,14% Minor:6,86%
+Total Sala 2:
+  Assistència total:1751 persones. Major:82,81% Minor:10,68% Minor de 8:6,51%
+  Recaptació total:24696 euros. Major:93,94% Minor:6,06%
+
+Sala 3, Sessió 1:
+  Assistència:366 persones. Major:84,15% Minor:9,84% Minor de 8:6,01%
+  Recaptació:5216 euros. Major:94,48% Minor:5,52%
+Sala 3, Sessió 2:
+  Assistència:374 persones. Major:83,16% Minor:9,89% Minor de 8:6,95%
+  Recaptació:5272 euros. Major:94,39% Minor:5,61%
+Sala 3, Sessió 3:
+  Assistència:366 persones. Major:82,79% Minor:7,92% Minor de 8:9,29%
+  Recaptació:5080 euros. Major:95,43% Minor:4,57%
+Sala 3, Sessió 4:
+  Assistència:390 persones. Major:84,87% Minor:10,26% Minor de 8:4,87%
+  Recaptació:5616 euros. Major:94,30% Minor:5,70%
+Sala 3, Sessió 5:
+  Assistència:381 persones. Major:83,20% Minor:12,07% Minor de 8:4,72%
+  Recaptació:5440 euros. Major:93,24% Minor:6,76%
+Total Sala 3:
+  Assistència total:1877 persones. Major:83,64% Minor:10,02% Minor de 8:6,34%
+  Recaptació total:26624 euros. Major:94,35% Minor:5,65%
+
+Sala 4, Sessió 1:
+  Assistència:373 persones. Major:84,18% Minor:9,38% Minor de 8:6,43%
+  Recaptació:5304 euros. Major:94,72% Minor:5,28%
+Sala 4, Sessió 2:
+  Assistència:354 persones. Major:84,46% Minor:9,04% Minor de 8:6,50%
+  Recaptació:5040 euros. Major:94,92% Minor:5,08%
+Sala 4, Sessió 3:
+  Assistència:363 persones. Major:80,99% Minor:9,92% Minor de 8:9,09%
+  Recaptació:4992 euros. Major:94,23% Minor:5,77%
+Sala 4, Sessió 4:
+  Assistència:389 persones. Major:85,60% Minor:9,00% Minor de 8:5,40%
+  Recaptació:5608 euros. Major:95,01% Minor:4,99%
+Sala 4, Sessió 5:
+  Assistència:346 persones. Major:79,77% Minor:12,43% Minor de 8:7,80%
+  Recaptació:4760 euros. Major:92,77% Minor:7,23%
+Total Sala 4:
+  Assistència total:1825 persones. Major:83,07% Minor:9,92% Minor de 8:7,01%
+  Recaptació total:25704 euros. Major:94,37% Minor:5,63%
+
+Sala 5, Sessió 1:
+  Assistència:358 persones. Major:84,92% Minor:6,98% Minor de 8:8,10%
+  Recaptació:5064 euros. Major:96,05% Minor:3,95%
+Sala 5, Sessió 2:
+  Assistència:349 persones. Major:87,11% Minor:7,74% Minor de 8:5,16%
+  Recaptació:5080 euros. Major:95,75% Minor:4,25%
+Sala 5, Sessió 3:
+  Assistència:325 persones. Major:85,23% Minor:8,92% Minor de 8:5,85%
+  Recaptació:4664 euros. Major:95,03% Minor:4,97%
+Sala 5, Sessió 4:
+  Assistència:380 persones. Major:82,37% Minor:12,11% Minor de 8:5,53%
+  Recaptació:5376 euros. Major:93,15% Minor:6,85%
+Sala 5, Sessió 5:
+  Assistència:362 persones. Major:80,94% Minor:11,33% Minor de 8:7,73%
+  Recaptació:5016 euros. Major:93,46% Minor:6,54%
+Total Sala 5:
+  Assistència total:1774 persones. Major:84,05% Minor:9,47% Minor de 8:6,48%
+  Recaptació total:25200 euros. Major:94,67% Minor:5,33%
+
+Sala 6, Sessió 1:
+  Assistència:332 persones. Major:82,83% Minor:9,64% Minor de 8:7,53%
+  Recaptació:4656 euros. Major:94,50% Minor:5,50%
+Sala 6, Sessió 2:
+  Assistència:356 persones. Major:85,96% Minor:9,83% Minor de 8:4,21%
+  Recaptació:5176 euros. Major:94,59% Minor:5,41%
+Sala 6, Sessió 3:
+  Assistència:330 persones. Major:81,21% Minor:11,82% Minor de 8:6,97%
+  Recaptació:4600 euros. Major:93,22% Minor:6,78%
+Sala 6, Sessió 4:
+  Assistència:364 persones. Major:85,71% Minor:9,07% Minor de 8:5,22%
+  Recaptació:5256 euros. Major:94,98% Minor:5,02%
+Sala 6, Sessió 5:
+  Assistència:339 persones. Major:81,42% Minor:11,50% Minor de 8:7,08%
+  Recaptació:4728 euros. Major:93,40% Minor:6,60%
+Total Sala 6:
+  Assistència total:1721 persones. Major:83,50% Minor:10,34% Minor de 8:6,16%
+  Recaptació total:24416 euros. Major:94,17% Minor:5,83%
+
+Sala 7, Sessió 1:
+  Assistència:320 persones. Major:85,63% Minor:5,31% Minor de 8:9,06%
+  Recaptació:4520 euros. Major:96,99% Minor:3,01%
+Sala 7, Sessió 2:
+  Assistència:360 persones. Major:85,00% Minor:10,28% Minor de 8:4,72%
+  Recaptació:5192 euros. Major:94,30% Minor:5,70%
+Sala 7, Sessió 3:
+  Assistència:337 persones. Major:82,49% Minor:11,28% Minor de 8:6,23%
+  Recaptació:4752 euros. Major:93,60% Minor:6,40%
+Sala 7, Sessió 4:
+  Assistència:387 persones. Major:81,65% Minor:11,11% Minor de 8:7,24%
+  Recaptació:5400 euros. Major:93,63% Minor:6,37%
+Sala 7, Sessió 5:
+  Assistència:371 persones. Major:82,48% Minor:9,16% Minor de 8:8,36%
+  Recaptació:5168 euros. Major:94,74% Minor:5,26%
+Total Sala 7:
+  Assistència total:1775 persones. Major:83,38% Minor:9,52% Minor de 8:7,10%
+  Recaptació total:25032 euros. Major:94,60% Minor:5,40%
+
+Sala 8, Sessió 1:
+  Assistència:372 persones. Major:80,11% Minor:11,29% Minor de 8:8,60%
+  Recaptació:5104 euros. Major:93,42% Minor:6,58%
+Sala 8, Sessió 2:
+  Assistència:390 persones. Major:85,64% Minor:10,00% Minor de 8:4,36%
+  Recaptació:5656 euros. Major:94,48% Minor:5,52%
+Sala 8, Sessió 3:
+  Assistència:372 persones. Major:81,45% Minor:10,22% Minor de 8:8,33%
+  Recaptació:5152 euros. Major:94,10% Minor:5,90%
+Sala 8, Sessió 4:
+  Assistència:382 persones. Major:81,68% Minor:10,99% Minor de 8:7,33%
+  Recaptació:5328 euros. Major:93,69% Minor:6,31%
+Sala 8, Sessió 5:
+  Assistència:327 persones. Major:84,40% Minor:7,65% Minor de 8:7,95%
+  Recaptació:4616 euros. Major:95,67% Minor:4,33%
+Total Sala 8:
+  Assistència total:1843 persones. Major:82,64% Minor:10,09% Minor de 8:7,27%
+  Recaptació total:25856 euros. Major:94,25% Minor:5,75%
+
+Dia 7:
+Sala 1, Sessió 1:
+  Assistència:335 persones. Major:83,58% Minor:11,34% Minor de 8:5,07%
+  Recaptació:4784 euros. Major:93,65% Minor:6,35%
+Sala 1, Sessió 2:
+  Assistència:375 persones. Major:80,00% Minor:9,60% Minor de 8:10,40%
+  Recaptació:5088 euros. Major:94,34% Minor:5,66%
+Sala 1, Sessió 3:
+  Assistència:376 persones. Major:82,45% Minor:9,84% Minor de 8:7,71%
+  Recaptació:5256 euros. Major:94,37% Minor:5,63%
+Sala 1, Sessió 4:
+  Assistència:353 persones. Major:84,14% Minor:8,78% Minor de 8:7,08%
+  Recaptació:5000 euros. Major:95,04% Minor:4,96%
+Sala 1, Sessió 5:
+  Assistència:351 persones. Major:81,20% Minor:10,26% Minor de 8:8,55%
+  Recaptació:4848 euros. Major:94,06% Minor:5,94%
+Total Sala 1:
+  Assistència total:1790 persones. Major:82,23% Minor:9,94% Minor de 8:7,82%
+  Recaptació total:24976 euros. Major:94,30% Minor:5,70%
+
+Sala 2, Sessió 1:
+  Assistència:393 persones. Major:85,24% Minor:8,40% Minor de 8:6,36%
+  Recaptació:5624 euros. Major:95,31% Minor:4,69%
+Sala 2, Sessió 2:
+  Assistència:377 persones. Major:81,96% Minor:14,06% Minor de 8:3,98%
+  Recaptació:5368 euros. Major:92,10% Minor:7,90%
+Sala 2, Sessió 3:
+  Assistència:357 persones. Major:79,55% Minor:13,17% Minor de 8:7,28%
+  Recaptació:4920 euros. Major:92,36% Minor:7,64%
+Sala 2, Sessió 4:
+  Assistència:399 persones. Major:80,45% Minor:11,78% Minor de 8:7,77%
+  Recaptació:5512 euros. Major:93,18% Minor:6,82%
+Sala 2, Sessió 5:
+  Assistència:327 persones. Major:83,49% Minor:8,26% Minor de 8:8,26%
+  Recaptació:4584 euros. Major:95,29% Minor:4,71%
+Total Sala 2:
+  Assistència total:1853 persones. Major:82,14% Minor:11,17% Minor de 8:6,69%
+  Recaptació total:26008 euros. Major:93,63% Minor:6,37%
+
+Sala 3, Sessió 1:
+  Assistència:379 persones. Major:85,22% Minor:8,71% Minor de 8:6,07%
+  Recaptació:5432 euros. Major:95,14% Minor:4,86%
+Sala 3, Sessió 2:
+  Assistència:373 persones. Major:82,04% Minor:9,12% Minor de 8:8,85%
+  Recaptació:5168 euros. Major:94,74% Minor:5,26%
+Sala 3, Sessió 3:
+  Assistència:378 persones. Major:83,07% Minor:12,17% Minor de 8:4,76%
+  Recaptació:5392 euros. Major:93,18% Minor:6,82%
+Sala 3, Sessió 4:
+  Assistència:397 persones. Major:81,36% Minor:11,84% Minor de 8:6,80%
+  Recaptació:5544 euros. Major:93,22% Minor:6,78%
+Sala 3, Sessió 5:
+  Assistència:336 persones. Major:81,25% Minor:11,90% Minor de 8:6,85%
+  Recaptació:4688 euros. Major:93,17% Minor:6,83%
+Total Sala 3:
+  Assistència total:1863 persones. Major:82,61% Minor:10,74% Minor de 8:6,66%
+  Recaptació total:26224 euros. Major:93,90% Minor:6,10%
+
+Sala 4, Sessió 1:
+  Assistència:323 persones. Major:82,35% Minor:11,76% Minor de 8:5,88%
+  Recaptació:4560 euros. Major:93,33% Minor:6,67%
+Sala 4, Sessió 2:
+  Assistència:373 persones. Major:79,89% Minor:11,53% Minor de 8:8,58%
+  Recaptació:5112 euros. Major:93,27% Minor:6,73%
+Sala 4, Sessió 3:
+  Assistència:358 persones. Major:82,96% Minor:10,61% Minor de 8:6,42%
+  Recaptació:5056 euros. Major:93,99% Minor:6,01%
+Sala 4, Sessió 4:
+  Assistència:328 persones. Major:85,37% Minor:7,93% Minor de 8:6,71%
+  Recaptació:4688 euros. Major:95,56% Minor:4,44%
+Sala 4, Sessió 5:
+  Assistència:368 persones. Major:81,79% Minor:10,60% Minor de 8:7,61%
+  Recaptació:5128 euros. Major:93,92% Minor:6,08%
+Total Sala 4:
+  Assistència total:1750 persones. Major:82,40% Minor:10,51% Minor de 8:7,09%
+  Recaptació total:24544 euros. Major:94,00% Minor:6,00%
+
+Sala 5, Sessió 1:
+  Assistència:334 persones. Major:85,03% Minor:9,58% Minor de 8:5,39%
+  Recaptació:4800 euros. Major:94,67% Minor:5,33%
+Sala 5, Sessió 2:
+  Assistència:387 persones. Major:79,07% Minor:12,40% Minor de 8:8,53%
+  Recaptació:5280 euros. Major:92,73% Minor:7,27%
+Sala 5, Sessió 3:
+  Assistència:378 persones. Major:82,28% Minor:12,96% Minor de 8:4,76%
+  Recaptació:5368 euros. Major:92,70% Minor:7,30%
+Sala 5, Sessió 4:
+  Assistència:387 persones. Major:81,91% Minor:10,08% Minor de 8:8,01%
+  Recaptació:5384 euros. Major:94,21% Minor:5,79%
+Sala 5, Sessió 5:
+  Assistència:323 persones. Major:84,21% Minor:8,98% Minor de 8:6,81%
+  Recaptació:4584 euros. Major:94,94% Minor:5,06%
+Total Sala 5:
+  Assistència total:1809 persones. Major:82,37% Minor:10,89% Minor de 8:6,74%
+  Recaptació total:25416 euros. Major:93,80% Minor:6,20%
+
+Sala 6, Sessió 1:
+  Assistència:343 persones. Major:85,13% Minor:10,20% Minor de 8:4,66%
+  Recaptació:4952 euros. Major:94,35% Minor:5,65%
+Sala 6, Sessió 2:
+  Assistència:371 persones. Major:81,40% Minor:10,51% Minor de 8:8,09%
+  Recaptació:5144 euros. Major:93,93% Minor:6,07%
+Sala 6, Sessió 3:
+  Assistència:321 persones. Major:85,67% Minor:9,03% Minor de 8:5,30%
+  Recaptació:4632 euros. Major:94,99% Minor:5,01%
+Sala 6, Sessió 4:
+  Assistència:337 persones. Major:84,57% Minor:8,61% Minor de 8:6,82%
+  Recaptació:4792 euros. Major:95,16% Minor:4,84%
+Sala 6, Sessió 5:
+  Assistència:396 persones. Major:83,33% Minor:11,36% Minor de 8:5,30%
+  Recaptació:5640 euros. Major:93,62% Minor:6,38%
+Total Sala 6:
+  Assistència total:1768 persones. Major:83,94% Minor:10,01% Minor de 8:6,05%
+  Recaptació total:25160 euros. Major:94,37% Minor:5,63%
+
+Sala 7, Sessió 1:
+  Assistència:370 persones. Major:80,00% Minor:12,70% Minor de 8:7,30%
+  Recaptació:5112 euros. Major:92,64% Minor:7,36%
+Sala 7, Sessió 2:
+  Assistència:342 persones. Major:83,33% Minor:9,36% Minor de 8:7,31%
+  Recaptació:4816 euros. Major:94,68% Minor:5,32%
+Sala 7, Sessió 3:
+  Assistència:347 persones. Major:84,15% Minor:10,09% Minor de 8:5,76%
+  Recaptació:4952 euros. Major:94,35% Minor:5,65%
+Sala 7, Sessió 4:
+  Assistència:370 persones. Major:81,62% Minor:11,08% Minor de 8:7,30%
+  Recaptació:5160 euros. Major:93,64% Minor:6,36%
+Sala 7, Sessió 5:
+  Assistència:384 persones. Major:81,25% Minor:10,42% Minor de 8:8,33%
+  Recaptació:5312 euros. Major:93,98% Minor:6,02%
+Total Sala 7:
+  Assistència total:1813 persones. Major:82,02% Minor:10,76% Minor de 8:7,23%
+  Recaptació total:25352 euros. Major:93,85% Minor:6,15%
+
+Sala 8, Sessió 1:
+  Assistència:380 persones. Major:82,63% Minor:10,00% Minor de 8:7,37%
+  Recaptació:5328 euros. Major:94,29% Minor:5,71%
+Sala 8, Sessió 2:
+  Assistència:382 persones. Major:82,20% Minor:8,90% Minor de 8:8,90%
+  Recaptació:5296 euros. Major:94,86% Minor:5,14%
+Sala 8, Sessió 3:
+  Assistència:377 persones. Major:81,96% Minor:11,94% Minor de 8:6,10%
+  Recaptació:5304 euros. Major:93,21% Minor:6,79%
+Sala 8, Sessió 4:
+  Assistència:351 persones. Major:79,49% Minor:13,96% Minor de 8:6,55%
+  Recaptació:4856 euros. Major:91,93% Minor:8,07%
+Sala 8, Sessió 5:
+  Assistència:356 persones. Major:83,71% Minor:7,87% Minor de 8:8,43%
+  Recaptació:4992 euros. Major:95,51% Minor:4,49%
+Total Sala 8:
+  Assistència total:1846 persones. Major:82,02% Minor:10,51% Minor de 8:7,48%
+  Recaptació total:25776 euros. Major:93,98% Minor:6,02%
+
+Dia 8:
+Sala 1, Sessió 1:
+  Assistència:336 persones. Major:83,33% Minor:11,01% Minor de 8:5,65%
+  Recaptació:4776 euros. Major:93,80% Minor:6,20%
+Sala 1, Sessió 2:
+  Assistència:371 persones. Major:83,83% Minor:10,78% Minor de 8:5,39%
+  Recaptació:5296 euros. Major:93,96% Minor:6,04%
+Sala 1, Sessió 3:
+  Assistència:327 persones. Major:84,71% Minor:7,03% Minor de 8:8,26%
+  Recaptació:4616 euros. Major:96,01% Minor:3,99%
+Total Sala 1:
+  Assistència total:1034 persones. Major:83,95% Minor:9,67% Minor de 8:6,38%
+  Recaptació total:14688 euros. Major:94,55% Minor:5,45%
+
+Sala 2, Sessió 1:
+  Assistència:331 persones. Major:82,48% Minor:9,97% Minor de 8:7,55%
+  Recaptació:4632 euros. Major:94,30% Minor:5,70%
+Sala 2, Sessió 2:
+  Assistència:324 persones. Major:84,26% Minor:8,33% Minor de 8:7,41%
+  Recaptació:4584 euros. Major:95,29% Minor:4,71%
+Sala 2, Sessió 3:
+  Assistència:374 persones. Major:86,90% Minor:9,63% Minor de 8:3,48%
+  Recaptació:5488 euros. Major:94,75% Minor:5,25%
+Total Sala 2:
+  Assistència total:1029 persones. Major:84,65% Minor:9,33% Minor de 8:6,03%
+  Recaptació total:14704 euros. Major:94,78% Minor:5,22%
+
+Sala 3, Sessió 1:
+  Assistència:321 persones. Major:81,93% Minor:10,90% Minor de 8:7,17%
+  Recaptació:4488 euros. Major:93,76% Minor:6,24%
+Sala 3, Sessió 2:
+  Assistència:387 persones. Major:83,98% Minor:10,85% Minor de 8:5,17%
+  Recaptació:5536 euros. Major:93,93% Minor:6,07%
+Sala 3, Sessió 3:
+  Assistència:360 persones. Major:84,17% Minor:9,44% Minor de 8:6,39%
+  Recaptació:5120 euros. Major:94,69% Minor:5,31%
+Total Sala 3:
+  Assistència total:1068 persones. Major:83,43% Minor:10,39% Minor de 8:6,18%
+  Recaptació total:15144 euros. Major:94,14% Minor:5,86%
+
+Sala 4, Sessió 1:
+  Assistència:342 persones. Major:82,75% Minor:10,23% Minor de 8:7,02%
+  Recaptació:4808 euros. Major:94,18% Minor:5,82%
+Sala 4, Sessió 2:
+  Assistència:324 persones. Major:83,33% Minor:8,64% Minor de 8:8,02%
+  Recaptació:4544 euros. Major:95,07% Minor:4,93%
+Sala 4, Sessió 3:
+  Assistència:386 persones. Major:82,90% Minor:10,62% Minor de 8:6,48%
+  Recaptació:5448 euros. Major:93,98% Minor:6,02%
+Total Sala 4:
+  Assistència total:1052 persones. Major:82,98% Minor:9,89% Minor de 8:7,13%
+  Recaptació total:14800 euros. Major:94,38% Minor:5,62%
+
+Sala 5, Sessió 1:
+  Assistència:380 persones. Major:87,11% Minor:7,11% Minor de 8:5,79%
+  Recaptació:5512 euros. Major:96,08% Minor:3,92%
+Sala 5, Sessió 2:
+  Assistència:387 persones. Major:83,20% Minor:11,37% Minor de 8:5,43%
+  Recaptació:5504 euros. Major:93,60% Minor:6,40%
+Sala 5, Sessió 3:
+  Assistència:398 persones. Major:82,16% Minor:11,81% Minor de 8:6,03%
+  Recaptació:5608 euros. Major:93,30% Minor:6,70%
+Total Sala 5:
+  Assistència total:1165 persones. Major:84,12% Minor:10,13% Minor de 8:5,75%
+  Recaptació total:16624 euros. Major:94,32% Minor:5,68%
+
+Sala 6, Sessió 1:
+  Assistència:329 persones. Major:86,93% Minor:8,81% Minor de 8:4,26%
+  Recaptació:4808 euros. Major:95,17% Minor:4,83%
+Sala 6, Sessió 2:
+  Assistència:383 persones. Major:82,77% Minor:12,53% Minor de 8:4,70%
+  Recaptació:5456 euros. Major:92,96% Minor:7,04%
+Sala 6, Sessió 3:
+  Assistència:327 persones. Major:86,54% Minor:6,42% Minor de 8:7,03%
+  Recaptació:4696 euros. Major:96,42% Minor:3,58%
+Total Sala 6:
+  Assistència total:1039 persones. Major:85,27% Minor:9,43% Minor de 8:5,29%
+  Recaptació total:14960 euros. Major:94,76% Minor:5,24%
+
+Sala 7, Sessió 1:
+  Assistència:360 persones. Major:81,67% Minor:8,89% Minor de 8:9,44%
+  Recaptació:4960 euros. Major:94,84% Minor:5,16%
+Sala 7, Sessió 2:
+  Assistència:327 persones. Major:84,40% Minor:9,17% Minor de 8:6,42%
+  Recaptació:4656 euros. Major:94,85% Minor:5,15%
+Sala 7, Sessió 3:
+  Assistència:339 persones. Major:82,60% Minor:11,50% Minor de 8:5,90%
+  Recaptació:4792 euros. Major:93,49% Minor:6,51%
+Total Sala 7:
+  Assistència total:1026 persones. Major:82,85% Minor:9,84% Minor de 8:7,31%
+  Recaptació total:14408 euros. Major:94,39% Minor:5,61%
+
+Sala 8, Sessió 1:
+  Assistència:381 persones. Major:83,99% Minor:7,61% Minor de 8:8,40%
+  Recaptació:5352 euros. Major:95,67% Minor:4,33%
+Sala 8, Sessió 2:
+  Assistència:328 persones. Major:81,71% Minor:8,23% Minor de 8:10,06%
+  Recaptació:4504 euros. Major:95,20% Minor:4,80%
+Sala 8, Sessió 3:
+  Assistència:322 persones. Major:84,16% Minor:9,63% Minor de 8:6,21%
+  Recaptació:4584 euros. Major:94,59% Minor:5,41%
+Total Sala 8:
+  Assistència total:1031 persones. Major:83,32% Minor:8,44% Minor de 8:8,24%
+  Recaptació total:14440 euros. Major:95,18% Minor:4,82%
+
+Dia 9:
+Sala 1, Sessió 1:
+  Assistència:330 persones. Major:83,64% Minor:10,00% Minor de 8:6,36%
+  Recaptació:4680 euros. Major:94,36% Minor:5,64%
+Sala 1, Sessió 2:
+  Assistència:364 persones. Major:84,34% Minor:7,42% Minor de 8:8,24%
+  Recaptació:5128 euros. Major:95,79% Minor:4,21%
+Sala 1, Sessió 3:
+  Assistència:341 persones. Major:86,22% Minor:6,45% Minor de 8:7,33%
+  Recaptació:4880 euros. Major:96,39% Minor:3,61%
+Total Sala 1:
+  Assistència total:1035 persones. Major:84,73% Minor:7,92% Minor de 8:7,34%
+  Recaptació total:14688 euros. Major:95,53% Minor:4,47%
+
+Sala 2, Sessió 1:
+  Assistència:365 persones. Major:81,64% Minor:11,51% Minor de 8:6,85%
+  Recaptació:5104 euros. Major:93,42% Minor:6,58%
+Sala 2, Sessió 2:
+  Assistència:396 persones. Major:85,10% Minor:11,11% Minor de 8:3,79%
+  Recaptació:5744 euros. Major:93,87% Minor:6,13%
+Sala 2, Sessió 3:
+  Assistència:396 persones. Major:82,58% Minor:9,60% Minor de 8:7,83%
+  Recaptació:5536 euros. Major:94,51% Minor:5,49%
+Total Sala 2:
+  Assistència total:1157 persones. Major:83,15% Minor:10,72% Minor de 8:6,14%
+  Recaptació total:16384 euros. Major:93,95% Minor:6,05%
+
+Sala 3, Sessió 1:
+  Assistència:337 persones. Major:84,87% Minor:7,72% Minor de 8:7,42%
+  Recaptació:4784 euros. Major:95,65% Minor:4,35%
+Sala 3, Sessió 2:
+  Assistència:382 persones. Major:81,15% Minor:12,30% Minor de 8:6,54%
+  Recaptació:5336 euros. Major:92,95% Minor:7,05%
+Sala 3, Sessió 3:
+  Assistència:392 persones. Major:81,12% Minor:12,24% Minor de 8:6,63%
+  Recaptació:5472 euros. Major:92,98% Minor:7,02%
+Total Sala 3:
+  Assistència total:1111 persones. Major:82,27% Minor:10,89% Minor de 8:6,84%
+  Recaptació total:15592 euros. Major:93,79% Minor:6,21%
+
+Sala 4, Sessió 1:
+  Assistència:332 persones. Major:85,84% Minor:6,02% Minor de 8:8,13%
+  Recaptació:4720 euros. Major:96,61% Minor:3,39%
+Sala 4, Sessió 2:
+  Assistència:390 persones. Major:83,85% Minor:10,51% Minor de 8:5,64%
+  Recaptació:5560 euros. Major:94,10% Minor:5,90%
+Sala 4, Sessió 3:
+  Assistència:394 persones. Major:84,01% Minor:9,90% Minor de 8:6,09%
+  Recaptació:5608 euros. Major:94,44% Minor:5,56%
+Total Sala 4:
+  Assistència total:1116 persones. Major:84,50% Minor:8,96% Minor de 8:6,54%
+  Recaptació total:15888 euros. Major:94,96% Minor:5,04%
+
+Sala 5, Sessió 1:
+  Assistència:358 persones. Major:81,56% Minor:10,34% Minor de 8:8,10%
+  Recaptació:4968 euros. Major:94,04% Minor:5,96%
+Sala 5, Sessió 2:
+  Assistència:377 persones. Major:82,49% Minor:12,47% Minor de 8:5,04%
+  Recaptació:5352 euros. Major:92,97% Minor:7,03%
+Sala 5, Sessió 3:
+  Assistència:353 persones. Major:83,57% Minor:9,92% Minor de 8:6,52%
+  Recaptació:5000 euros. Major:94,40% Minor:5,60%
+Total Sala 5:
+  Assistència total:1088 persones. Major:82,54% Minor:10,94% Minor de 8:6,53%
+  Recaptació total:15320 euros. Major:93,79% Minor:6,21%
+
+Sala 6, Sessió 1:
+  Assistència:353 persones. Major:84,99% Minor:11,90% Minor de 8:3,12%
+  Recaptació:5136 euros. Major:93,46% Minor:6,54%
+Sala 6, Sessió 2:
+  Assistència:365 persones. Major:84,66% Minor:7,95% Minor de 8:7,40%
+  Recaptació:5176 euros. Major:95,52% Minor:4,48%
+Sala 6, Sessió 3:
+  Assistència:355 persones. Major:80,85% Minor:11,27% Minor de 8:7,89%
+  Recaptació:4912 euros. Major:93,49% Minor:6,51%
+Total Sala 6:
+  Assistència total:1073 persones. Major:83,50% Minor:10,34% Minor de 8:6,15%
+  Recaptació total:15224 euros. Major:94,17% Minor:5,83%
+
+Sala 7, Sessió 1:
+  Assistència:328 persones. Major:79,27% Minor:10,98% Minor de 8:9,76%
+  Recaptació:4448 euros. Major:93,53% Minor:6,47%
+Sala 7, Sessió 2:
+  Assistència:386 persones. Major:80,31% Minor:11,40% Minor de 8:8,29%
+  Recaptació:5312 euros. Major:93,37% Minor:6,63%
+Sala 7, Sessió 3:
+  Assistència:388 persones. Major:83,76% Minor:8,76% Minor de 8:7,47%
+  Recaptació:5472 euros. Major:95,03% Minor:4,97%
+Total Sala 7:
+  Assistència total:1102 persones. Major:81,22% Minor:10,34% Minor de 8:8,44%
+  Recaptació total:15232 euros. Major:94,01% Minor:5,99%
+
+Sala 8, Sessió 1:
+  Assistència:348 persones. Major:83,62% Minor:10,63% Minor de 8:5,75%
+  Recaptació:4952 euros. Major:94,02% Minor:5,98%
+Sala 8, Sessió 2:
+  Assistència:357 persones. Major:80,95% Minor:12,32% Minor de 8:6,72%
+  Recaptació:4976 euros. Major:92,93% Minor:7,07%
+Sala 8, Sessió 3:
+  Assistència:344 persones. Major:83,43% Minor:9,01% Minor de 8:7,56%
+  Recaptació:4840 euros. Major:94,88% Minor:5,12%
+Total Sala 8:
+  Assistència total:1049 persones. Major:82,65% Minor:10,68% Minor de 8:6,67%
+  Recaptació total:14768 euros. Major:93,93% Minor:6,07%
+
+Dia 10:
+Sala 1, Sessió 1:
+  Assistència:373 persones. Major:84,45% Minor:8,04% Minor de 8:7,51%
+  Recaptació:5280 euros. Major:95,45% Minor:4,55%
+Sala 1, Sessió 2:
+  Assistència:329 persones. Major:85,11% Minor:9,42% Minor de 8:5,47%
+  Recaptació:4728 euros. Major:94,75% Minor:5,25%
+Sala 1, Sessió 3:
+  Assistència:339 persones. Major:79,35% Minor:10,91% Minor de 8:9,73%
+  Recaptació:4600 euros. Major:93,57% Minor:6,43%
+Total Sala 1:
+  Assistència total:1041 persones. Major:83,00% Minor:9,41% Minor de 8:7,59%
+  Recaptació total:14608 euros. Major:94,63% Minor:5,37%
+
+Sala 2, Sessió 1:
+  Assistència:396 persones. Major:83,33% Minor:9,85% Minor de 8:6,82%
+  Recaptació:5592 euros. Major:94,42% Minor:5,58%
+Sala 2, Sessió 2:
+  Assistència:365 persones. Major:83,01% Minor:10,68% Minor de 8:6,30%
+  Recaptació:5160 euros. Major:93,95% Minor:6,05%
+Sala 2, Sessió 3:
+  Assistència:398 persones. Major:81,66% Minor:9,55% Minor de 8:8,79%
+  Recaptació:5504 euros. Major:94,48% Minor:5,52%
+Total Sala 2:
+  Assistència total:1159 persones. Major:82,66% Minor:10,01% Minor de 8:7,33%
+  Recaptació total:16256 euros. Major:94,29% Minor:5,71%
+
+Sala 3, Sessió 1:
+  Assistència:382 persones. Major:83,77% Minor:9,95% Minor de 8:6,28%
+  Recaptació:5424 euros. Major:94,40% Minor:5,60%
+Sala 3, Sessió 2:
+  Assistència:353 persones. Major:84,14% Minor:10,48% Minor de 8:5,38%
+  Recaptació:5048 euros. Major:94,14% Minor:5,86%
+Sala 3, Sessió 3:
+  Assistència:355 persones. Major:85,07% Minor:10,70% Minor de 8:4,23%
+  Recaptació:5136 euros. Major:94,08% Minor:5,92%
+Total Sala 3:
+  Assistència total:1090 persones. Major:84,31% Minor:10,37% Minor de 8:5,32%
+  Recaptació total:15608 euros. Major:94,21% Minor:5,79%
+
+Sala 4, Sessió 1:
+  Assistència:362 persones. Major:79,83% Minor:11,88% Minor de 8:8,29%
+  Recaptació:4968 euros. Major:93,08% Minor:6,92%
+Sala 4, Sessió 2:
+  Assistència:353 persones. Major:81,59% Minor:13,31% Minor de 8:5,10%
+  Recaptació:4984 euros. Major:92,46% Minor:7,54%
+Sala 4, Sessió 3:
+  Assistència:378 persones. Major:84,39% Minor:8,99% Minor de 8:6,61%
+  Recaptació:5376 euros. Major:94,94% Minor:5,06%
+Total Sala 4:
+  Assistència total:1093 persones. Major:81,98% Minor:11,34% Minor de 8:6,68%
+  Recaptació total:15328 euros. Major:93,53% Minor:6,47%
+
+Sala 5, Sessió 1:
+  Assistència:360 persones. Major:82,50% Minor:10,56% Minor de 8:6,94%
+  Recaptació:5056 euros. Major:93,99% Minor:6,01%
+Sala 5, Sessió 2:
+  Assistència:323 persones. Major:84,21% Minor:11,46% Minor de 8:4,33%
+  Recaptació:4648 euros. Major:93,63% Minor:6,37%
+Sala 5, Sessió 3:
+  Assistència:379 persones. Major:82,85% Minor:9,76% Minor de 8:7,39%
+  Recaptació:5320 euros. Major:94,44% Minor:5,56%
+Total Sala 5:
+  Assistència total:1062 persones. Major:83,15% Minor:10,55% Minor de 8:6,31%
+  Recaptació total:15024 euros. Major:94,04% Minor:5,96%
+
+Sala 6, Sessió 1:
+  Assistència:357 persones. Major:80,95% Minor:12,04% Minor de 8:7,00%
+  Recaptació:4968 euros. Major:93,08% Minor:6,92%
+Sala 6, Sessió 2:
+  Assistència:373 persones. Major:84,45% Minor:9,12% Minor de 8:6,43%
+  Recaptació:5312 euros. Major:94,88% Minor:5,12%
+Sala 6, Sessió 3:
+  Assistència:344 persones. Major:81,98% Minor:11,34% Minor de 8:6,69%
+  Recaptació:4824 euros. Major:93,53% Minor:6,47%
+Total Sala 6:
+  Assistència total:1074 persones. Major:82,50% Minor:10,80% Minor de 8:6,70%
+  Recaptació total:15104 euros. Major:93,86% Minor:6,14%
+
+Sala 7, Sessió 1:
+  Assistència:332 persones. Major:81,93% Minor:11,14% Minor de 8:6,93%
+  Recaptació:4648 euros. Major:93,63% Minor:6,37%
+Sala 7, Sessió 2:
+  Assistència:338 persones. Major:84,91% Minor:10,06% Minor de 8:5,03%
+  Recaptació:4864 euros. Major:94,41% Minor:5,59%
+Sala 7, Sessió 3:
+  Assistència:334 persones. Major:84,13% Minor:10,78% Minor de 8:5,09%
+  Recaptació:4784 euros. Major:93,98% Minor:6,02%
+Total Sala 7:
+  Assistència total:1004 persones. Major:83,67% Minor:10,66% Minor de 8:5,68%
+  Recaptació total:14296 euros. Major:94,01% Minor:5,99%
+
+Sala 8, Sessió 1:
+  Assistència:361 persones. Major:80,33% Minor:13,57% Minor de 8:6,09%
+  Recaptació:5032 euros. Major:92,21% Minor:7,79%
+Sala 8, Sessió 2:
+  Assistència:342 persones. Major:80,12% Minor:9,65% Minor de 8:10,23%
+  Recaptació:4648 euros. Major:94,32% Minor:5,68%
+Sala 8, Sessió 3:
+  Assistència:357 persones. Major:81,51% Minor:12,04% Minor de 8:6,44%
+  Recaptació:5000 euros. Major:93,12% Minor:6,88%
+Total Sala 8:
+  Assistència total:1060 persones. Major:80,66% Minor:11,79% Minor de 8:7,55%
+  Recaptació total:14680 euros. Major:93,19% Minor:6,81%
+
+Dia 11:
+Sala 1, Sessió 1:
+  Assistència:324 persones. Major:83,95% Minor:10,19% Minor de 8:5,86%
+  Recaptació:4616 euros. Major:94,28% Minor:5,72%
+Sala 1, Sessió 2:
+  Assistència:367 persones. Major:84,74% Minor:10,63% Minor de 8:4,63%
+  Recaptació:5288 euros. Major:94,10% Minor:5,90%
+Sala 1, Sessió 3:
+  Assistència:339 persones. Major:82,89% Minor:10,32% Minor de 8:6,78%
+  Recaptació:4776 euros. Major:94,14% Minor:5,86%
+Total Sala 1:
+  Assistència total:1030 persones. Major:83,88% Minor:10,39% Minor de 8:5,73%
+  Recaptació total:14680 euros. Major:94,17% Minor:5,83%
+
+Sala 2, Sessió 1:
+  Assistència:335 persones. Major:83,28% Minor:9,25% Minor de 8:7,46%
+  Recaptació:4712 euros. Major:94,74% Minor:5,26%
+Sala 2, Sessió 2:
+  Assistència:331 persones. Major:86,40% Minor:7,25% Minor de 8:6,34%
+  Recaptació:4768 euros. Major:95,97% Minor:4,03%
+Sala 2, Sessió 3:
+  Assistència:383 persones. Major:80,68% Minor:12,01% Minor de 8:7,31%
+  Recaptació:5312 euros. Major:93,07% Minor:6,93%
+Total Sala 2:
+  Assistència total:1049 persones. Major:83,32% Minor:9,63% Minor de 8:7,05%
+  Recaptació total:14792 euros. Major:94,54% Minor:5,46%
+
+Sala 3, Sessió 1:
+  Assistència:396 persones. Major:81,06% Minor:10,61% Minor de 8:8,33%
+  Recaptació:5472 euros. Major:93,86% Minor:6,14%
+Sala 3, Sessió 2:
+  Assistència:326 persones. Major:86,20% Minor:11,66% Minor de 8:2,15%
+  Recaptació:4800 euros. Major:93,67% Minor:6,33%
+Sala 3, Sessió 3:
+  Assistència:370 persones. Major:82,43% Minor:11,62% Minor de 8:5,95%
+  Recaptació:5224 euros. Major:93,42% Minor:6,58%
+Total Sala 3:
+  Assistència total:1092 persones. Major:83,06% Minor:11,26% Minor de 8:5,68%
+  Recaptació total:15496 euros. Major:93,65% Minor:6,35%
+
+Sala 4, Sessió 1:
+  Assistència:380 persones. Major:84,74% Minor:8,95% Minor de 8:6,32%
+  Recaptació:5424 euros. Major:94,99% Minor:5,01%
+Sala 4, Sessió 2:
+  Assistència:332 persones. Major:87,05% Minor:10,24% Minor de 8:2,71%
+  Recaptació:4896 euros. Major:94,44% Minor:5,56%
+Sala 4, Sessió 3:
+  Assistència:362 persones. Major:83,15% Minor:11,33% Minor de 8:5,52%
+  Recaptació:5144 euros. Major:93,62% Minor:6,38%
+Total Sala 4:
+  Assistència total:1074 persones. Major:84,92% Minor:10,15% Minor de 8:4,93%
+  Recaptació total:15464 euros. Major:94,36% Minor:5,64%
+
+Sala 5, Sessió 1:
+  Assistència:350 persones. Major:85,14% Minor:10,86% Minor de 8:4,00%
+  Recaptació:5072 euros. Major:94,01% Minor:5,99%
+Sala 5, Sessió 2:
+  Assistència:399 persones. Major:87,47% Minor:9,27% Minor de 8:3,26%
+  Recaptació:5880 euros. Major:94,97% Minor:5,03%
+Sala 5, Sessió 3:
+  Assistència:321 persones. Major:81,31% Minor:10,90% Minor de 8:7,79%
+  Recaptació:4456 euros. Major:93,72% Minor:6,28%
+Total Sala 5:
+  Assistència total:1070 persones. Major:84,86% Minor:10,28% Minor de 8:4,86%
+  Recaptació total:15408 euros. Major:94,29% Minor:5,71%
+
+Sala 6, Sessió 1:
+  Assistència:385 persones. Major:82,08% Minor:10,13% Minor de 8:7,79%
+  Recaptació:5368 euros. Major:94,19% Minor:5,81%
+Sala 6, Sessió 2:
+  Assistència:336 persones. Major:86,61% Minor:7,14% Minor de 8:6,25%
+  Recaptació:4848 euros. Major:96,04% Minor:3,96%
+Sala 6, Sessió 3:
+  Assistència:373 persones. Major:86,06% Minor:9,65% Minor de 8:4,29%
+  Recaptació:5424 euros. Major:94,69% Minor:5,31%
+Total Sala 6:
+  Assistència total:1094 persones. Major:84,83% Minor:9,05% Minor de 8:6,12%
+  Recaptació total:15640 euros. Major:94,94% Minor:5,06%
+
+Sala 7, Sessió 1:
+  Assistència:366 persones. Major:85,79% Minor:11,20% Minor de 8:3,01%
+  Recaptació:5352 euros. Major:93,87% Minor:6,13%
+Sala 7, Sessió 2:
+  Assistència:398 persones. Major:81,16% Minor:10,55% Minor de 8:8,29%
+  Recaptació:5504 euros. Major:93,90% Minor:6,10%
+Sala 7, Sessió 3:
+  Assistència:345 persones. Major:84,64% Minor:9,57% Minor de 8:5,80%
+  Recaptació:4936 euros. Major:94,65% Minor:5,35%
+Total Sala 7:
+  Assistència total:1109 persones. Major:83,77% Minor:10,46% Minor de 8:5,77%
+  Recaptació total:15792 euros. Major:94,12% Minor:5,88%
+
+Sala 8, Sessió 1:
+  Assistència:368 persones. Major:82,34% Minor:10,33% Minor de 8:7,34%
+  Recaptació:5152 euros. Major:94,10% Minor:5,90%
+Sala 8, Sessió 2:
+  Assistència:344 persones. Major:86,63% Minor:11,34% Minor de 8:2,03%
+  Recaptació:5080 euros. Major:93,86% Minor:6,14%
+Sala 8, Sessió 3:
+  Assistència:365 persones. Major:85,21% Minor:8,22% Minor de 8:6,58%
+  Recaptació:5216 euros. Major:95,40% Minor:4,60%
+Total Sala 8:
+  Assistència total:1077 persones. Major:84,68% Minor:9,94% Minor de 8:5,39%
+  Recaptació total:15448 euros. Major:94,46% Minor:5,54%
+
+Dia 12:
+Sala 1, Sessió 1:
+  Assistència:346 persones. Major:81,50% Minor:8,67% Minor de 8:9,83%
+  Recaptació:4752 euros. Major:94,95% Minor:5,05%
+Sala 1, Sessió 2:
+  Assistència:361 persones. Major:85,04% Minor:11,36% Minor de 8:3,60%
+  Recaptació:5240 euros. Major:93,74% Minor:6,26%
+Sala 1, Sessió 3:
+  Assistència:384 persones. Major:85,94% Minor:9,11% Minor de 8:4,95%
+  Recaptació:5560 euros. Major:94,96% Minor:5,04%
+Total Sala 1:
+  Assistència total:1091 persones. Major:84,23% Minor:9,72% Minor de 8:6,05%
+  Recaptació total:15552 euros. Major:94,55% Minor:5,45%
+
+Sala 2, Sessió 1:
+  Assistència:395 persones. Major:81,27% Minor:10,63% Minor de 8:8,10%
+  Recaptació:5472 euros. Major:93,86% Minor:6,14%
+Sala 2, Sessió 2:
+  Assistència:353 persones. Major:85,55% Minor:9,35% Minor de 8:5,10%
+  Recaptació:5096 euros. Major:94,82% Minor:5,18%
+Sala 2, Sessió 3:
+  Assistència:346 persones. Major:80,06% Minor:12,72% Minor de 8:7,23%
+  Recaptació:4784 euros. Major:92,64% Minor:7,36%
+Total Sala 2:
+  Assistència total:1094 persones. Major:82,27% Minor:10,88% Minor de 8:6,86%
+  Recaptació total:15352 euros. Major:93,80% Minor:6,20%
+
+Sala 3, Sessió 1:
+  Assistència:333 persones. Major:80,18% Minor:10,81% Minor de 8:9,01%
+  Recaptació:4560 euros. Major:93,68% Minor:6,32%
+Sala 3, Sessió 2:
+  Assistència:358 persones. Major:82,68% Minor:9,50% Minor de 8:7,82%
+  Recaptació:5008 euros. Major:94,57% Minor:5,43%
+Sala 3, Sessió 3:
+  Assistència:331 persones. Major:81,87% Minor:13,60% Minor de 8:4,53%
+  Recaptació:4696 euros. Major:92,33% Minor:7,67%
+Total Sala 3:
+  Assistència total:1022 persones. Major:81,60% Minor:11,25% Minor de 8:7,14%
+  Recaptació total:14264 euros. Major:93,55% Minor:6,45%
+
+Sala 4, Sessió 1:
+  Assistència:356 persones. Major:83,43% Minor:10,11% Minor de 8:6,46%
+  Recaptació:5040 euros. Major:94,29% Minor:5,71%
+Sala 4, Sessió 2:
+  Assistència:353 persones. Major:82,72% Minor:9,92% Minor de 8:7,37%
+  Recaptació:4952 euros. Major:94,35% Minor:5,65%
+Sala 4, Sessió 3:
+  Assistència:334 persones. Major:83,83% Minor:11,38% Minor de 8:4,79%
+  Recaptació:4784 euros. Major:93,65% Minor:6,35%
+Total Sala 4:
+  Assistència total:1043 persones. Major:83,32% Minor:10,45% Minor de 8:6,23%
+  Recaptació total:14776 euros. Major:94,10% Minor:5,90%
+
+Sala 5, Sessió 1:
+  Assistència:344 persones. Major:84,30% Minor:7,56% Minor de 8:8,14%
+  Recaptació:4848 euros. Major:95,71% Minor:4,29%
+Sala 5, Sessió 2:
+  Assistència:343 persones. Major:81,92% Minor:12,24% Minor de 8:5,83%
+  Recaptació:4832 euros. Major:93,05% Minor:6,95%
+Sala 5, Sessió 3:
+  Assistència:378 persones. Major:83,07% Minor:10,05% Minor de 8:6,88%
+  Recaptació:5328 euros. Major:94,29% Minor:5,71%
+Total Sala 5:
+  Assistència total:1065 persones. Major:83,10% Minor:9,95% Minor de 8:6,95%
+  Recaptació total:15008 euros. Major:94,35% Minor:5,65%
+
+Sala 6, Sessió 1:
+  Assistència:374 persones. Major:81,02% Minor:12,30% Minor de 8:6,68%
+  Recaptació:5216 euros. Major:92,94% Minor:7,06%
+Sala 6, Sessió 2:
+  Assistència:334 persones. Major:84,13% Minor:10,18% Minor de 8:5,69%
+  Recaptació:4768 euros. Major:94,30% Minor:5,70%
+Sala 6, Sessió 3:
+  Assistència:392 persones. Major:83,67% Minor:11,22% Minor de 8:5,10%
+  Recaptació:5600 euros. Major:93,71% Minor:6,29%
+Total Sala 6:
+  Assistència total:1100 persones. Major:82,91% Minor:11,27% Minor de 8:5,82%
+  Recaptació total:15584 euros. Major:93,63% Minor:6,37%
+
+Sala 7, Sessió 1:
+  Assistència:323 persones. Major:84,21% Minor:8,05% Minor de 8:7,74%
+  Recaptació:4560 euros. Major:95,44% Minor:4,56%
+Sala 7, Sessió 2:
+  Assistència:347 persones. Major:82,42% Minor:8,65% Minor de 8:8,93%
+  Recaptació:4816 euros. Major:95,02% Minor:4,98%
+Sala 7, Sessió 3:
+  Assistència:327 persones. Major:85,32% Minor:8,87% Minor de 8:5,81%
+  Recaptació:4696 euros. Major:95,06% Minor:4,94%
+Total Sala 7:
+  Assistència total:997 persones. Major:83,95% Minor:8,53% Minor de 8:7,52%
+  Recaptació total:14072 euros. Major:95,17% Minor:4,83%
+
+Sala 8, Sessió 1:
+  Assistència:358 persones. Major:82,96% Minor:12,57% Minor de 8:4,47%
+  Recaptació:5112 euros. Major:92,96% Minor:7,04%
+Sala 8, Sessió 2:
+  Assistència:342 persones. Major:81,58% Minor:7,60% Minor de 8:10,82%
+  Recaptació:4672 euros. Major:95,55% Minor:4,45%
+Sala 8, Sessió 3:
+  Assistència:398 persones. Major:83,92% Minor:10,80% Minor de 8:5,28%
+  Recaptació:5688 euros. Major:93,95% Minor:6,05%
+Total Sala 8:
+  Assistència total:1098 persones. Major:82,88% Minor:10,38% Minor de 8:6,74%
+  Recaptació total:15472 euros. Major:94,11% Minor:5,89%
+
+Dia 13:
+Sala 1, Sessió 1:
+  Assistència:344 persones. Major:82,85% Minor:10,76% Minor de 8:6,40%
+  Recaptació:4856 euros. Major:93,90% Minor:6,10%
+Sala 1, Sessió 2:
+  Assistència:368 persones. Major:80,43% Minor:8,97% Minor de 8:10,60%
+  Recaptació:5000 euros. Major:94,72% Minor:5,28%
+Sala 1, Sessió 3:
+  Assistència:345 persones. Major:83,77% Minor:9,86% Minor de 8:6,38%
+  Recaptació:4896 euros. Major:94,44% Minor:5,56%
+Sala 1, Sessió 4:
+  Assistència:374 persones. Major:82,89% Minor:10,96% Minor de 8:6,15%
+  Recaptació:5288 euros. Major:93,80% Minor:6,20%
+Sala 1, Sessió 5:
+  Assistència:371 persones. Major:82,75% Minor:11,32% Minor de 8:5,93%
+  Recaptació:5248 euros. Major:93,60% Minor:6,40%
+Total Sala 1:
+  Assistència total:1802 persones. Major:82,52% Minor:10,38% Minor de 8:7,10%
+  Recaptació total:25288 euros. Major:94,08% Minor:5,92%
+
+Sala 2, Sessió 1:
+  Assistència:391 persones. Major:87,21% Minor:8,70% Minor de 8:4,09%
+  Recaptació:5728 euros. Major:95,25% Minor:4,75%
+Sala 2, Sessió 2:
+  Assistència:370 persones. Major:84,32% Minor:8,11% Minor de 8:7,57%
+  Recaptació:5232 euros. Major:95,41% Minor:4,59%
+Sala 2, Sessió 3:
+  Assistència:353 persones. Major:79,60% Minor:11,05% Minor de 8:9,35%
+  Recaptació:4808 euros. Major:93,51% Minor:6,49%
+Sala 2, Sessió 4:
+  Assistència:397 persones. Major:84,38% Minor:10,33% Minor de 8:5,29%
+  Recaptació:5688 euros. Major:94,23% Minor:5,77%
+Sala 2, Sessió 5:
+  Assistència:387 persones. Major:82,17% Minor:9,56% Minor de 8:8,27%
+  Recaptació:5384 euros. Major:94,50% Minor:5,50%
+Total Sala 2:
+  Assistència total:1898 persones. Major:83,61% Minor:9,54% Minor de 8:6,85%
+  Recaptació total:26840 euros. Major:94,61% Minor:5,39%
+
+Sala 3, Sessió 1:
+  Assistència:385 persones. Major:82,86% Minor:10,39% Minor de 8:6,75%
+  Recaptació:5424 euros. Major:94,10% Minor:5,90%
+Sala 3, Sessió 2:
+  Assistència:392 persones. Major:83,93% Minor:8,93% Minor de 8:7,14%
+  Recaptació:5544 euros. Major:94,95% Minor:5,05%
+Sala 3, Sessió 3:
+  Assistència:377 persones. Major:84,08% Minor:10,34% Minor de 8:5,57%
+  Recaptació:5384 euros. Major:94,21% Minor:5,79%
+Sala 3, Sessió 4:
+  Assistència:334 persones. Major:85,03% Minor:11,38% Minor de 8:3,59%
+  Recaptació:4848 euros. Major:93,73% Minor:6,27%
+Sala 3, Sessió 5:
+  Assistència:385 persones. Major:85,19% Minor:8,83% Minor de 8:5,97%
+  Recaptació:5520 euros. Major:95,07% Minor:4,93%
+Total Sala 3:
+  Assistència total:1873 persones. Major:84,20% Minor:9,93% Minor de 8:5,87%
+  Recaptació total:26720 euros. Major:94,43% Minor:5,57%
+
+Sala 4, Sessió 1:
+  Assistència:380 persones. Major:85,26% Minor:10,53% Minor de 8:4,21%
+  Recaptació:5504 euros. Major:94,19% Minor:5,81%
+Sala 4, Sessió 2:
+  Assistència:362 persones. Major:86,19% Minor:8,56% Minor de 8:5,25%
+  Recaptació:5240 euros. Major:95,27% Minor:4,73%
+Sala 4, Sessió 3:
+  Assistència:338 persones. Major:84,02% Minor:8,28% Minor de 8:7,69%
+  Recaptació:4768 euros. Major:95,30% Minor:4,70%
+Sala 4, Sessió 4:
+  Assistència:394 persones. Major:79,95% Minor:11,93% Minor de 8:8,12%
+  Recaptació:5416 euros. Major:93,06% Minor:6,94%
+Sala 4, Sessió 5:
+  Assistència:358 persones. Major:82,96% Minor:9,50% Minor de 8:7,54%
+  Recaptació:5024 euros. Major:94,59% Minor:5,41%
+Total Sala 4:
+  Assistència total:1832 persones. Major:83,62% Minor:9,83% Minor de 8:6,55%
+  Recaptació total:25952 euros. Major:94,45% Minor:5,55%
+
+Sala 5, Sessió 1:
+  Assistència:345 persones. Major:84,35% Minor:8,41% Minor de 8:7,25%
+  Recaptació:4888 euros. Major:95,25% Minor:4,75%
+Sala 5, Sessió 2:
+  Assistència:394 persones. Major:80,20% Minor:8,38% Minor de 8:11,42%
+  Recaptació:5320 euros. Major:95,04% Minor:4,96%
+Sala 5, Sessió 3:
+  Assistència:348 persones. Major:81,90% Minor:10,63% Minor de 8:7,47%
+  Recaptació:4856 euros. Major:93,90% Minor:6,10%
+Sala 5, Sessió 4:
+  Assistència:367 persones. Major:83,65% Minor:11,44% Minor de 8:4,90%
+  Recaptació:5248 euros. Major:93,60% Minor:6,40%
+Sala 5, Sessió 5:
+  Assistència:336 persones. Major:81,85% Minor:9,23% Minor de 8:8,93%
+  Recaptació:4648 euros. Major:94,66% Minor:5,34%
+Total Sala 5:
+  Assistència total:1790 persones. Major:82,35% Minor:9,61% Minor de 8:8,04%
+  Recaptació total:24960 euros. Major:94,49% Minor:5,51%
+
+Sala 6, Sessió 1:
+  Assistència:363 persones. Major:79,89% Minor:14,05% Minor de 8:6,06%
+  Recaptació:5048 euros. Major:91,92% Minor:8,08%
+Sala 6, Sessió 2:
+  Assistència:330 persones. Major:81,21% Minor:12,73% Minor de 8:6,06%
+  Recaptació:4624 euros. Major:92,73% Minor:7,27%
+Sala 6, Sessió 3:
+  Assistència:336 persones. Major:81,85% Minor:11,61% Minor de 8:6,55%
+  Recaptació:4712 euros. Major:93,38% Minor:6,62%
+Sala 6, Sessió 4:
+  Assistència:382 persones. Major:85,60% Minor:8,12% Minor de 8:6,28%
+  Recaptació:5480 euros. Major:95,47% Minor:4,53%
+Sala 6, Sessió 5:
+  Assistència:362 persones. Major:83,43% Minor:8,56% Minor de 8:8,01%
+  Recaptació:5080 euros. Major:95,12% Minor:4,88%
+Total Sala 6:
+  Assistència total:1773 persones. Major:82,46% Minor:10,94% Minor de 8:6,60%
+  Recaptació total:24944 euros. Major:93,78% Minor:6,22%
+
+Sala 7, Sessió 1:
+  Assistència:393 persones. Major:85,75% Minor:8,91% Minor de 8:5,34%
+  Recaptació:5672 euros. Major:95,06% Minor:4,94%
+Sala 7, Sessió 2:
+  Assistència:358 persones. Major:82,68% Minor:12,29% Minor de 8:5,03%
+  Recaptació:5088 euros. Major:93,08% Minor:6,92%
+Sala 7, Sessió 3:
+  Assistència:370 persones. Major:84,32% Minor:8,11% Minor de 8:7,57%
+  Recaptació:5232 euros. Major:95,41% Minor:4,59%
+Sala 7, Sessió 4:
+  Assistència:365 persones. Major:83,29% Minor:8,22% Minor de 8:8,49%
+  Recaptació:5104 euros. Major:95,30% Minor:4,70%
+Sala 7, Sessió 5:
+  Assistència:362 persones. Major:84,25% Minor:8,29% Minor de 8:7,46%
+  Recaptació:5120 euros. Major:95,31% Minor:4,69%
+Total Sala 7:
+  Assistència total:1848 persones. Major:84,09% Minor:9,15% Minor de 8:6,76%
+  Recaptació total:26216 euros. Major:94,84% Minor:5,16%
+
+Sala 8, Sessió 1:
+  Assistència:363 persones. Major:84,02% Minor:8,26% Minor de 8:7,71%
+  Recaptació:5120 euros. Major:95,31% Minor:4,69%
+Sala 8, Sessió 2:
+  Assistència:327 persones. Major:82,26% Minor:11,62% Minor de 8:6,12%
+  Recaptació:4608 euros. Major:93,40% Minor:6,60%
+Sala 8, Sessió 3:
+  Assistència:357 persones. Major:81,79% Minor:11,20% Minor de 8:7,00%
+  Recaptació:4992 euros. Major:93,59% Minor:6,41%
+Sala 8, Sessió 4:
+  Assistència:390 persones. Major:88,21% Minor:7,69% Minor de 8:4,10%
+  Recaptació:5744 euros. Major:95,82% Minor:4,18%
+Sala 8, Sessió 5:
+  Assistència:394 persones. Major:84,52% Minor:10,41% Minor de 8:5,08%
+  Recaptació:5656 euros. Major:94,20% Minor:5,80%
+Total Sala 8:
+  Assistència total:1831 persones. Major:84,27% Minor:9,78% Minor de 8:5,95%
+  Recaptació total:26120 euros. Major:94,52% Minor:5,48%
+
+Dia 14:
+Sala 1, Sessió 1:
+  Assistència:328 persones. Major:83,23% Minor:11,89% Minor de 8:4,88%
+  Recaptació:4680 euros. Major:93,33% Minor:6,67%
+Sala 1, Sessió 2:
+  Assistència:357 persones. Major:83,75% Minor:12,32% Minor de 8:3,92%
+  Recaptació:5136 euros. Major:93,15% Minor:6,85%
+Sala 1, Sessió 3:
+  Assistència:392 persones. Major:83,93% Minor:10,71% Minor de 8:5,36%
+  Recaptació:5600 euros. Major:94,00% Minor:6,00%
+Sala 1, Sessió 4:
+  Assistència:331 persones. Major:83,69% Minor:8,46% Minor de 8:7,85%
+  Recaptació:4656 euros. Major:95,19% Minor:4,81%
+Sala 1, Sessió 5:
+  Assistència:367 persones. Major:83,38% Minor:8,99% Minor de 8:7,63%
+  Recaptació:5160 euros. Major:94,88% Minor:5,12%
+Total Sala 1:
+  Assistència total:1775 persones. Major:83,61% Minor:10,48% Minor de 8:5,92%
+  Recaptació total:25232 euros. Major:94,10% Minor:5,90%
+
+Sala 2, Sessió 1:
+  Assistència:375 persones. Major:82,13% Minor:11,20% Minor de 8:6,67%
+  Recaptació:5264 euros. Major:93,62% Minor:6,38%
+Sala 2, Sessió 2:
+  Assistència:329 persones. Major:84,80% Minor:9,12% Minor de 8:6,08%
+  Recaptació:4704 euros. Major:94,90% Minor:5,10%
+Sala 2, Sessió 3:
+  Assistència:396 persones. Major:82,32% Minor:10,86% Minor de 8:6,82%
+  Recaptació:5560 euros. Major:93,81% Minor:6,19%
+Sala 2, Sessió 4:
+  Assistència:361 persones. Major:83,10% Minor:9,97% Minor de 8:6,93%
+  Recaptació:5088 euros. Major:94,34% Minor:5,66%
+Sala 2, Sessió 5:
+  Assistència:322 persones. Major:85,40% Minor:9,94% Minor de 8:4,66%
+  Recaptació:4656 euros. Major:94,50% Minor:5,50%
+Total Sala 2:
+  Assistència total:1783 persones. Major:83,45% Minor:10,26% Minor de 8:6,28%
+  Recaptació total:25272 euros. Major:94,21% Minor:5,79%
+
+Sala 3, Sessió 1:
+  Assistència:382 persones. Major:83,77% Minor:10,47% Minor de 8:5,76%
+  Recaptació:5440 euros. Major:94,12% Minor:5,88%
+Sala 3, Sessió 2:
+  Assistència:363 persones. Major:84,57% Minor:9,64% Minor de 8:5,79%
+  Recaptació:5192 euros. Major:94,61% Minor:5,39%
+Sala 3, Sessió 3:
+  Assistència:385 persones. Major:84,42% Minor:8,57% Minor de 8:7,01%
+  Recaptació:5464 euros. Major:95,17% Minor:4,83%
+Sala 3, Sessió 4:
+  Assistència:333 persones. Major:82,88% Minor:9,91% Minor de 8:7,21%
+  Recaptació:4680 euros. Major:94,36% Minor:5,64%
+Sala 3, Sessió 5:
+  Assistència:364 persones. Major:84,62% Minor:9,89% Minor de 8:5,49%
+  Recaptació:5216 euros. Major:94,48% Minor:5,52%
+Total Sala 3:
+  Assistència total:1827 persones. Major:84,07% Minor:9,69% Minor de 8:6,24%
+  Recaptació total:25992 euros. Major:94,55% Minor:5,45%
+
+Sala 4, Sessió 1:
+  Assistència:345 persones. Major:83,19% Minor:10,43% Minor de 8:6,38%
+  Recaptació:4880 euros. Major:94,10% Minor:5,90%
+Sala 4, Sessió 2:
+  Assistència:329 persones. Major:81,76% Minor:10,03% Minor de 8:8,21%
+  Recaptació:4568 euros. Major:94,22% Minor:5,78%
+Sala 4, Sessió 3:
+  Assistència:320 persones. Major:89,38% Minor:8,13% Minor de 8:2,50%
+  Recaptació:4784 euros. Major:95,65% Minor:4,35%
+Sala 4, Sessió 4:
+  Assistència:391 persones. Major:82,86% Minor:12,53% Minor de 8:4,60%
+  Recaptació:5576 euros. Major:92,97% Minor:7,03%
+Sala 4, Sessió 5:
+  Assistència:355 persones. Major:84,51% Minor:10,70% Minor de 8:4,79%
+  Recaptació:5104 euros. Major:94,04% Minor:5,96%
+Total Sala 4:
+  Assistència total:1740 persones. Major:84,25% Minor:10,46% Minor de 8:5,29%
+  Recaptació total:24912 euros. Major:94,16% Minor:5,84%
+
+Sala 5, Sessió 1:
+  Assistència:331 persones. Major:83,38% Minor:9,97% Minor de 8:6,65%
+  Recaptació:4680 euros. Major:94,36% Minor:5,64%
+Sala 5, Sessió 2:
+  Assistència:371 persones. Major:85,18% Minor:10,24% Minor de 8:4,58%
+  Recaptació:5360 euros. Major:94,33% Minor:5,67%
+Sala 5, Sessió 3:
+  Assistència:336 persones. Major:83,93% Minor:9,23% Minor de 8:6,85%
+  Recaptació:4760 euros. Major:94,79% Minor:5,21%
+Sala 5, Sessió 4:
+  Assistència:360 persones. Major:85,83% Minor:9,17% Minor de 8:5,00%
+  Recaptació:5208 euros. Major:94,93% Minor:5,07%
+Sala 5, Sessió 5:
+  Assistència:375 persones. Major:84,27% Minor:10,67% Minor de 8:5,07%
+  Recaptació:5376 euros. Major:94,05% Minor:5,95%
+Total Sala 5:
+  Assistència total:1773 persones. Major:84,55% Minor:9,87% Minor de 8:5,58%
+  Recaptació total:25384 euros. Major:94,48% Minor:5,52%
+
+Sala 6, Sessió 1:
+  Assistència:380 persones. Major:85,79% Minor:9,21% Minor de 8:5,00%
+  Recaptació:5496 euros. Major:94,91% Minor:5,09%
+Sala 6, Sessió 2:
+  Assistència:353 persones. Major:80,74% Minor:9,07% Minor de 8:10,20%
+  Recaptació:4816 euros. Major:94,68% Minor:5,32%
+Sala 6, Sessió 3:
+  Assistència:389 persones. Major:83,80% Minor:9,51% Minor de 8:6,68%
+  Recaptació:5512 euros. Major:94,63% Minor:5,37%
+Sala 6, Sessió 4:
+  Assistència:351 persones. Major:81,48% Minor:10,54% Minor de 8:7,98%
+  Recaptació:4872 euros. Major:93,92% Minor:6,08%
+Sala 6, Sessió 5:
+  Assistència:369 persones. Major:83,74% Minor:7,32% Minor de 8:8,94%
+  Recaptació:5160 euros. Major:95,81% Minor:4,19%
+Total Sala 6:
+  Assistència total:1842 persones. Major:83,17% Minor:9,12% Minor de 8:7,71%
+  Recaptació total:25856 euros. Major:94,80% Minor:5,20%
+
+Sala 7, Sessió 1:
+  Assistència:342 persones. Major:84,80% Minor:9,65% Minor de 8:5,56%
+  Recaptació:4904 euros. Major:94,62% Minor:5,38%
+Sala 7, Sessió 2:
+  Assistència:321 persones. Major:82,24% Minor:10,28% Minor de 8:7,48%
+  Recaptació:4488 euros. Major:94,12% Minor:5,88%
+Sala 7, Sessió 3:
+  Assistència:348 persones. Major:85,06% Minor:12,64% Minor de 8:2,30%
+  Recaptació:5088 euros. Major:93,08% Minor:6,92%
+Sala 7, Sessió 4:
+  Assistència:328 persones. Major:87,20% Minor:7,01% Minor de 8:5,79%
+  Recaptació:4760 euros. Major:96,13% Minor:3,87%
+Sala 7, Sessió 5:
+  Assistència:335 persones. Major:80,00% Minor:12,84% Minor de 8:7,16%
+  Recaptació:4632 euros. Major:92,57% Minor:7,43%
+Total Sala 7:
+  Assistència total:1674 persones. Major:83,87% Minor:10,51% Minor de 8:5,62%
+  Recaptació total:23872 euros. Major:94,10% Minor:5,90%
+
+Sala 8, Sessió 1:
+  Assistència:359 persones. Major:80,78% Minor:12,53% Minor de 8:6,69%
+  Recaptació:5000 euros. Major:92,80% Minor:7,20%
+Sala 8, Sessió 2:
+  Assistència:393 persones. Major:81,93% Minor:9,41% Minor de 8:8,65%
+  Recaptació:5448 euros. Major:94,57% Minor:5,43%
+Sala 8, Sessió 3:
+  Assistència:365 persones. Major:84,38% Minor:10,68% Minor de 8:4,93%
+  Recaptació:5240 euros. Major:94,05% Minor:5,95%
+Sala 8, Sessió 4:
+  Assistència:391 persones. Major:80,56% Minor:11,25% Minor de 8:8,18%
+  Recaptació:5392 euros. Major:93,47% Minor:6,53%
+Sala 8, Sessió 5:
+  Assistència:375 persones. Major:83,73% Minor:10,93% Minor de 8:5,33%
+  Recaptació:5352 euros. Major:93,87% Minor:6,13%
+Total Sala 8:
+  Assistència total:1883 persones. Major:82,26% Minor:10,94% Minor de 8:6,80%
+  Recaptació total:26432 euros. Major:93,77% Minor:6,23%
+
+Dia 15:
+Sala 1, Sessió 1:
+  Assistència:371 persones. Major:82,75% Minor:8,89% Minor de 8:8,36%
+  Recaptació:5176 euros. Major:94,90% Minor:5,10%
+Sala 1, Sessió 2:
+  Assistència:371 persones. Major:83,02% Minor:8,63% Minor de 8:8,36%
+  Recaptació:5184 euros. Major:95,06% Minor:4,94%
+Sala 1, Sessió 3:
+  Assistència:361 persones. Major:81,44% Minor:10,25% Minor de 8:8,31%
+  Recaptació:5000 euros. Major:94,08% Minor:5,92%
+Total Sala 1:
+  Assistència total:1103 persones. Major:82,41% Minor:9,25% Minor de 8:8,34%
+  Recaptació total:15360 euros. Major:94,69% Minor:5,31%
+
+Sala 2, Sessió 1:
+  Assistència:352 persones. Major:86,65% Minor:10,51% Minor de 8:2,84%
+  Recaptació:5176 euros. Major:94,28% Minor:5,72%
+Sala 2, Sessió 2:
+  Assistència:362 persones. Major:82,60% Minor:10,50% Minor de 8:6,91%
+  Recaptació:5088 euros. Major:94,03% Minor:5,97%
+Sala 2, Sessió 3:
+  Assistència:368 persones. Major:85,33% Minor:9,51% Minor de 8:5,16%
+  Recaptació:5304 euros. Major:94,72% Minor:5,28%
+Total Sala 2:
+  Assistència total:1082 persones. Major:84,84% Minor:10,17% Minor de 8:4,99%
+  Recaptació total:15568 euros. Major:94,35% Minor:5,65%
+
+Sala 3, Sessió 1:
+  Assistència:323 persones. Major:80,19% Minor:10,84% Minor de 8:8,98%
+  Recaptació:4424 euros. Major:93,67% Minor:6,33%
+Sala 3, Sessió 2:
+  Assistència:391 persones. Major:81,84% Minor:12,02% Minor de 8:6,14%
+  Recaptació:5496 euros. Major:93,16% Minor:6,84%
+Sala 3, Sessió 3:
+  Assistència:370 persones. Major:83,51% Minor:8,92% Minor de 8:7,57%
+  Recaptació:5208 euros. Major:94,93% Minor:5,07%
+Total Sala 3:
+  Assistència total:1084 persones. Major:81,92% Minor:10,61% Minor de 8:7,47%
+  Recaptació total:15128 euros. Major:93,92% Minor:6,08%
+
+Sala 4, Sessió 1:
+  Assistència:378 persones. Major:81,48% Minor:9,52% Minor de 8:8,99%
+  Recaptació:5216 euros. Major:94,48% Minor:5,52%
+Sala 4, Sessió 2:
+  Assistència:391 persones. Major:85,93% Minor:9,72% Minor de 8:4,35%
+  Recaptació:5680 euros. Major:94,65% Minor:5,35%
+Sala 4, Sessió 3:
+  Assistència:323 persones. Major:82,97% Minor:10,84% Minor de 8:6,19%
+  Recaptació:4568 euros. Major:93,87% Minor:6,13%
+Total Sala 4:
+  Assistència total:1092 persones. Major:83,52% Minor:9,98% Minor de 8:6,50%
+  Recaptació total:15464 euros. Major:94,36% Minor:5,64%
+
+Sala 5, Sessió 1:
+  Assistència:370 persones. Major:84,86% Minor:10,00% Minor de 8:5,14%
+  Recaptació:5320 euros. Major:94,44% Minor:5,56%
+Sala 5, Sessió 2:
+  Assistència:384 persones. Major:83,33% Minor:10,94% Minor de 8:5,73%
+  Recaptació:5456 euros. Major:93,84% Minor:6,16%
+Sala 5, Sessió 3:
+  Assistència:363 persones. Major:83,20% Minor:10,19% Minor de 8:6,61%
+  Recaptació:5128 euros. Major:94,23% Minor:5,77%
+Total Sala 5:
+  Assistència total:1117 persones. Major:83,80% Minor:10,38% Minor de 8:5,82%
+  Recaptació total:15904 euros. Major:94,16% Minor:5,84%
+
+Sala 6, Sessió 1:
+  Assistència:356 persones. Major:83,43% Minor:10,96% Minor de 8:5,62%
+  Recaptació:5064 euros. Major:93,84% Minor:6,16%
+Sala 6, Sessió 2:
+  Assistència:388 persones. Major:86,34% Minor:9,28% Minor de 8:4,38%
+  Recaptació:5648 euros. Major:94,90% Minor:5,10%
+Sala 6, Sessió 3:
+  Assistència:383 persones. Major:81,46% Minor:10,97% Minor de 8:7,57%
+  Recaptació:5328 euros. Major:93,69% Minor:6,31%
+Total Sala 6:
+  Assistència total:1127 persones. Major:83,76% Minor:10,38% Minor de 8:5,86%
+  Recaptació total:16040 euros. Major:94,16% Minor:5,84%
+
+Sala 7, Sessió 1:
+  Assistència:360 persones. Major:81,67% Minor:10,28% Minor de 8:8,06%
+  Recaptació:5000 euros. Major:94,08% Minor:5,92%
+Sala 7, Sessió 2:
+  Assistència:395 persones. Major:84,30% Minor:9,37% Minor de 8:6,33%
+  Recaptació:5624 euros. Major:94,74% Minor:5,26%
+Sala 7, Sessió 3:
+  Assistència:345 persones. Major:80,29% Minor:8,70% Minor de 8:11,01%
+  Recaptació:4672 euros. Major:94,86% Minor:5,14%
+Total Sala 7:
+  Assistència total:1100 persones. Major:82,18% Minor:9,45% Minor de 8:8,36%
+  Recaptació total:15296 euros. Major:94,56% Minor:5,44%
+
+Sala 8, Sessió 1:
+  Assistència:355 persones. Major:78,87% Minor:10,42% Minor de 8:10,70%
+  Recaptació:4776 euros. Major:93,80% Minor:6,20%
+Sala 8, Sessió 2:
+  Assistència:364 persones. Major:82,69% Minor:11,26% Minor de 8:6,04%
+  Recaptació:5144 euros. Major:93,62% Minor:6,38%
+Sala 8, Sessió 3:
+  Assistència:362 persones. Major:88,40% Minor:7,18% Minor de 8:4,42%
+  Recaptació:5328 euros. Major:96,10% Minor:3,90%
+Total Sala 8:
+  Assistència total:1081 persones. Major:83,35% Minor:9,62% Minor de 8:7,03%
+  Recaptació total:15248 euros. Major:94,54% Minor:5,46%
+
+Dia 16:
+Sala 1, Sessió 1:
+  Assistència:386 persones. Major:85,75% Minor:9,84% Minor de 8:4,40%
+  Recaptació:5600 euros. Major:94,57% Minor:5,43%
+Sala 1, Sessió 2:
+  Assistència:375 persones. Major:81,87% Minor:11,20% Minor de 8:6,93%
+  Recaptació:5248 euros. Major:93,60% Minor:6,40%
+Sala 1, Sessió 3:
+  Assistència:344 persones. Major:80,81% Minor:14,24% Minor de 8:4,94%
+  Recaptació:4840 euros. Major:91,90% Minor:8,10%
+Total Sala 1:
+  Assistència total:1105 persones. Major:82,90% Minor:11,67% Minor de 8:5,43%
+  Recaptació total:15688 euros. Major:93,42% Minor:6,58%
+
+Sala 2, Sessió 1:
+  Assistència:354 persones. Major:83,05% Minor:9,89% Minor de 8:7,06%
+  Recaptació:4984 euros. Major:94,38% Minor:5,62%
+Sala 2, Sessió 2:
+  Assistència:383 persones. Major:79,37% Minor:13,05% Minor de 8:7,57%
+  Recaptació:5264 euros. Major:92,40% Minor:7,60%
+Sala 2, Sessió 3:
+  Assistència:391 persones. Major:83,38% Minor:7,93% Minor de 8:8,70%
+  Recaptació:5464 euros. Major:95,46% Minor:4,54%
+Total Sala 2:
+  Assistència total:1128 persones. Major:81,91% Minor:10,28% Minor de 8:7,80%
+  Recaptació total:15712 euros. Major:94,09% Minor:5,91%
+
+Sala 3, Sessió 1:
+  Assistència:343 persones. Major:81,92% Minor:9,62% Minor de 8:8,45%
+  Recaptació:4760 euros. Major:94,45% Minor:5,55%
+Sala 3, Sessió 2:
+  Assistència:344 persones. Major:84,01% Minor:9,01% Minor de 8:6,98%
+  Recaptació:4872 euros. Major:94,91% Minor:5,09%
+Sala 3, Sessió 3:
+  Assistència:360 persones. Major:87,50% Minor:7,22% Minor de 8:5,28%
+  Recaptació:5248 euros. Major:96,04% Minor:3,96%
+Total Sala 3:
+  Assistència total:1047 persones. Major:84,53% Minor:8,60% Minor de 8:6,88%
+  Recaptació total:14880 euros. Major:95,16% Minor:4,84%
+
+Sala 4, Sessió 1:
+  Assistència:320 persones. Major:79,06% Minor:11,56% Minor de 8:9,38%
+  Recaptació:4344 euros. Major:93,19% Minor:6,81%
+Sala 4, Sessió 2:
+  Assistència:393 persones. Major:82,44% Minor:10,94% Minor de 8:6,62%
+  Recaptació:5528 euros. Major:93,78% Minor:6,22%
+Sala 4, Sessió 3:
+  Assistència:345 persones. Major:85,22% Minor:8,70% Minor de 8:6,09%
+  Recaptació:4944 euros. Major:95,15% Minor:4,85%
+Total Sala 4:
+  Assistència total:1058 persones. Major:82,33% Minor:10,40% Minor de 8:7,28%
+  Recaptació total:14816 euros. Major:94,06% Minor:5,94%
+
+Sala 5, Sessió 1:
+  Assistència:395 persones. Major:81,77% Minor:10,13% Minor de 8:8,10%
+  Recaptació:5488 euros. Major:94,17% Minor:5,83%
+Sala 5, Sessió 2:
+  Assistència:364 persones. Major:85,16% Minor:9,34% Minor de 8:5,49%
+  Recaptació:5232 euros. Major:94,80% Minor:5,20%
+Sala 5, Sessió 3:
+  Assistència:327 persones. Major:84,10% Minor:10,70% Minor de 8:5,20%
+  Recaptació:4680 euros. Major:94,02% Minor:5,98%
+Total Sala 5:
+  Assistència total:1086 persones. Major:83,61% Minor:10,04% Minor de 8:6,35%
+  Recaptació total:15400 euros. Major:94,34% Minor:5,66%
+
+Sala 6, Sessió 1:
+  Assistència:397 persones. Major:82,62% Minor:8,82% Minor de 8:8,56%
+  Recaptació:5528 euros. Major:94,93% Minor:5,07%
+Sala 6, Sessió 2:
+  Assistència:351 persones. Major:82,62% Minor:9,12% Minor de 8:8,26%
+  Recaptació:4896 euros. Major:94,77% Minor:5,23%
+Sala 6, Sessió 3:
+  Assistència:328 persones. Major:82,01% Minor:10,37% Minor de 8:7,62%
+  Recaptació:4576 euros. Major:94,06% Minor:5,94%
+Total Sala 6:
+  Assistència total:1076 persones. Major:82,43% Minor:9,39% Minor de 8:8,18%
+  Recaptació total:15000 euros. Major:94,61% Minor:5,39%
+
+Sala 7, Sessió 1:
+  Assistència:354 persones. Major:83,05% Minor:11,30% Minor de 8:5,65%
+  Recaptació:5024 euros. Major:93,63% Minor:6,37%
+Sala 7, Sessió 2:
+  Assistència:325 persones. Major:87,69% Minor:7,69% Minor de 8:4,62%
+  Recaptació:4760 euros. Major:95,80% Minor:4,20%
+Sala 7, Sessió 3:
+  Assistència:399 persones. Major:82,96% Minor:10,78% Minor de 8:6,27%
+  Recaptació:5640 euros. Major:93,90% Minor:6,10%
+Total Sala 7:
+  Assistència total:1078 persones. Major:84,42% Minor:10,02% Minor de 8:5,57%
+  Recaptació total:15424 euros. Major:94,40% Minor:5,60%
+
+Sala 8, Sessió 1:
+  Assistència:397 persones. Major:81,86% Minor:11,84% Minor de 8:6,30%
+  Recaptació:5576 euros. Major:93,26% Minor:6,74%
+Sala 8, Sessió 2:
+  Assistència:350 persones. Major:85,71% Minor:9,14% Minor de 8:5,14%
+  Recaptació:5056 euros. Major:94,94% Minor:5,06%
+Sala 8, Sessió 3:
+  Assistència:342 persones. Major:80,41% Minor:12,28% Minor de 8:7,31%
+  Recaptació:4736 euros. Major:92,91% Minor:7,09%
+Total Sala 8:
+  Assistència total:1089 persones. Major:82,64% Minor:11,11% Minor de 8:6,24%
+  Recaptació total:15368 euros. Major:93,70% Minor:6,30%
+
+Dia 17:
+Sala 1, Sessió 1:
+  Assistència:361 persones. Major:83,66% Minor:10,25% Minor de 8:6,09%
+  Recaptació:5128 euros. Major:94,23% Minor:5,77%
+Sala 1, Sessió 2:
+  Assistència:327 persones. Major:77,68% Minor:13,15% Minor de 8:9,17%
+  Recaptació:4408 euros. Major:92,20% Minor:7,80%
+Sala 1, Sessió 3:
+  Assistència:389 persones. Major:83,55% Minor:9,00% Minor de 8:7,46%
+  Recaptació:5480 euros. Major:94,89% Minor:5,11%
+Total Sala 1:
+  Assistència total:1077 persones. Major:81,80% Minor:10,68% Minor de 8:7,52%
+  Recaptació total:15016 euros. Major:93,87% Minor:6,13%
+
+Sala 2, Sessió 1:
+  Assistència:376 persones. Major:83,51% Minor:9,57% Minor de 8:6,91%
+  Recaptació:5312 euros. Major:94,58% Minor:5,42%
+Sala 2, Sessió 2:
+  Assistència:336 persones. Major:81,85% Minor:13,39% Minor de 8:4,76%
+  Recaptació:4760 euros. Major:92,44% Minor:7,56%
+Sala 2, Sessió 3:
+  Assistència:364 persones. Major:83,52% Minor:7,97% Minor de 8:8,52%
+  Recaptació:5096 euros. Major:95,45% Minor:4,55%
+Total Sala 2:
+  Assistència total:1076 persones. Major:82,99% Minor:10,22% Minor de 8:6,78%
+  Recaptació total:15168 euros. Major:94,20% Minor:5,80%
+
+Sala 3, Sessió 1:
+  Assistència:392 persones. Major:82,65% Minor:10,71% Minor de 8:6,63%
+  Recaptació:5520 euros. Major:93,91% Minor:6,09%
+Sala 3, Sessió 2:
+  Assistència:382 persones. Major:82,72% Minor:11,26% Minor de 8:6,02%
+  Recaptació:5400 euros. Major:93,63% Minor:6,37%
+Sala 3, Sessió 3:
+  Assistència:343 persones. Major:81,92% Minor:9,62% Minor de 8:8,45%
+  Recaptació:4760 euros. Major:94,45% Minor:5,55%
+Total Sala 3:
+  Assistència total:1117 persones. Major:82,45% Minor:10,56% Minor de 8:6,98%
+  Recaptació total:15680 euros. Major:93,98% Minor:6,02%
+
+Sala 4, Sessió 1:
+  Assistència:327 persones. Major:83,49% Minor:9,17% Minor de 8:7,34%
+  Recaptació:4608 euros. Major:94,79% Minor:5,21%
+Sala 4, Sessió 2:
+  Assistència:392 persones. Major:82,91% Minor:11,99% Minor de 8:5,10%
+  Recaptació:5576 euros. Major:93,26% Minor:6,74%
+Sala 4, Sessió 3:
+  Assistència:321 persones. Major:81,93% Minor:9,97% Minor de 8:8,10%
+  Recaptació:4464 euros. Major:94,27% Minor:5,73%
+Total Sala 4:
+  Assistència total:1040 persones. Major:82,79% Minor:10,48% Minor de 8:6,73%
+  Recaptació total:14648 euros. Major:94,05% Minor:5,95%
+
+Sala 5, Sessió 1:
+  Assistència:370 persones. Major:79,73% Minor:10,81% Minor de 8:9,46%
+  Recaptació:5040 euros. Major:93,65% Minor:6,35%
+Sala 5, Sessió 2:
+  Assistència:362 persones. Major:82,04% Minor:12,43% Minor de 8:5,52%
+  Recaptació:5112 euros. Major:92,96% Minor:7,04%
+Sala 5, Sessió 3:
+  Assistència:360 persones. Major:83,61% Minor:9,17% Minor de 8:7,22%
+  Recaptació:5080 euros. Major:94,80% Minor:5,20%
+Total Sala 5:
+  Assistència total:1092 persones. Major:81,78% Minor:10,81% Minor de 8:7,42%
+  Recaptació total:15232 euros. Major:93,80% Minor:6,20%
+
+Sala 6, Sessió 1:
+  Assistència:339 persones. Major:83,78% Minor:10,91% Minor de 8:5,31%
+  Recaptació:4840 euros. Major:93,88% Minor:6,12%
+Sala 6, Sessió 2:
+  Assistència:382 persones. Major:81,68% Minor:12,04% Minor de 8:6,28%
+  Recaptació:5360 euros. Major:93,13% Minor:6,87%
+Sala 6, Sessió 3:
+  Assistència:368 persones. Major:83,15% Minor:9,51% Minor de 8:7,34%
+  Recaptació:5176 euros. Major:94,59% Minor:5,41%
+Total Sala 6:
+  Assistència total:1089 persones. Major:82,83% Minor:10,84% Minor de 8:6,34%
+  Recaptació total:15376 euros. Major:93,86% Minor:6,14%
+
+Sala 7, Sessió 1:
+  Assistència:357 persones. Major:80,95% Minor:11,76% Minor de 8:7,28%
+  Recaptació:4960 euros. Major:93,23% Minor:6,77%
+Sala 7, Sessió 2:
+  Assistència:377 persones. Major:82,49% Minor:9,28% Minor de 8:8,22%
+  Recaptació:5256 euros. Major:94,67% Minor:5,33%
+Sala 7, Sessió 3:
+  Assistència:336 persones. Major:83,04% Minor:12,20% Minor de 8:4,76%
+  Recaptació:4792 euros. Major:93,16% Minor:6,84%
+Total Sala 7:
+  Assistència total:1070 persones. Major:82,15% Minor:11,03% Minor de 8:6,82%
+  Recaptació total:15008 euros. Major:93,71% Minor:6,29%
+
+Sala 8, Sessió 1:
+  Assistència:332 persones. Major:80,42% Minor:10,84% Minor de 8:8,73%
+  Recaptació:4560 euros. Major:93,68% Minor:6,32%
+Sala 8, Sessió 2:
+  Assistència:382 persones. Major:83,51% Minor:9,69% Minor de 8:6,81%
+  Recaptació:5400 euros. Major:94,52% Minor:5,48%
+Sala 8, Sessió 3:
+  Assistència:392 persones. Major:81,38% Minor:11,73% Minor de 8:6,89%
+  Recaptació:5472 euros. Major:93,27% Minor:6,73%
+Total Sala 8:
+  Assistència total:1106 persones. Major:81,83% Minor:10,76% Minor de 8:7,41%
+  Recaptació total:15432 euros. Major:93,83% Minor:6,17%
+
+Dia 18:
+Sala 1, Sessió 1:
+  Assistència:378 persones. Major:84,92% Minor:8,99% Minor de 8:6,08%
+  Recaptació:5408 euros. Major:94,97% Minor:5,03%
+Sala 1, Sessió 2:
+  Assistència:345 persones. Major:82,61% Minor:9,86% Minor de 8:7,54%
+  Recaptació:4832 euros. Major:94,37% Minor:5,63%
+Sala 1, Sessió 3:
+  Assistència:347 persones. Major:85,01% Minor:10,66% Minor de 8:4,32%
+  Recaptació:5016 euros. Major:94,10% Minor:5,90%
+Total Sala 1:
+  Assistència total:1070 persones. Major:84,21% Minor:9,81% Minor de 8:5,98%
+  Recaptació total:15256 euros. Major:94,49% Minor:5,51%
+
+Sala 2, Sessió 1:
+  Assistència:384 persones. Major:87,24% Minor:8,85% Minor de 8:3,91%
+  Recaptació:5632 euros. Major:95,17% Minor:4,83%
+Sala 2, Sessió 2:
+  Assistència:353 persones. Major:83,29% Minor:12,18% Minor de 8:4,53%
+  Recaptació:5048 euros. Major:93,19% Minor:6,81%
+Sala 2, Sessió 3:
+  Assistència:340 persones. Major:79,41% Minor:14,12% Minor de 8:6,47%
+  Recaptació:4704 euros. Major:91,84% Minor:8,16%
+Total Sala 2:
+  Assistència total:1077 persones. Major:83,47% Minor:11,61% Minor de 8:4,92%
+  Recaptació total:15384 euros. Major:93,50% Minor:6,50%
+
+Sala 3, Sessió 1:
+  Assistència:386 persones. Major:84,72% Minor:10,62% Minor de 8:4,66%
+  Recaptació:5560 euros. Major:94,10% Minor:5,90%
+Sala 3, Sessió 2:
+  Assistència:330 persones. Major:84,24% Minor:8,48% Minor de 8:7,27%
+  Recaptació:4672 euros. Major:95,21% Minor:4,79%
+Sala 3, Sessió 3:
+  Assistència:386 persones. Major:84,72% Minor:8,81% Minor de 8:6,48%
+  Recaptació:5504 euros. Major:95,06% Minor:4,94%
+Total Sala 3:
+  Assistència total:1102 persones. Major:84,57% Minor:9,35% Minor de 8:6,08%
+  Recaptació total:15736 euros. Major:94,76% Minor:5,24%
+
+Sala 4, Sessió 1:
+  Assistència:331 persones. Major:80,97% Minor:11,18% Minor de 8:7,85%
+  Recaptació:4584 euros. Major:93,54% Minor:6,46%
+Sala 4, Sessió 2:
+  Assistència:342 persones. Major:80,99% Minor:12,57% Minor de 8:6,43%
+  Recaptació:4776 euros. Major:92,80% Minor:7,20%
+Sala 4, Sessió 3:
+  Assistència:345 persones. Major:82,61% Minor:10,43% Minor de 8:6,96%
+  Recaptació:4848 euros. Major:94,06% Minor:5,94%
+Total Sala 4:
+  Assistència total:1018 persones. Major:81,53% Minor:11,39% Minor de 8:7,07%
+  Recaptació total:14208 euros. Major:93,47% Minor:6,53%
+
+Sala 5, Sessió 1:
+  Assistència:370 persones. Major:77,30% Minor:12,97% Minor de 8:9,73%
+  Recaptació:4960 euros. Major:92,26% Minor:7,74%
+Sala 5, Sessió 2:
+  Assistència:330 persones. Major:86,06% Minor:9,39% Minor de 8:4,55%
+  Recaptació:4792 euros. Major:94,82% Minor:5,18%
+Sala 5, Sessió 3:
+  Assistència:370 persones. Major:83,51% Minor:9,46% Minor de 8:7,03%
+  Recaptació:5224 euros. Major:94,64% Minor:5,36%
+Total Sala 5:
+  Assistència total:1070 persones. Major:82,15% Minor:10,65% Minor de 8:7,20%
+  Recaptació total:14976 euros. Major:93,91% Minor:6,09%
+
+Sala 6, Sessió 1:
+  Assistència:382 persones. Major:85,08% Minor:8,90% Minor de 8:6,02%
+  Recaptació:5472 euros. Major:95,03% Minor:4,97%
+Sala 6, Sessió 2:
+  Assistència:390 persones. Major:83,33% Minor:8,72% Minor de 8:7,95%
+  Recaptació:5472 euros. Major:95,03% Minor:4,97%
+Sala 6, Sessió 3:
+  Assistència:335 persones. Major:83,28% Minor:9,55% Minor de 8:7,16%
+  Recaptació:4720 euros. Major:94,58% Minor:5,42%
+Total Sala 6:
+  Assistència total:1107 persones. Major:83,92% Minor:9,03% Minor de 8:7,05%
+  Recaptació total:15664 euros. Major:94,89% Minor:5,11%
+
+Sala 7, Sessió 1:
+  Assistència:332 persones. Major:78,61% Minor:10,24% Minor de 8:11,14%
+  Recaptació:4448 euros. Major:93,88% Minor:6,12%
+Sala 7, Sessió 2:
+  Assistència:335 persones. Major:82,39% Minor:9,25% Minor de 8:8,36%
+  Recaptació:4664 euros. Major:94,68% Minor:5,32%
+Sala 7, Sessió 3:
+  Assistència:331 persones. Major:86,40% Minor:8,76% Minor de 8:4,83%
+  Recaptació:4808 euros. Major:95,17% Minor:4,83%
+Total Sala 7:
+  Assistència total:998 persones. Major:82,46% Minor:9,42% Minor de 8:8,12%
+  Recaptació total:13920 euros. Major:94,60% Minor:5,40%
+
+Sala 8, Sessió 1:
+  Assistència:384 persones. Major:84,90% Minor:10,68% Minor de 8:4,43%
+  Recaptació:5544 euros. Major:94,08% Minor:5,92%
+Sala 8, Sessió 2:
+  Assistència:354 persones. Major:83,62% Minor:8,76% Minor de 8:7,63%
+  Recaptació:4984 euros. Major:95,02% Minor:4,98%
+Sala 8, Sessió 3:
+  Assistència:370 persones. Major:82,97% Minor:9,46% Minor de 8:7,57%
+  Recaptació:5192 euros. Major:94,61% Minor:5,39%
+Total Sala 8:
+  Assistència total:1108 persones. Major:83,84% Minor:9,66% Minor de 8:6,50%
+  Recaptació total:15720 euros. Major:94,55% Minor:5,45%
+
+Dia 19:
+Sala 1, Sessió 1:
+  Assistència:351 persones. Major:82,34% Minor:8,26% Minor de 8:9,40%
+  Recaptació:4856 euros. Major:95,22% Minor:4,78%
+Sala 1, Sessió 2:
+  Assistència:378 persones. Major:83,07% Minor:10,85% Minor de 8:6,08%
+  Recaptació:5352 euros. Major:93,87% Minor:6,13%
+Sala 1, Sessió 3:
+  Assistència:355 persones. Major:83,94% Minor:10,42% Minor de 8:5,63%
+  Recaptació:5064 euros. Major:94,15% Minor:5,85%
+Total Sala 1:
+  Assistència total:1084 persones. Major:83,12% Minor:9,87% Minor de 8:7,01%
+  Recaptació total:15272 euros. Major:94,39% Minor:5,61%
+
+Sala 2, Sessió 1:
+  Assistència:389 persones. Major:82,26% Minor:11,57% Minor de 8:6,17%
+  Recaptació:5480 euros. Major:93,43% Minor:6,57%
+Sala 2, Sessió 2:
+  Assistència:354 persones. Major:87,29% Minor:7,06% Minor de 8:5,65%
+  Recaptació:5144 euros. Major:96,11% Minor:3,89%
+Sala 2, Sessió 3:
+  Assistència:321 persones. Major:84,11% Minor:11,84% Minor de 8:4,05%
+  Recaptació:4624 euros. Major:93,43% Minor:6,57%
+Total Sala 2:
+  Assistència total:1064 persones. Major:84,49% Minor:10,15% Minor de 8:5,36%
+  Recaptació total:15248 euros. Major:94,33% Minor:5,67%
+
+Sala 3, Sessió 1:
+  Assistència:395 persones. Major:83,54% Minor:9,11% Minor de 8:7,34%
+  Recaptació:5568 euros. Major:94,83% Minor:5,17%
+Sala 3, Sessió 2:
+  Assistència:359 persones. Major:81,34% Minor:11,14% Minor de 8:7,52%
+  Recaptació:4992 euros. Major:93,59% Minor:6,41%
+Sala 3, Sessió 3:
+  Assistència:360 persones. Major:84,72% Minor:8,89% Minor de 8:6,39%
+  Recaptació:5136 euros. Major:95,02% Minor:4,98%
+Total Sala 3:
+  Assistència total:1114 persones. Major:83,21% Minor:9,69% Minor de 8:7,09%
+  Recaptació total:15696 euros. Major:94,50% Minor:5,50%
+
+Sala 4, Sessió 1:
+  Assistència:368 persones. Major:82,88% Minor:11,68% Minor de 8:5,43%
+  Recaptació:5224 euros. Major:93,42% Minor:6,58%
+Sala 4, Sessió 2:
+  Assistència:347 persones. Major:83,00% Minor:8,65% Minor de 8:8,36%
+  Recaptació:4848 euros. Major:95,05% Minor:4,95%
+Sala 4, Sessió 3:
+  Assistència:387 persones. Major:85,53% Minor:8,01% Minor de 8:6,46%
+  Recaptació:5544 euros. Major:95,53% Minor:4,47%
+Total Sala 4:
+  Assistència total:1102 persones. Major:83,85% Minor:9,44% Minor de 8:6,72%
+  Recaptació total:15616 euros. Major:94,67% Minor:5,33%
+
+Sala 5, Sessió 1:
+  Assistència:381 persones. Major:87,40% Minor:8,14% Minor de 8:4,46%
+  Recaptació:5576 euros. Major:95,55% Minor:4,45%
+Sala 5, Sessió 2:
+  Assistència:379 persones. Major:78,63% Minor:11,35% Minor de 8:10,03%
+  Recaptació:5112 euros. Major:93,27% Minor:6,73%
+Sala 5, Sessió 3:
+  Assistència:355 persones. Major:82,82% Minor:11,27% Minor de 8:5,92%
+  Recaptació:5024 euros. Major:93,63% Minor:6,37%
+Total Sala 5:
+  Assistència total:1115 persones. Major:82,96% Minor:10,22% Minor de 8:6,82%
+  Recaptació total:15712 euros. Major:94,20% Minor:5,80%
+
+Sala 6, Sessió 1:
+  Assistència:380 persones. Major:81,05% Minor:12,11% Minor de 8:6,84%
+  Recaptació:5296 euros. Major:93,05% Minor:6,95%
+Sala 6, Sessió 2:
+  Assistència:335 persones. Major:84,48% Minor:8,96% Minor de 8:6,57%
+  Recaptació:4768 euros. Major:94,97% Minor:5,03%
+Sala 6, Sessió 3:
+  Assistència:356 persones. Major:84,27% Minor:10,96% Minor de 8:4,78%
+  Recaptació:5112 euros. Major:93,90% Minor:6,10%
+Total Sala 6:
+  Assistència total:1071 persones. Major:83,19% Minor:10,74% Minor de 8:6,07%
+  Recaptació total:15176 euros. Major:93,94% Minor:6,06%
+
+Sala 7, Sessió 1:
+  Assistència:376 persones. Major:83,78% Minor:9,04% Minor de 8:7,18%
+  Recaptació:5312 euros. Major:94,88% Minor:5,12%
+Sala 7, Sessió 2:
+  Assistència:368 persones. Major:83,70% Minor:10,33% Minor de 8:5,98%
+  Recaptació:5232 euros. Major:94,19% Minor:5,81%
+Sala 7, Sessió 3:
+  Assistència:323 persones. Major:86,07% Minor:8,05% Minor de 8:5,88%
+  Recaptació:4656 euros. Major:95,53% Minor:4,47%
+Total Sala 7:
+  Assistència total:1067 persones. Major:84,44% Minor:9,18% Minor de 8:6,37%
+  Recaptació total:15200 euros. Major:94,84% Minor:5,16%
+
+Sala 8, Sessió 1:
+  Assistència:394 persones. Major:83,50% Minor:10,41% Minor de 8:6,09%
+  Recaptació:5592 euros. Major:94,13% Minor:5,87%
+Sala 8, Sessió 2:
+  Assistència:381 persones. Major:81,63% Minor:12,86% Minor de 8:5,51%
+  Recaptació:5368 euros. Major:92,70% Minor:7,30%
+Sala 8, Sessió 3:
+  Assistència:362 persones. Major:82,32% Minor:10,50% Minor de 8:7,18%
+  Recaptació:5072 euros. Major:94,01% Minor:5,99%
+Total Sala 8:
+  Assistència total:1137 persones. Major:82,50% Minor:11,26% Minor de 8:6,24%
+  Recaptació total:16032 euros. Major:93,61% Minor:6,39%
+
+Dia 20:
+Sala 1, Sessió 1:
+  Assistència:383 persones. Major:87,21% Minor:7,57% Minor de 8:5,22%
+  Recaptació:5576 euros. Major:95,84% Minor:4,16%
+Sala 1, Sessió 2:
+  Assistència:388 persones. Major:86,08% Minor:11,34% Minor de 8:2,58%
+  Recaptació:5696 euros. Major:93,82% Minor:6,18%
+Sala 1, Sessió 3:
+  Assistència:394 persones. Major:82,74% Minor:10,91% Minor de 8:6,35%
+  Recaptació:5560 euros. Major:93,81% Minor:6,19%
+Sala 1, Sessió 4:
+  Assistència:323 persones. Major:85,45% Minor:10,84% Minor de 8:3,72%
+  Recaptació:4696 euros. Major:94,04% Minor:5,96%
+Sala 1, Sessió 5:
+  Assistència:373 persones. Major:83,38% Minor:8,85% Minor de 8:7,77%
+  Recaptació:5240 euros. Major:94,96% Minor:5,04%
+Total Sala 1:
+  Assistència total:1861 persones. Major:84,95% Minor:9,89% Minor de 8:5,16%
+  Recaptació total:26768 euros. Major:94,50% Minor:5,50%
+
+Sala 2, Sessió 1:
+  Assistència:339 persones. Major:84,96% Minor:8,26% Minor de 8:6,78%
+  Recaptació:4832 euros. Major:95,36% Minor:4,64%
+Sala 2, Sessió 2:
+  Assistència:323 persones. Major:82,35% Minor:10,84% Minor de 8:6,81%
+  Recaptació:4536 euros. Major:93,83% Minor:6,17%
+Sala 2, Sessió 3:
+  Assistència:381 persones. Major:85,30% Minor:8,92% Minor de 8:5,77%
+  Recaptació:5472 euros. Major:95,03% Minor:4,97%
+Sala 2, Sessió 4:
+  Assistència:342 persones. Major:85,96% Minor:8,77% Minor de 8:5,26%
+  Recaptació:4944 euros. Major:95,15% Minor:4,85%
+Sala 2, Sessió 5:
+  Assistència:356 persones. Major:80,90% Minor:13,48% Minor de 8:5,62%
+  Recaptació:4992 euros. Major:92,31% Minor:7,69%
+Total Sala 2:
+  Assistència total:1741 persones. Major:83,92% Minor:10,05% Minor de 8:6,03%
+  Recaptació total:24776 euros. Major:94,35% Minor:5,65%
+
+Sala 3, Sessió 1:
+  Assistència:375 persones. Major:81,33% Minor:10,40% Minor de 8:8,27%
+  Recaptació:5192 euros. Major:93,99% Minor:6,01%
+Sala 3, Sessió 2:
+  Assistència:337 persones. Major:85,16% Minor:11,28% Minor de 8:3,56%
+  Recaptació:4896 euros. Major:93,79% Minor:6,21%
+Sala 3, Sessió 3:
+  Assistència:352 persones. Major:79,83% Minor:13,07% Minor de 8:7,10%
+  Recaptació:4864 euros. Major:92,43% Minor:7,57%
+Sala 3, Sessió 4:
+  Assistència:377 persones. Major:83,55% Minor:9,02% Minor de 8:7,43%
+  Recaptació:5312 euros. Major:94,88% Minor:5,12%
+Sala 3, Sessió 5:
+  Assistència:332 persones. Major:81,93% Minor:8,73% Minor de 8:9,34%
+  Recaptació:4584 euros. Major:94,94% Minor:5,06%
+Total Sala 3:
+  Assistència total:1773 persones. Major:82,35% Minor:10,49% Minor de 8:7,16%
+  Recaptació total:24848 euros. Major:94,01% Minor:5,99%
+
+Sala 4, Sessió 1:
+  Assistència:333 persones. Major:85,59% Minor:9,91% Minor de 8:4,50%
+  Recaptació:4824 euros. Major:94,53% Minor:5,47%
+Sala 4, Sessió 2:
+  Assistència:342 persones. Major:85,67% Minor:8,77% Minor de 8:5,56%
+  Recaptació:4928 euros. Major:95,13% Minor:4,87%
+Sala 4, Sessió 3:
+  Assistència:332 persones. Major:81,93% Minor:11,14% Minor de 8:6,93%
+  Recaptació:4648 euros. Major:93,63% Minor:6,37%
+Sala 4, Sessió 4:
+  Assistència:371 persones. Major:83,83% Minor:10,78% Minor de 8:5,39%
+  Recaptació:5296 euros. Major:93,96% Minor:6,04%
+Sala 4, Sessió 5:
+  Assistència:336 persones. Major:85,42% Minor:9,52% Minor de 8:5,06%
+  Recaptació:4848 euros. Major:94,72% Minor:5,28%
+Total Sala 4:
+  Assistència total:1714 persones. Major:84,48% Minor:10,04% Minor de 8:5,48%
+  Recaptació total:24544 euros. Major:94,39% Minor:5,61%
+
+Sala 5, Sessió 1:
+  Assistència:357 persones. Major:81,79% Minor:10,36% Minor de 8:7,84%
+  Recaptació:4968 euros. Major:94,04% Minor:5,96%
+Sala 5, Sessió 2:
+  Assistència:342 persones. Major:84,50% Minor:8,48% Minor de 8:7,02%
+  Recaptació:4856 euros. Major:95,22% Minor:4,78%
+Sala 5, Sessió 3:
+  Assistència:393 persones. Major:82,95% Minor:7,89% Minor de 8:9,16%
+  Recaptació:5464 euros. Major:95,46% Minor:4,54%
+Sala 5, Sessió 4:
+  Assistència:324 persones. Major:83,02% Minor:8,64% Minor de 8:8,33%
+  Recaptació:4528 euros. Major:95,05% Minor:4,95%
+Sala 5, Sessió 5:
+  Assistència:328 persones. Major:83,23% Minor:12,50% Minor de 8:4,27%
+  Recaptació:4696 euros. Major:93,02% Minor:6,98%
+Total Sala 5:
+  Assistència total:1744 persones. Major:83,08% Minor:9,52% Minor de 8:7,40%
+  Recaptació total:24512 euros. Major:94,58% Minor:5,42%
+
+Sala 6, Sessió 1:
+  Assistència:353 persones. Major:83,57% Minor:10,48% Minor de 8:5,95%
+  Recaptació:5016 euros. Major:94,10% Minor:5,90%
+Sala 6, Sessió 2:
+  Assistència:394 persones. Major:81,47% Minor:12,18% Minor de 8:6,35%
+  Recaptació:5520 euros. Major:93,04% Minor:6,96%
+Sala 6, Sessió 3:
+  Assistència:351 persones. Major:85,75% Minor:12,25% Minor de 8:1,99%
+  Recaptació:5160 euros. Major:93,33% Minor:6,67%
+Sala 6, Sessió 4:
+  Assistència:341 persones. Major:82,40% Minor:9,68% Minor de 8:7,92%
+  Recaptació:4760 euros. Major:94,45% Minor:5,55%
+Sala 6, Sessió 5:
+  Assistència:367 persones. Major:79,56% Minor:10,90% Minor de 8:9,54%
+  Recaptació:4992 euros. Major:93,59% Minor:6,41%
+Total Sala 6:
+  Assistència total:1806 persones. Major:82,50% Minor:11,13% Minor de 8:6,37%
+  Recaptació total:25448 euros. Major:93,68% Minor:6,32%
+
+Sala 7, Sessió 1:
+  Assistència:385 persones. Major:83,64% Minor:9,87% Minor de 8:6,49%
+  Recaptació:5456 euros. Major:94,43% Minor:5,57%
+Sala 7, Sessió 2:
+  Assistència:399 persones. Major:83,71% Minor:10,03% Minor de 8:6,27%
+  Recaptació:5664 euros. Major:94,35% Minor:5,65%
+Sala 7, Sessió 3:
+  Assistència:392 persones. Major:81,63% Minor:11,22% Minor de 8:7,14%
+  Recaptació:5472 euros. Major:93,57% Minor:6,43%
+Sala 7, Sessió 4:
+  Assistència:321 persones. Major:86,29% Minor:9,35% Minor de 8:4,36%
+  Recaptació:4672 euros. Major:94,86% Minor:5,14%
+Sala 7, Sessió 5:
+  Assistència:385 persones. Major:85,71% Minor:10,13% Minor de 8:4,16%
+  Recaptació:5592 euros. Major:94,42% Minor:5,58%
+Total Sala 7:
+  Assistència total:1882 persones. Major:84,11% Minor:10,15% Minor de 8:5,74%
+  Recaptació total:26856 euros. Major:94,31% Minor:5,69%
+
+Sala 8, Sessió 1:
+  Assistència:341 persones. Major:80,06% Minor:12,90% Minor de 8:7,04%
+  Recaptació:4720 euros. Major:92,54% Minor:7,46%
+Sala 8, Sessió 2:
+  Assistència:346 persones. Major:86,99% Minor:8,96% Minor de 8:4,05%
+  Recaptació:5064 euros. Major:95,10% Minor:4,90%
+Sala 8, Sessió 3:
+  Assistència:335 persones. Major:84,78% Minor:10,15% Minor de 8:5,07%
+  Recaptació:4816 euros. Major:94,35% Minor:5,65%
+Sala 8, Sessió 4:
+  Assistència:370 persones. Major:82,43% Minor:10,27% Minor de 8:7,30%
+  Recaptació:5184 euros. Major:94,14% Minor:5,86%
+Sala 8, Sessió 5:
+  Assistència:380 persones. Major:85,79% Minor:9,21% Minor de 8:5,00%
+  Recaptació:5496 euros. Major:94,91% Minor:5,09%
+Total Sala 8:
+  Assistència total:1772 persones. Major:84,03% Minor:10,27% Minor de 8:5,70%
+  Recaptació total:25280 euros. Major:94,24% Minor:5,76%
+
+Dia 21:
+Sala 1, Sessió 1:
+  Assistència:358 persones. Major:81,56% Minor:8,94% Minor de 8:9,50%
+  Recaptació:4928 euros. Major:94,81% Minor:5,19%
+Sala 1, Sessió 2:
+  Assistència:355 persones. Major:84,23% Minor:10,70% Minor de 8:5,07%
+  Recaptació:5088 euros. Major:94,03% Minor:5,97%
+Sala 1, Sessió 3:
+  Assistència:326 persones. Major:83,44% Minor:11,96% Minor de 8:4,60%
+  Recaptació:4664 euros. Major:93,31% Minor:6,69%
+Sala 1, Sessió 4:
+  Assistència:345 persones. Major:82,61% Minor:11,01% Minor de 8:6,38%
+  Recaptació:4864 euros. Major:93,75% Minor:6,25%
+Sala 1, Sessió 5:
+  Assistència:322 persones. Major:81,06% Minor:12,11% Minor de 8:6,83%
+  Recaptació:4488 euros. Major:93,05% Minor:6,95%
+Total Sala 1:
+  Assistència total:1706 persones. Major:82,59% Minor:10,90% Minor de 8:6,51%
+  Recaptació total:24032 euros. Major:93,81% Minor:6,19%
+
+Sala 2, Sessió 1:
+  Assistència:373 persones. Major:82,31% Minor:11,26% Minor de 8:6,43%
+  Recaptació:5248 euros. Major:93,60% Minor:6,40%
+Sala 2, Sessió 2:
+  Assistència:374 persones. Major:82,62% Minor:10,70% Minor de 8:6,68%
+  Recaptació:5264 euros. Major:93,92% Minor:6,08%
+Sala 2, Sessió 3:
+  Assistència:388 persones. Major:86,86% Minor:9,54% Minor de 8:3,61%
+  Recaptació:5688 euros. Major:94,80% Minor:5,20%
+Sala 2, Sessió 4:
+  Assistència:355 persones. Major:85,63% Minor:8,17% Minor de 8:6,20%
+  Recaptació:5096 euros. Major:95,45% Minor:4,55%
+Sala 2, Sessió 5:
+  Assistència:328 persones. Major:81,10% Minor:10,37% Minor de 8:8,54%
+  Recaptació:4528 euros. Major:93,99% Minor:6,01%
+Total Sala 2:
+  Assistència total:1818 persones. Major:83,77% Minor:10,01% Minor de 8:6,22%
+  Recaptació total:25824 euros. Major:94,36% Minor:5,64%
+
+Sala 3, Sessió 1:
+  Assistència:372 persones. Major:83,87% Minor:9,68% Minor de 8:6,45%
+  Recaptació:5280 euros. Major:94,55% Minor:5,45%
+Sala 3, Sessió 2:
+  Assistència:345 persones. Major:81,74% Minor:10,43% Minor de 8:7,83%
+  Recaptació:4800 euros. Major:94,00% Minor:6,00%
+Sala 3, Sessió 3:
+  Assistència:391 persones. Major:83,12% Minor:12,02% Minor de 8:4,86%
+  Recaptació:5576 euros. Major:93,26% Minor:6,74%
+Sala 3, Sessió 4:
+  Assistència:365 persones. Major:75,34% Minor:13,15% Minor de 8:11,51%
+  Recaptació:4784 euros. Major:91,97% Minor:8,03%
+Sala 3, Sessió 5:
+  Assistència:324 persones. Major:84,26% Minor:9,88% Minor de 8:5,86%
+  Recaptació:4624 euros. Major:94,46% Minor:5,54%
+Total Sala 3:
+  Assistència total:1797 persones. Major:81,64% Minor:11,07% Minor de 8:7,29%
+  Recaptació total:25064 euros. Major:93,65% Minor:6,35%
+
+Sala 4, Sessió 1:
+  Assistència:332 persones. Major:87,35% Minor:8,73% Minor de 8:3,92%
+  Recaptació:4872 euros. Major:95,24% Minor:4,76%
+Sala 4, Sessió 2:
+  Assistència:327 persones. Major:78,29% Minor:10,40% Minor de 8:11,31%
+  Recaptació:4368 euros. Major:93,77% Minor:6,23%
+Sala 4, Sessió 3:
+  Assistència:376 persones. Major:82,71% Minor:12,77% Minor de 8:4,52%
+  Recaptació:5360 euros. Major:92,84% Minor:7,16%
+Sala 4, Sessió 4:
+  Assistència:333 persones. Major:81,38% Minor:13,81% Minor de 8:4,80%
+  Recaptació:4704 euros. Major:92,18% Minor:7,82%
+Sala 4, Sessió 5:
+  Assistència:334 persones. Major:84,73% Minor:8,38% Minor de 8:6,89%
+  Recaptació:4752 euros. Major:95,29% Minor:4,71%
+Total Sala 4:
+  Assistència total:1702 persones. Major:82,90% Minor:10,87% Minor de 8:6,23%
+  Recaptació total:24056 euros. Major:93,85% Minor:6,15%
+
+Sala 5, Sessió 1:
+  Assistència:363 persones. Major:84,57% Minor:9,37% Minor de 8:6,06%
+  Recaptació:5184 euros. Major:94,75% Minor:5,25%
+Sala 5, Sessió 2:
+  Assistència:380 persones. Major:83,95% Minor:10,26% Minor de 8:5,79%
+  Recaptació:5416 euros. Major:94,24% Minor:5,76%
+Sala 5, Sessió 3:
+  Assistència:380 persones. Major:84,21% Minor:9,47% Minor de 8:6,32%
+  Recaptació:5408 euros. Major:94,67% Minor:5,33%
+Sala 5, Sessió 4:
+  Assistència:320 persones. Major:79,38% Minor:11,56% Minor de 8:9,06%
+  Recaptació:4360 euros. Major:93,21% Minor:6,79%
+Sala 5, Sessió 5:
+  Assistència:399 persones. Major:82,21% Minor:8,52% Minor de 8:9,27%
+  Recaptació:5520 euros. Major:95,07% Minor:4,93%
+Total Sala 5:
+  Assistència total:1842 persones. Major:82,95% Minor:9,77% Minor de 8:7,27%
+  Recaptació total:25888 euros. Major:94,44% Minor:5,56%
+
+Sala 6, Sessió 1:
+  Assistència:331 persones. Major:86,10% Minor:9,37% Minor de 8:4,53%
+  Recaptació:4808 euros. Major:94,84% Minor:5,16%
+Sala 6, Sessió 2:
+  Assistència:327 persones. Major:79,82% Minor:9,79% Minor de 8:10,40%
+  Recaptació:4432 euros. Major:94,22% Minor:5,78%
+Sala 6, Sessió 3:
+  Assistència:343 persones. Major:84,26% Minor:9,91% Minor de 8:5,83%
+  Recaptació:4896 euros. Major:94,44% Minor:5,56%
+Sala 6, Sessió 4:
+  Assistència:331 persones. Major:85,20% Minor:9,67% Minor de 8:5,14%
+  Recaptació:4768 euros. Major:94,63% Minor:5,37%
+Sala 6, Sessió 5:
+  Assistència:348 persones. Major:81,32% Minor:11,78% Minor de 8:6,90%
+  Recaptació:4856 euros. Major:93,25% Minor:6,75%
+Total Sala 6:
+  Assistència total:1680 persones. Major:83,33% Minor:10,12% Minor de 8:6,55%
+  Recaptació total:23760 euros. Major:94,28% Minor:5,72%
+
+Sala 7, Sessió 1:
+  Assistència:374 persones. Major:83,69% Minor:8,29% Minor de 8:8,02%
+  Recaptació:5256 euros. Major:95,28% Minor:4,72%
+Sala 7, Sessió 2:
+  Assistència:336 persones. Major:84,82% Minor:10,71% Minor de 8:4,46%
+  Recaptació:4848 euros. Major:94,06% Minor:5,94%
+Sala 7, Sessió 3:
+  Assistència:370 persones. Major:84,86% Minor:8,38% Minor de 8:6,76%
+  Recaptació:5272 euros. Major:95,30% Minor:4,70%
+Sala 7, Sessió 4:
+  Assistència:345 persones. Major:83,19% Minor:10,14% Minor de 8:6,67%
+  Recaptació:4872 euros. Major:94,25% Minor:5,75%
+Sala 7, Sessió 5:
+  Assistència:366 persones. Major:84,97% Minor:10,11% Minor de 8:4,92%
+  Recaptació:5272 euros. Major:94,39% Minor:5,61%
+Total Sala 7:
+  Assistència total:1791 persones. Major:84,31% Minor:9,49% Minor de 8:6,20%
+  Recaptació total:25520 euros. Major:94,67% Minor:5,33%
+
+Sala 8, Sessió 1:
+  Assistència:330 persones. Major:89,09% Minor:5,76% Minor de 8:5,15%
+  Recaptació:4856 euros. Major:96,87% Minor:3,13%
+Sala 8, Sessió 2:
+  Assistència:343 persones. Major:84,55% Minor:10,20% Minor de 8:5,25%
+  Recaptació:4920 euros. Major:94,31% Minor:5,69%
+Sala 8, Sessió 3:
+  Assistència:369 persones. Major:86,45% Minor:8,94% Minor de 8:4,61%
+  Recaptació:5368 euros. Major:95,08% Minor:4,92%
+Sala 8, Sessió 4:
+  Assistència:373 persones. Major:82,84% Minor:9,92% Minor de 8:7,24%
+  Recaptació:5240 euros. Major:94,35% Minor:5,65%
+Sala 8, Sessió 5:
+  Assistència:355 persones. Major:82,54% Minor:10,14% Minor de 8:7,32%
+  Recaptació:4976 euros. Major:94,21% Minor:5,79%
+Total Sala 8:
+  Assistència total:1770 persones. Major:85,03% Minor:9,04% Minor de 8:5,93%
+  Recaptació total:25360 euros. Major:94,95% Minor:5,05%
+
+Dia 22:
+Sala 1, Sessió 1:
+  Assistència:394 persones. Major:82,99% Minor:11,68% Minor de 8:5,33%
+  Recaptació:5600 euros. Major:93,43% Minor:6,57%
+Sala 1, Sessió 2:
+  Assistència:385 persones. Major:81,04% Minor:11,95% Minor de 8:7,01%
+  Recaptació:5360 euros. Major:93,13% Minor:6,87%
+Sala 1, Sessió 3:
+  Assistència:375 persones. Major:83,20% Minor:8,53% Minor de 8:8,27%
+  Recaptació:5248 euros. Major:95,12% Minor:4,88%
+Total Sala 1:
+  Assistència total:1154 persones. Major:82,41% Minor:10,75% Minor de 8:6,85%
+  Recaptació total:16208 euros. Major:93,88% Minor:6,12%
+
+Sala 2, Sessió 1:
+  Assistència:381 persones. Major:83,99% Minor:8,92% Minor de 8:7,09%
+  Recaptació:5392 euros. Major:94,96% Minor:5,04%
+Sala 2, Sessió 2:
+  Assistència:367 persones. Major:83,38% Minor:7,63% Minor de 8:8,99%
+  Recaptació:5120 euros. Major:95,63% Minor:4,38%
+Sala 2, Sessió 3:
+  Assistència:338 persones. Major:83,14% Minor:10,06% Minor de 8:6,80%
+  Recaptació:4768 euros. Major:94,30% Minor:5,70%
+Total Sala 2:
+  Assistència total:1086 persones. Major:83,52% Minor:8,84% Minor de 8:7,64%
+  Recaptació total:15280 euros. Major:94,97% Minor:5,03%
+
+Sala 3, Sessió 1:
+  Assistència:351 persones. Major:82,34% Minor:11,11% Minor de 8:6,55%
+  Recaptació:4936 euros. Major:93,68% Minor:6,32%
+Sala 3, Sessió 2:
+  Assistència:364 persones. Major:80,49% Minor:12,09% Minor de 8:7,42%
+  Recaptació:5040 euros. Major:93,02% Minor:6,98%
+Sala 3, Sessió 3:
+  Assistència:343 persones. Major:82,22% Minor:11,37% Minor de 8:6,41%
+  Recaptació:4824 euros. Major:93,53% Minor:6,47%
+Total Sala 3:
+  Assistència total:1058 persones. Major:81,66% Minor:11,53% Minor de 8:6,81%
+  Recaptació total:14800 euros. Major:93,41% Minor:6,59%
+
+Sala 4, Sessió 1:
+  Assistència:380 persones. Major:85,00% Minor:9,47% Minor de 8:5,53%
+  Recaptació:5456 euros. Major:94,72% Minor:5,28%
+Sala 4, Sessió 2:
+  Assistència:365 persones. Major:84,11% Minor:10,14% Minor de 8:5,75%
+  Recaptació:5208 euros. Major:94,32% Minor:5,68%
+Sala 4, Sessió 3:
+  Assistència:398 persones. Major:82,16% Minor:9,30% Minor de 8:8,54%
+  Recaptació:5528 euros. Major:94,65% Minor:5,35%
+Total Sala 4:
+  Assistència total:1143 persones. Major:83,73% Minor:9,62% Minor de 8:6,65%
+  Recaptació total:16192 euros. Major:94,57% Minor:5,43%
+
+Sala 5, Sessió 1:
+  Assistència:374 persones. Major:80,75% Minor:13,37% Minor de 8:5,88%
+  Recaptació:5232 euros. Major:92,35% Minor:7,65%
+Sala 5, Sessió 2:
+  Assistència:373 persones. Major:85,52% Minor:7,24% Minor de 8:7,24%
+  Recaptació:5320 euros. Major:95,94% Minor:4,06%
+Sala 5, Sessió 3:
+  Assistència:327 persones. Major:85,02% Minor:8,56% Minor de 8:6,42%
+  Recaptació:4672 euros. Major:95,21% Minor:4,79%
+Total Sala 5:
+  Assistència total:1074 persones. Major:83,71% Minor:9,78% Minor de 8:6,52%
+  Recaptació total:15224 euros. Major:94,48% Minor:5,52%
+
+Sala 6, Sessió 1:
+  Assistència:334 persones. Major:82,04% Minor:12,28% Minor de 8:5,69%
+  Recaptació:4712 euros. Major:93,04% Minor:6,96%
+Sala 6, Sessió 2:
+  Assistència:321 persones. Major:82,87% Minor:11,53% Minor de 8:5,61%
+  Recaptació:4552 euros. Major:93,50% Minor:6,50%
+Sala 6, Sessió 3:
+  Assistència:360 persones. Major:84,72% Minor:10,28% Minor de 8:5,00%
+  Recaptació:5176 euros. Major:94,28% Minor:5,72%
+Total Sala 6:
+  Assistència total:1015 persones. Major:83,25% Minor:11,33% Minor de 8:5,42%
+  Recaptació total:14440 euros. Major:93,63% Minor:6,37%
+
+Sala 7, Sessió 1:
+  Assistència:394 persones. Major:81,22% Minor:10,41% Minor de 8:8,38%
+  Recaptació:5448 euros. Major:93,98% Minor:6,02%
+Sala 7, Sessió 2:
+  Assistència:336 persones. Major:85,42% Minor:8,04% Minor de 8:6,55%
+  Recaptació:4808 euros. Major:95,51% Minor:4,49%
+Sala 7, Sessió 3:
+  Assistència:377 persones. Major:84,08% Minor:10,61% Minor de 8:5,31%
+  Recaptació:5392 euros. Major:94,07% Minor:5,93%
+Total Sala 7:
+  Assistència total:1107 persones. Major:83,47% Minor:9,76% Minor de 8:6,78%
+  Recaptació total:15648 euros. Major:94,48% Minor:5,52%
+
+Sala 8, Sessió 1:
+  Assistència:389 persones. Major:80,21% Minor:11,31% Minor de 8:8,48%
+  Recaptació:5344 euros. Major:93,41% Minor:6,59%
+Sala 8, Sessió 2:
+  Assistència:321 persones. Major:81,62% Minor:9,97% Minor de 8:8,41%
+  Recaptació:4448 euros. Major:94,24% Minor:5,76%
+Sala 8, Sessió 3:
+  Assistència:351 persones. Major:84,33% Minor:8,55% Minor de 8:7,12%
+  Recaptació:4976 euros. Major:95,18% Minor:4,82%
+Total Sala 8:
+  Assistència total:1061 persones. Major:82,00% Minor:9,99% Minor de 8:8,01%
+  Recaptació total:14768 euros. Major:94,26% Minor:5,74%
+
+Dia 23:
+Sala 1, Sessió 1:
+  Assistència:387 persones. Major:82,95% Minor:10,34% Minor de 8:6,72%
+  Recaptació:5456 euros. Major:94,13% Minor:5,87%
+Sala 1, Sessió 2:
+  Assistència:327 persones. Major:82,87% Minor:11,31% Minor de 8:5,81%
+  Recaptació:4632 euros. Major:93,61% Minor:6,39%
+Sala 1, Sessió 3:
+  Assistència:355 persones. Major:82,25% Minor:7,61% Minor de 8:10,14%
+  Recaptació:4888 euros. Major:95,58% Minor:4,42%
+Total Sala 1:
+  Assistència total:1069 persones. Major:82,69% Minor:9,73% Minor de 8:7,58%
+  Recaptació total:14976 euros. Major:94,44% Minor:5,56%
+
+Sala 2, Sessió 1:
+  Assistència:355 persones. Major:82,82% Minor:9,58% Minor de 8:7,61%
+  Recaptació:4976 euros. Major:94,53% Minor:5,47%
+Sala 2, Sessió 2:
+  Assistència:330 persones. Major:80,61% Minor:10,91% Minor de 8:8,48%
+  Recaptació:4544 euros. Major:93,66% Minor:6,34%
+Sala 2, Sessió 3:
+  Assistència:341 persones. Major:83,28% Minor:8,80% Minor de 8:7,92%
+  Recaptació:4784 euros. Major:94,98% Minor:5,02%
+Total Sala 2:
+  Assistència total:1026 persones. Major:82,26% Minor:9,75% Minor de 8:7,99%
+  Recaptació total:14304 euros. Major:94,41% Minor:5,59%
+
+Sala 3, Sessió 1:
+  Assistència:392 persones. Major:84,18% Minor:9,95% Minor de 8:5,87%
+  Recaptació:5592 euros. Major:94,42% Minor:5,58%
+Sala 3, Sessió 2:
+  Assistència:358 persones. Major:83,80% Minor:10,34% Minor de 8:5,87%
+  Recaptació:5096 euros. Major:94,19% Minor:5,81%
+Sala 3, Sessió 3:
+  Assistència:353 persones. Major:81,87% Minor:12,46% Minor de 8:5,67%
+  Recaptació:4976 euros. Major:92,93% Minor:7,07%
+Total Sala 3:
+  Assistència total:1103 persones. Major:83,32% Minor:10,88% Minor de 8:5,80%
+  Recaptació total:15664 euros. Major:93,87% Minor:6,13%
+
+Sala 4, Sessió 1:
+  Assistència:373 persones. Major:83,65% Minor:8,58% Minor de 8:7,77%
+  Recaptació:5248 euros. Major:95,12% Minor:4,88%
+Sala 4, Sessió 2:
+  Assistència:375 persones. Major:83,20% Minor:10,40% Minor de 8:6,40%
+  Recaptació:5304 euros. Major:94,12% Minor:5,88%
+Sala 4, Sessió 3:
+  Assistència:338 persones. Major:84,02% Minor:9,76% Minor de 8:6,21%
+  Recaptació:4808 euros. Major:94,51% Minor:5,49%
+Total Sala 4:
+  Assistència total:1086 persones. Major:83,61% Minor:9,58% Minor de 8:6,81%
+  Recaptació total:15360 euros. Major:94,58% Minor:5,42%
+
+Sala 5, Sessió 1:
+  Assistència:372 persones. Major:84,41% Minor:10,22% Minor de 8:5,38%
+  Recaptació:5328 euros. Major:94,29% Minor:5,71%
+Sala 5, Sessió 2:
+  Assistència:377 persones. Major:84,62% Minor:9,81% Minor de 8:5,57%
+  Recaptació:5400 euros. Major:94,52% Minor:5,48%
+Sala 5, Sessió 3:
+  Assistència:346 persones. Major:80,06% Minor:9,83% Minor de 8:10,12%
+  Recaptació:4704 euros. Major:94,22% Minor:5,78%
+Total Sala 5:
+  Assistència total:1095 persones. Major:83,11% Minor:9,95% Minor de 8:6,94%
+  Recaptació total:15432 euros. Major:94,35% Minor:5,65%
+
+Sala 6, Sessió 1:
+  Assistència:363 persones. Major:82,92% Minor:12,12% Minor de 8:4,96%
+  Recaptació:5168 euros. Major:93,19% Minor:6,81%
+Sala 6, Sessió 2:
+  Assistència:327 persones. Major:81,35% Minor:11,93% Minor de 8:6,73%
+  Recaptació:4568 euros. Major:93,17% Minor:6,83%
+Sala 6, Sessió 3:
+  Assistència:383 persones. Major:85,38% Minor:8,62% Minor de 8:6,01%
+  Recaptació:5496 euros. Major:95,20% Minor:4,80%
+Total Sala 6:
+  Assistència total:1073 persones. Major:83,32% Minor:10,81% Minor de 8:5,87%
+  Recaptació total:15232 euros. Major:93,91% Minor:6,09%
+
+Sala 7, Sessió 1:
+  Assistència:372 persones. Major:85,22% Minor:11,02% Minor de 8:3,76%
+  Recaptació:5400 euros. Major:93,93% Minor:6,07%
+Sala 7, Sessió 2:
+  Assistència:351 persones. Major:84,62% Minor:8,55% Minor de 8:6,84%
+  Recaptació:4992 euros. Major:95,19% Minor:4,81%
+Sala 7, Sessió 3:
+  Assistència:349 persones. Major:84,24% Minor:8,88% Minor de 8:6,88%
+  Recaptació:4952 euros. Major:94,99% Minor:5,01%
+Total Sala 7:
+  Assistència total:1072 persones. Major:84,70% Minor:9,51% Minor de 8:5,78%
+  Recaptació total:15344 euros. Major:94,68% Minor:5,32%
+
+Sala 8, Sessió 1:
+  Assistència:368 persones. Major:82,61% Minor:10,33% Minor de 8:7,07%
+  Recaptació:5168 euros. Major:94,12% Minor:5,88%
+Sala 8, Sessió 2:
+  Assistència:364 persones. Major:85,71% Minor:10,44% Minor de 8:3,85%
+  Recaptació:5296 euros. Major:94,26% Minor:5,74%
+Sala 8, Sessió 3:
+  Assistència:366 persones. Major:84,43% Minor:9,56% Minor de 8:6,01%
+  Recaptació:5224 euros. Major:94,64% Minor:5,36%
+Total Sala 8:
+  Assistència total:1098 persones. Major:84,24% Minor:10,11% Minor de 8:5,65%
+  Recaptació total:15688 euros. Major:94,34% Minor:5,66%
+
+Dia 24:
+Sala 1, Sessió 1:
+  Assistència:322 persones. Major:88,20% Minor:7,14% Minor de 8:4,66%
+  Recaptació:4728 euros. Major:96,11% Minor:3,89%
+Sala 1, Sessió 2:
+  Assistència:330 persones. Major:85,15% Minor:8,79% Minor de 8:6,06%
+  Recaptació:4728 euros. Major:95,09% Minor:4,91%
+Sala 1, Sessió 3:
+  Assistència:350 persones. Major:85,14% Minor:8,86% Minor de 8:6,00%
+  Recaptació:5016 euros. Major:95,06% Minor:4,94%
+Total Sala 1:
+  Assistència total:1002 persones. Major:86,13% Minor:8,28% Minor de 8:5,59%
+  Recaptació total:14472 euros. Major:95,41% Minor:4,59%
+
+Sala 2, Sessió 1:
+  Assistència:381 persones. Major:81,10% Minor:9,45% Minor de 8:9,45%
+  Recaptació:5232 euros. Major:94,50% Minor:5,50%
+Sala 2, Sessió 2:
+  Assistència:366 persones. Major:82,79% Minor:10,93% Minor de 8:6,28%
+  Recaptació:5168 euros. Major:93,81% Minor:6,19%
+Sala 2, Sessió 3:
+  Assistència:385 persones. Major:86,23% Minor:8,05% Minor de 8:5,71%
+  Recaptació:5560 euros. Major:95,54% Minor:4,46%
+Total Sala 2:
+  Assistència total:1132 persones. Major:83,39% Minor:9,45% Minor de 8:7,16%
+  Recaptació total:15960 euros. Major:94,64% Minor:5,36%
+
+Sala 3, Sessió 1:
+  Assistència:396 persones. Major:81,57% Minor:11,62% Minor de 8:6,82%
+  Recaptació:5536 euros. Major:93,35% Minor:6,65%
+Sala 3, Sessió 2:
+  Assistència:353 persones. Major:86,12% Minor:7,93% Minor de 8:5,95%
+  Recaptació:5088 euros. Major:95,60% Minor:4,40%
+Sala 3, Sessió 3:
+  Assistència:386 persones. Major:82,12% Minor:9,84% Minor de 8:8,03%
+  Recaptació:5376 euros. Major:94,35% Minor:5,65%
+Total Sala 3:
+  Assistència total:1135 persones. Major:83,17% Minor:9,87% Minor de 8:6,96%
+  Recaptació total:16000 euros. Major:94,40% Minor:5,60%
+
+Sala 4, Sessió 1:
+  Assistència:335 persones. Major:83,88% Minor:11,64% Minor de 8:4,48%
+  Recaptació:4808 euros. Major:93,51% Minor:6,49%
+Sala 4, Sessió 2:
+  Assistència:358 persones. Major:82,12% Minor:13,69% Minor de 8:4,19%
+  Recaptació:5096 euros. Major:92,31% Minor:7,69%
+Sala 4, Sessió 3:
+  Assistència:381 persones. Major:80,58% Minor:11,81% Minor de 8:7,61%
+  Recaptació:5272 euros. Major:93,17% Minor:6,83%
+Total Sala 4:
+  Assistència total:1074 persones. Major:82,12% Minor:12,38% Minor de 8:5,49%
+  Recaptació total:15176 euros. Major:92,99% Minor:7,01%
+
+Sala 5, Sessió 1:
+  Assistència:352 persones. Major:87,22% Minor:6,53% Minor de 8:6,25%
+  Recaptació:5096 euros. Major:96,39% Minor:3,61%
+Sala 5, Sessió 2:
+  Assistència:322 persones. Major:83,85% Minor:10,25% Minor de 8:5,90%
+  Recaptació:4584 euros. Major:94,24% Minor:5,76%
+Sala 5, Sessió 3:
+  Assistència:354 persones. Major:85,59% Minor:9,60% Minor de 8:4,80%
+  Recaptació:5120 euros. Major:94,69% Minor:5,31%
+Total Sala 5:
+  Assistència total:1028 persones. Major:85,60% Minor:8,75% Minor de 8:5,64%
+  Recaptació total:14800 euros. Major:95,14% Minor:4,86%
+
+Sala 6, Sessió 1:
+  Assistència:390 persones. Major:81,79% Minor:10,00% Minor de 8:8,21%
+  Recaptació:5416 euros. Major:94,24% Minor:5,76%
+Sala 6, Sessió 2:
+  Assistència:357 persones. Major:82,63% Minor:12,04% Minor de 8:5,32%
+  Recaptació:5064 euros. Major:93,21% Minor:6,79%
+Sala 6, Sessió 3:
+  Assistència:349 persones. Major:83,38% Minor:10,03% Minor de 8:6,59%
+  Recaptació:4936 euros. Major:94,33% Minor:5,67%
+Total Sala 6:
+  Assistència total:1096 persones. Major:82,57% Minor:10,68% Minor de 8:6,75%
+  Recaptació total:15416 euros. Major:93,93% Minor:6,07%
+
+Sala 7, Sessió 1:
+  Assistència:393 persones. Major:84,48% Minor:10,43% Minor de 8:5,09%
+  Recaptació:5640 euros. Major:94,18% Minor:5,82%
+Sala 7, Sessió 2:
+  Assistència:325 persones. Major:79,08% Minor:10,15% Minor de 8:10,77%
+  Recaptació:4376 euros. Major:93,97% Minor:6,03%
+Sala 7, Sessió 3:
+  Assistència:327 persones. Major:85,02% Minor:7,65% Minor de 8:7,34%
+  Recaptació:4648 euros. Major:95,70% Minor:4,30%
+Total Sala 7:
+  Assistència total:1045 persones. Major:82,97% Minor:9,47% Minor de 8:7,56%
+  Recaptació total:14664 euros. Major:94,60% Minor:5,40%
+
+Sala 8, Sessió 1:
+  Assistència:379 persones. Major:81,53% Minor:8,71% Minor de 8:9,76%
+  Recaptació:5208 euros. Major:94,93% Minor:5,07%
+Sala 8, Sessió 2:
+  Assistència:332 persones. Major:85,54% Minor:9,94% Minor de 8:4,52%
+  Recaptació:4808 euros. Major:94,51% Minor:5,49%
+Sala 8, Sessió 3:
+  Assistència:356 persones. Major:82,02% Minor:12,08% Minor de 8:5,90%
+  Recaptació:5016 euros. Major:93,14% Minor:6,86%
+Total Sala 8:
+  Assistència total:1067 persones. Major:82,94% Minor:10,22% Minor de 8:6,84%
+  Recaptació total:15032 euros. Major:94,20% Minor:5,80%
+
+Dia 25:
+Sala 1, Sessió 1:
+  Assistència:377 persones. Major:81,70% Minor:11,41% Minor de 8:6,90%
+  Recaptació:5272 euros. Major:93,47% Minor:6,53%
+Sala 1, Sessió 2:
+  Assistència:372 persones. Major:83,06% Minor:11,83% Minor de 8:5,11%
+  Recaptació:5296 euros. Major:93,35% Minor:6,65%
+Sala 1, Sessió 3:
+  Assistència:383 persones. Major:84,86% Minor:9,14% Minor de 8:6,01%
+  Recaptació:5480 euros. Major:94,89% Minor:5,11%
+Total Sala 1:
+  Assistència total:1132 persones. Major:83,22% Minor:10,78% Minor de 8:6,01%
+  Recaptació total:16048 euros. Major:93,92% Minor:6,08%
+
+Sala 2, Sessió 1:
+  Assistència:349 persones. Major:83,67% Minor:10,32% Minor de 8:6,02%
+  Recaptació:4960 euros. Major:94,19% Minor:5,81%
+Sala 2, Sessió 2:
+  Assistència:372 persones. Major:83,06% Minor:11,02% Minor de 8:5,91%
+  Recaptació:5272 euros. Major:93,78% Minor:6,22%
+Sala 2, Sessió 3:
+  Assistència:323 persones. Major:86,07% Minor:9,60% Minor de 8:4,33%
+  Recaptació:4696 euros. Major:94,72% Minor:5,28%
+Total Sala 2:
+  Assistència total:1044 persones. Major:84,20% Minor:10,34% Minor de 8:5,46%
+  Recaptació total:14928 euros. Major:94,21% Minor:5,79%
+
+Sala 3, Sessió 1:
+  Assistència:370 persones. Major:80,54% Minor:14,05% Minor de 8:5,41%
+  Recaptació:5184 euros. Major:91,98% Minor:8,02%
+Sala 3, Sessió 2:
+  Assistència:320 persones. Major:82,81% Minor:8,75% Minor de 8:8,44%
+  Recaptació:4464 euros. Major:94,98% Minor:5,02%
+Sala 3, Sessió 3:
+  Assistència:397 persones. Major:82,62% Minor:9,07% Minor de 8:8,31%
+  Recaptació:5536 euros. Major:94,80% Minor:5,20%
+Total Sala 3:
+  Assistència total:1087 persones. Major:81,97% Minor:10,67% Minor de 8:7,36%
+  Recaptació total:15184 euros. Major:93,89% Minor:6,11%
+
+Sala 4, Sessió 1:
+  Assistència:362 persones. Major:82,32% Minor:9,67% Minor de 8:8,01%
+  Recaptació:5048 euros. Major:94,45% Minor:5,55%
+Sala 4, Sessió 2:
+  Assistència:356 persones. Major:84,55% Minor:8,43% Minor de 8:7,02%
+  Recaptació:5056 euros. Major:95,25% Minor:4,75%
+Sala 4, Sessió 3:
+  Assistència:376 persones. Major:80,32% Minor:11,17% Minor de 8:8,51%
+  Recaptació:5168 euros. Major:93,50% Minor:6,50%
+Total Sala 4:
+  Assistència total:1094 persones. Major:82,36% Minor:9,78% Minor de 8:7,86%
+  Recaptació total:15272 euros. Major:94,39% Minor:5,61%
+
+Sala 5, Sessió 1:
+  Assistència:381 persones. Major:82,94% Minor:8,92% Minor de 8:8,14%
+  Recaptació:5328 euros. Major:94,89% Minor:5,11%
+Sala 5, Sessió 2:
+  Assistència:369 persones. Major:82,11% Minor:11,92% Minor de 8:5,96%
+  Recaptació:5200 euros. Major:93,23% Minor:6,77%
+Sala 5, Sessió 3:
+  Assistència:338 persones. Major:83,43% Minor:11,24% Minor de 8:5,33%
+  Recaptació:4816 euros. Major:93,69% Minor:6,31%
+Total Sala 5:
+  Assistència total:1088 persones. Major:82,81% Minor:10,66% Minor de 8:6,53%
+  Recaptació total:15344 euros. Major:93,95% Minor:6,05%
+
+Sala 6, Sessió 1:
+  Assistència:322 persones. Major:83,23% Minor:9,94% Minor de 8:6,83%
+  Recaptació:4544 euros. Major:94,37% Minor:5,63%
+Sala 6, Sessió 2:
+  Assistència:333 persones. Major:84,08% Minor:9,31% Minor de 8:6,61%
+  Recaptació:4728 euros. Major:94,75% Minor:5,25%
+Sala 6, Sessió 3:
+  Assistència:358 persones. Major:81,01% Minor:11,17% Minor de 8:7,82%
+  Recaptació:4960 euros. Major:93,55% Minor:6,45%
+Total Sala 6:
+  Assistència total:1013 persones. Major:82,72% Minor:10,17% Minor de 8:7,11%
+  Recaptació total:14232 euros. Major:94,21% Minor:5,79%
+
+Sala 7, Sessió 1:
+  Assistència:392 persones. Major:82,91% Minor:10,20% Minor de 8:6,89%
+  Recaptació:5520 euros. Major:94,20% Minor:5,80%
+Sala 7, Sessió 2:
+  Assistència:343 persones. Major:85,71% Minor:8,16% Minor de 8:6,12%
+  Recaptació:4928 euros. Major:95,45% Minor:4,55%
+Sala 7, Sessió 3:
+  Assistència:397 persones. Major:83,88% Minor:12,09% Minor de 8:4,03%
+  Recaptació:5712 euros. Major:93,28% Minor:6,72%
+Total Sala 7:
+  Assistència total:1132 persones. Major:84,10% Minor:10,25% Minor de 8:5,65%
+  Recaptació total:16160 euros. Major:94,26% Minor:5,74%
+
+Sala 8, Sessió 1:
+  Assistència:335 persones. Major:83,58% Minor:9,85% Minor de 8:6,57%
+  Recaptació:4744 euros. Major:94,44% Minor:5,56%
+Sala 8, Sessió 2:
+  Assistència:355 persones. Major:84,79% Minor:9,30% Minor de 8:5,92%
+  Recaptació:5080 euros. Major:94,80% Minor:5,20%
+Sala 8, Sessió 3:
+  Assistència:399 persones. Major:82,96% Minor:11,28% Minor de 8:5,76%
+  Recaptació:5656 euros. Major:93,64% Minor:6,36%
+Total Sala 8:
+  Assistència total:1089 persones. Major:83,75% Minor:10,19% Minor de 8:6,06%
+  Recaptació total:15480 euros. Major:94,26% Minor:5,74%
+
+Dia 26:
+Sala 1, Sessió 1:
+  Assistència:377 persones. Major:85,41% Minor:10,08% Minor de 8:4,51%
+  Recaptació:5456 euros. Major:94,43% Minor:5,57%
+Sala 1, Sessió 2:
+  Assistència:362 persones. Major:83,15% Minor:9,67% Minor de 8:7,18%
+  Recaptació:5096 euros. Major:94,51% Minor:5,49%
+Sala 1, Sessió 3:
+  Assistència:333 persones. Major:81,08% Minor:12,31% Minor de 8:6,61%
+  Recaptació:4648 euros. Major:92,94% Minor:7,06%
+Total Sala 1:
+  Assistència total:1072 persones. Major:83,30% Minor:10,63% Minor de 8:6,06%
+  Recaptació total:15200 euros. Major:94,00% Minor:6,00%
+
+Sala 2, Sessió 1:
+  Assistència:334 persones. Major:79,94% Minor:11,08% Minor de 8:8,98%
+  Recaptació:4568 euros. Major:93,52% Minor:6,48%
+Sala 2, Sessió 2:
+  Assistència:331 persones. Major:82,48% Minor:11,18% Minor de 8:6,34%
+  Recaptació:4664 euros. Major:93,65% Minor:6,35%
+Sala 2, Sessió 3:
+  Assistència:389 persones. Major:84,58% Minor:10,03% Minor de 8:5,40%
+  Recaptació:5576 euros. Major:94,40% Minor:5,60%
+Total Sala 2:
+  Assistència total:1054 persones. Major:82,45% Minor:10,72% Minor de 8:6,83%
+  Recaptació total:14808 euros. Major:93,90% Minor:6,10%
+
+Sala 3, Sessió 1:
+  Assistència:326 persones. Major:84,97% Minor:8,59% Minor de 8:6,44%
+  Recaptació:4656 euros. Major:95,19% Minor:4,81%
+Sala 3, Sessió 2:
+  Assistència:372 persones. Major:79,03% Minor:11,02% Minor de 8:9,95%
+  Recaptació:5032 euros. Major:93,48% Minor:6,52%
+Sala 3, Sessió 3:
+  Assistència:395 persones. Major:82,78% Minor:10,38% Minor de 8:6,84%
+  Recaptació:5560 euros. Major:94,10% Minor:5,90%
+Total Sala 3:
+  Assistència total:1093 persones. Major:82,16% Minor:10,06% Minor de 8:7,78%
+  Recaptació total:15248 euros. Major:94,23% Minor:5,77%
+
+Sala 4, Sessió 1:
+  Assistència:347 persones. Major:80,40% Minor:10,09% Minor de 8:9,51%
+  Recaptació:4744 euros. Major:94,10% Minor:5,90%
+Sala 4, Sessió 2:
+  Assistència:322 persones. Major:80,43% Minor:12,73% Minor de 8:6,83%
+  Recaptació:4472 euros. Major:92,67% Minor:7,33%
+Sala 4, Sessió 3:
+  Assistència:337 persones. Major:79,53% Minor:14,54% Minor de 8:5,93%
+  Recaptació:4680 euros. Major:91,62% Minor:8,38%
+Total Sala 4:
+  Assistència total:1006 persones. Major:80,12% Minor:12,43% Minor de 8:7,46%
+  Recaptació total:13896 euros. Major:92,80% Minor:7,20%
+
+Sala 5, Sessió 1:
+  Assistència:342 persones. Major:84,80% Minor:11,11% Minor de 8:4,09%
+  Recaptació:4944 euros. Major:93,85% Minor:6,15%
+Sala 5, Sessió 2:
+  Assistència:390 persones. Major:85,13% Minor:9,49% Minor de 8:5,38%
+  Recaptació:5608 euros. Major:94,72% Minor:5,28%
+Sala 5, Sessió 3:
+  Assistència:368 persones. Major:85,60% Minor:9,78% Minor de 8:4,62%
+  Recaptació:5328 euros. Major:94,59% Minor:5,41%
+Total Sala 5:
+  Assistència total:1100 persones. Major:85,18% Minor:10,09% Minor de 8:4,73%
+  Recaptació total:15880 euros. Major:94,41% Minor:5,59%
+
+Sala 6, Sessió 1:
+  Assistència:327 persones. Major:81,65% Minor:12,84% Minor de 8:5,50%
+  Recaptació:4608 euros. Major:92,71% Minor:7,29%
+Sala 6, Sessió 2:
+  Assistència:325 persones. Major:85,85% Minor:7,08% Minor de 8:7,08%
+  Recaptació:4648 euros. Major:96,04% Minor:3,96%
+Sala 6, Sessió 3:
+  Assistència:361 persones. Major:80,33% Minor:12,19% Minor de 8:7,48%
+  Recaptació:4992 euros. Major:92,95% Minor:7,05%
+Total Sala 6:
+  Assistència total:1013 persones. Major:82,53% Minor:10,76% Minor de 8:6,71%
+  Recaptació total:14248 euros. Major:93,88% Minor:6,12%
+
+Sala 7, Sessió 1:
+  Assistència:341 persones. Major:82,99% Minor:11,73% Minor de 8:5,28%
+  Recaptació:4848 euros. Major:93,40% Minor:6,60%
+Sala 7, Sessió 2:
+  Assistència:386 persones. Major:81,35% Minor:8,81% Minor de 8:9,84%
+  Recaptació:5296 euros. Major:94,86% Minor:5,14%
+Sala 7, Sessió 3:
+  Assistència:384 persones. Major:83,59% Minor:10,16% Minor de 8:6,25%
+  Recaptació:5448 euros. Major:94,27% Minor:5,73%
+Total Sala 7:
+  Assistència total:1111 persones. Major:82,63% Minor:10,17% Minor de 8:7,20%
+  Recaptació total:15592 euros. Major:94,20% Minor:5,80%
+
+Sala 8, Sessió 1:
+  Assistència:338 persones. Major:80,18% Minor:11,54% Minor de 8:8,28%
+  Recaptació:4648 euros. Major:93,29% Minor:6,71%
+Sala 8, Sessió 2:
+  Assistència:342 persones. Major:86,26% Minor:7,31% Minor de 8:6,43%
+  Recaptació:4920 euros. Major:95,93% Minor:4,07%
+Sala 8, Sessió 3:
+  Assistència:324 persones. Major:83,64% Minor:9,57% Minor de 8:6,79%
+  Recaptació:4584 euros. Major:94,59% Minor:5,41%
+Total Sala 8:
+  Assistència total:1004 persones. Major:83,37% Minor:9,46% Minor de 8:7,17%
+  Recaptació total:14152 euros. Major:94,63% Minor:5,37%
+
+Dia 27:
+Sala 1, Sessió 1:
+  Assistència:338 persones. Major:88,46% Minor:6,51% Minor de 8:5,03%
+  Recaptació:4960 euros. Major:96,45% Minor:3,55%
+Sala 1, Sessió 2:
+  Assistència:341 persones. Major:83,87% Minor:10,56% Minor de 8:5,57%
+  Recaptació:4864 euros. Major:94,08% Minor:5,92%
+Sala 1, Sessió 3:
+  Assistència:362 persones. Major:79,83% Minor:11,05% Minor de 8:9,12%
+  Recaptació:4944 euros. Major:93,53% Minor:6,47%
+Sala 1, Sessió 4:
+  Assistència:381 persones. Major:83,46% Minor:10,50% Minor de 8:6,04%
+  Recaptació:5408 euros. Major:94,08% Minor:5,92%
+Sala 1, Sessió 5:
+  Assistència:343 persones. Major:79,59% Minor:9,62% Minor de 8:10,79%
+  Recaptació:4632 euros. Major:94,30% Minor:5,70%
+Total Sala 1:
+  Assistència total:1765 persones. Major:83,00% Minor:9,69% Minor de 8:7,31%
+  Recaptació total:24808 euros. Major:94,49% Minor:5,51%
+
+Sala 2, Sessió 1:
+  Assistència:323 persones. Major:84,21% Minor:8,98% Minor de 8:6,81%
+  Recaptació:4584 euros. Major:94,94% Minor:5,06%
+Sala 2, Sessió 2:
+  Assistència:328 persones. Major:82,62% Minor:11,28% Minor de 8:6,10%
+  Recaptació:4632 euros. Major:93,61% Minor:6,39%
+Sala 2, Sessió 3:
+  Assistència:394 persones. Major:84,26% Minor:9,14% Minor de 8:6,60%
+  Recaptació:5600 euros. Major:94,86% Minor:5,14%
+Sala 2, Sessió 4:
+  Assistència:354 persones. Major:83,33% Minor:11,86% Minor de 8:4,80%
+  Recaptació:5056 euros. Major:93,35% Minor:6,65%
+Sala 2, Sessió 5:
+  Assistència:336 persones. Major:82,14% Minor:11,01% Minor de 8:6,85%
+  Recaptació:4712 euros. Major:93,72% Minor:6,28%
+Total Sala 2:
+  Assistència total:1735 persones. Major:83,34% Minor:10,43% Minor de 8:6,22%
+  Recaptació total:24584 euros. Major:94,11% Minor:5,89%
+
+Sala 3, Sessió 1:
+  Assistència:340 persones. Major:80,00% Minor:13,24% Minor de 8:6,76%
+  Recaptació:4712 euros. Major:92,36% Minor:7,64%
+Sala 3, Sessió 2:
+  Assistència:338 persones. Major:82,54% Minor:10,36% Minor de 8:7,10%
+  Recaptació:4744 euros. Major:94,10% Minor:5,90%
+Sala 3, Sessió 3:
+  Assistència:342 persones. Major:82,16% Minor:11,99% Minor de 8:5,85%
+  Recaptació:4824 euros. Major:93,20% Minor:6,80%
+Sala 3, Sessió 4:
+  Assistència:358 persones. Major:80,45% Minor:11,73% Minor de 8:7,82%
+  Recaptació:4944 euros. Major:93,20% Minor:6,80%
+Sala 3, Sessió 5:
+  Assistència:353 persones. Major:82,44% Minor:11,33% Minor de 8:6,23%
+  Recaptació:4976 euros. Major:93,57% Minor:6,43%
+Total Sala 3:
+  Assistència total:1731 persones. Major:81,51% Minor:11,73% Minor de 8:6,76%
+  Recaptació total:24200 euros. Major:93,29% Minor:6,71%
+
+Sala 4, Sessió 1:
+  Assistència:387 persones. Major:81,14% Minor:10,34% Minor de 8:8,53%
+  Recaptació:5344 euros. Major:94,01% Minor:5,99%
+Sala 4, Sessió 2:
+  Assistència:369 persones. Major:79,95% Minor:13,01% Minor de 8:7,05%
+  Recaptació:5104 euros. Major:92,48% Minor:7,52%
+Sala 4, Sessió 3:
+  Assistència:365 persones. Major:82,74% Minor:11,51% Minor de 8:5,75%
+  Recaptació:5168 euros. Major:93,50% Minor:6,50%
+Sala 4, Sessió 4:
+  Assistència:349 persones. Major:85,67% Minor:9,74% Minor de 8:4,58%
+  Recaptació:5056 euros. Major:94,62% Minor:5,38%
+Sala 4, Sessió 5:
+  Assistència:350 persones. Major:82,86% Minor:8,57% Minor de 8:8,57%
+  Recaptació:4880 euros. Major:95,08% Minor:4,92%
+Total Sala 4:
+  Assistència total:1820 persones. Major:82,42% Minor:10,66% Minor de 8:6,92%
+  Recaptació total:25552 euros. Major:93,93% Minor:6,07%
+
+Sala 5, Sessió 1:
+  Assistència:338 persones. Major:82,25% Minor:11,24% Minor de 8:6,51%
+  Recaptació:4752 euros. Major:93,60% Minor:6,40%
+Sala 5, Sessió 2:
+  Assistència:357 persones. Major:79,83% Minor:12,89% Minor de 8:7,28%
+  Recaptació:4928 euros. Major:92,53% Minor:7,47%
+Sala 5, Sessió 3:
+  Assistència:376 persones. Major:82,18% Minor:10,90% Minor de 8:6,91%
+  Recaptació:5272 euros. Major:93,78% Minor:6,22%
+Sala 5, Sessió 4:
+  Assistència:397 persones. Major:85,39% Minor:9,57% Minor de 8:5,04%
+  Recaptació:5728 euros. Major:94,69% Minor:5,31%
+Sala 5, Sessió 5:
+  Assistència:376 persones. Major:82,71% Minor:10,11% Minor de 8:7,18%
+  Recaptació:5280 euros. Major:94,24% Minor:5,76%
+Total Sala 5:
+  Assistència total:1844 persones. Major:82,54% Minor:10,90% Minor de 8:6,56%
+  Recaptació total:25960 euros. Major:93,81% Minor:6,19%
+
+Sala 6, Sessió 1:
+  Assistència:329 persones. Major:85,41% Minor:10,33% Minor de 8:4,26%
+  Recaptació:4768 euros. Major:94,30% Minor:5,70%
+Sala 6, Sessió 2:
+  Assistència:387 persones. Major:84,50% Minor:6,20% Minor de 8:9,30%
+  Recaptació:5424 euros. Major:96,46% Minor:3,54%
+Sala 6, Sessió 3:
+  Assistència:368 persones. Major:82,34% Minor:9,51% Minor de 8:8,15%
+  Recaptació:5128 euros. Major:94,54% Minor:5,46%
+Sala 6, Sessió 4:
+  Assistència:362 persones. Major:84,25% Minor:9,39% Minor de 8:6,35%
+  Recaptació:5152 euros. Major:94,72% Minor:5,28%
+Sala 6, Sessió 5:
+  Assistència:395 persones. Major:82,53% Minor:10,63% Minor de 8:6,84%
+  Recaptació:5552 euros. Major:93,95% Minor:6,05%
+Total Sala 6:
+  Assistència total:1841 persones. Major:83,76% Minor:9,18% Minor de 8:7,06%
+  Recaptació total:26024 euros. Major:94,80% Minor:5,20%
+
+Sala 7, Sessió 1:
+  Assistència:355 persones. Major:83,38% Minor:11,55% Minor de 8:5,07%
+  Recaptació:5064 euros. Major:93,52% Minor:6,48%
+Sala 7, Sessió 2:
+  Assistència:355 persones. Major:83,66% Minor:9,30% Minor de 8:7,04%
+  Recaptació:5016 euros. Major:94,74% Minor:5,26%
+Sala 7, Sessió 3:
+  Assistència:387 persones. Major:83,20% Minor:9,82% Minor de 8:6,98%
+  Recaptació:5456 euros. Major:94,43% Minor:5,57%
+Sala 7, Sessió 4:
+  Assistència:364 persones. Major:85,44% Minor:8,24% Minor de 8:6,32%
+  Recaptació:5216 euros. Major:95,40% Minor:4,60%
+Sala 7, Sessió 5:
+  Assistència:347 persones. Major:85,88% Minor:8,65% Minor de 8:5,48%
+  Recaptació:5008 euros. Major:95,21% Minor:4,79%
+Total Sala 7:
+  Assistència total:1808 persones. Major:84,29% Minor:9,51% Minor de 8:6,19%
+  Recaptació total:25760 euros. Major:94,66% Minor:5,34%
+
+Sala 8, Sessió 1:
+  Assistència:359 persones. Major:87,47% Minor:9,47% Minor de 8:3,06%
+  Recaptació:5296 euros. Major:94,86% Minor:5,14%
+Sala 8, Sessió 2:
+  Assistència:363 persones. Major:84,30% Minor:8,54% Minor de 8:7,16%
+  Recaptació:5144 euros. Major:95,18% Minor:4,82%
+Sala 8, Sessió 3:
+  Assistència:341 persones. Major:85,34% Minor:9,97% Minor de 8:4,69%
+  Recaptació:4928 euros. Major:94,48% Minor:5,52%
+Sala 8, Sessió 4:
+  Assistència:337 persones. Major:81,31% Minor:11,87% Minor de 8:6,82%
+  Recaptació:4704 euros. Major:93,20% Minor:6,80%
+Sala 8, Sessió 5:
+  Assistència:366 persones. Major:84,43% Minor:10,93% Minor de 8:4,64%
+  Recaptació:5264 euros. Major:93,92% Minor:6,08%
+Total Sala 8:
+  Assistència total:1766 persones. Major:84,60% Minor:10,14% Minor de 8:5,27%
+  Recaptació total:25336 euros. Major:94,35% Minor:5,65%
+
+Dia 28:
+Sala 1, Sessió 1:
+  Assistència:355 persones. Major:82,54% Minor:11,27% Minor de 8:6,20%
+  Recaptació:5008 euros. Major:93,61% Minor:6,39%
+Sala 1, Sessió 2:
+  Assistència:354 persones. Major:85,03% Minor:9,04% Minor de 8:5,93%
+  Recaptació:5072 euros. Major:94,95% Minor:5,05%
+Sala 1, Sessió 3:
+  Assistència:354 persones. Major:83,33% Minor:10,73% Minor de 8:5,93%
+  Recaptació:5024 euros. Major:93,95% Minor:6,05%
+Sala 1, Sessió 4:
+  Assistència:325 persones. Major:82,77% Minor:10,15% Minor de 8:7,08%
+  Recaptació:4568 euros. Major:94,22% Minor:5,78%
+Sala 1, Sessió 5:
+  Assistència:348 persones. Major:82,47% Minor:9,20% Minor de 8:8,33%
+  Recaptació:4848 euros. Major:94,72% Minor:5,28%
+Total Sala 1:
+  Assistència total:1736 persones. Major:83,24% Minor:10,08% Minor de 8:6,68%
+  Recaptació total:24520 euros. Major:94,29% Minor:5,71%
+
+Sala 2, Sessió 1:
+  Assistència:358 persones. Major:81,56% Minor:9,78% Minor de 8:8,66%
+  Recaptació:4952 euros. Major:94,35% Minor:5,65%
+Sala 2, Sessió 2:
+  Assistència:323 persones. Major:83,59% Minor:8,36% Minor de 8:8,05%
+  Recaptació:4536 euros. Major:95,24% Minor:4,76%
+Sala 2, Sessió 3:
+  Assistència:366 persones. Major:81,69% Minor:13,66% Minor de 8:4,64%
+  Recaptació:5184 euros. Major:92,28% Minor:7,72%
+Sala 2, Sessió 4:
+  Assistència:336 persones. Major:82,74% Minor:10,71% Minor de 8:6,55%
+  Recaptació:4736 euros. Major:93,92% Minor:6,08%
+Sala 2, Sessió 5:
+  Assistència:358 persones. Major:81,28% Minor:10,61% Minor de 8:8,10%
+  Recaptació:4960 euros. Major:93,87% Minor:6,13%
+Total Sala 2:
+  Assistència total:1741 persones. Major:82,14% Minor:10,68% Minor de 8:7,18%
+  Recaptació total:24368 euros. Major:93,89% Minor:6,11%
+
+Sala 3, Sessió 1:
+  Assistència:328 persones. Major:86,59% Minor:9,15% Minor de 8:4,27%
+  Recaptació:4784 euros. Major:94,98% Minor:5,02%
+Sala 3, Sessió 2:
+  Assistència:350 persones. Major:86,86% Minor:7,43% Minor de 8:5,71%
+  Recaptació:5072 euros. Major:95,90% Minor:4,10%
+Sala 3, Sessió 3:
+  Assistència:384 persones. Major:83,59% Minor:8,07% Minor de 8:8,33%
+  Recaptació:5384 euros. Major:95,39% Minor:4,61%
+Sala 3, Sessió 4:
+  Assistència:371 persones. Major:86,25% Minor:8,89% Minor de 8:4,85%
+  Recaptació:5384 euros. Major:95,10% Minor:4,90%
+Sala 3, Sessió 5:
+  Assistència:338 persones. Major:81,66% Minor:13,91% Minor de 8:4,44%
+  Recaptació:4792 euros. Major:92,15% Minor:7,85%
+Total Sala 3:
+  Assistència total:1771 persones. Major:84,98% Minor:9,43% Minor de 8:5,59%
+  Recaptació total:25416 euros. Major:94,74% Minor:5,26%
+
+Sala 4, Sessió 1:
+  Assistència:322 persones. Major:83,54% Minor:10,56% Minor de 8:5,90%
+  Recaptació:4576 euros. Major:94,06% Minor:5,94%
+Sala 4, Sessió 2:
+  Assistència:354 persones. Major:88,14% Minor:8,76% Minor de 8:3,11%
+  Recaptació:5240 euros. Major:95,27% Minor:4,73%
+Sala 4, Sessió 3:
+  Assistència:327 persones. Major:84,10% Minor:11,62% Minor de 8:4,28%
+  Recaptació:4704 euros. Major:93,54% Minor:6,46%
+Sala 4, Sessió 4:
+  Assistència:397 persones. Major:81,36% Minor:10,58% Minor de 8:8,06%
+  Recaptació:5504 euros. Major:93,90% Minor:6,10%
+Sala 4, Sessió 5:
+  Assistència:329 persones. Major:83,59% Minor:10,64% Minor de 8:5,78%
+  Recaptació:4680 euros. Major:94,02% Minor:5,98%
+Total Sala 4:
+  Assistència total:1729 persones. Major:84,09% Minor:10,41% Minor de 8:5,49%
+  Recaptació total:24704 euros. Major:94,17% Minor:5,83%
+
+Sala 5, Sessió 1:
+  Assistència:334 persones. Major:81,74% Minor:11,38% Minor de 8:6,89%
+  Recaptació:4672 euros. Major:93,49% Minor:6,51%
+Sala 5, Sessió 2:
+  Assistència:334 persones. Major:84,13% Minor:11,38% Minor de 8:4,49%
+  Recaptació:4800 euros. Major:93,67% Minor:6,33%
+Sala 5, Sessió 3:
+  Assistència:384 persones. Major:79,95% Minor:12,24% Minor de 8:7,81%
+  Recaptació:5288 euros. Major:92,89% Minor:7,11%
+Sala 5, Sessió 4:
+  Assistència:378 persones. Major:86,77% Minor:7,41% Minor de 8:5,82%
+  Recaptació:5472 euros. Major:95,91% Minor:4,09%
+Sala 5, Sessió 5:
+  Assistència:395 persones. Major:85,32% Minor:7,34% Minor de 8:7,34%
+  Recaptació:5624 euros. Major:95,87% Minor:4,13%
+Total Sala 5:
+  Assistència total:1825 persones. Major:83,62% Minor:9,86% Minor de 8:6,52%
+  Recaptació total:25856 euros. Major:94,43% Minor:5,57%
+
+Sala 6, Sessió 1:
+  Assistència:391 persones. Major:82,61% Minor:9,97% Minor de 8:7,42%
+  Recaptació:5480 euros. Major:94,31% Minor:5,69%
+Sala 6, Sessió 2:
+  Assistència:334 persones. Major:85,03% Minor:8,08% Minor de 8:6,89%
+  Recaptació:4760 euros. Major:95,46% Minor:4,54%
+Sala 6, Sessió 3:
+  Assistència:322 persones. Major:81,68% Minor:8,39% Minor de 8:9,94%
+  Recaptació:4424 euros. Major:95,12% Minor:4,88%
+Sala 6, Sessió 4:
+  Assistència:344 persones. Major:85,17% Minor:8,43% Minor de 8:6,40%
+  Recaptació:4920 euros. Major:95,28% Minor:4,72%
+Sala 6, Sessió 5:
+  Assistència:336 persones. Major:83,33% Minor:9,52% Minor de 8:7,14%
+  Recaptació:4736 euros. Major:94,59% Minor:5,41%
+Total Sala 6:
+  Assistència total:1727 persones. Major:83,56% Minor:8,92% Minor de 8:7,53%
+  Recaptació total:24320 euros. Major:94,93% Minor:5,07%
+
+Sala 7, Sessió 1:
+  Assistència:348 persones. Major:81,03% Minor:10,06% Minor de 8:8,91%
+  Recaptació:4792 euros. Major:94,16% Minor:5,84%
+Sala 7, Sessió 2:
+  Assistència:395 persones. Major:82,03% Minor:11,14% Minor de 8:6,84%
+  Recaptació:5536 euros. Major:93,64% Minor:6,36%
+Sala 7, Sessió 3:
+  Assistència:360 persones. Major:86,11% Minor:8,61% Minor de 8:5,28%
+  Recaptació:5208 euros. Major:95,24% Minor:4,76%
+Sala 7, Sessió 4:
+  Assistència:351 persones. Major:84,62% Minor:8,83% Minor de 8:6,55%
+  Recaptació:5000 euros. Major:95,04% Minor:4,96%
+Sala 7, Sessió 5:
+  Assistència:337 persones. Major:83,09% Minor:9,79% Minor de 8:7,12%
+  Recaptació:4744 euros. Major:94,44% Minor:5,56%
+Total Sala 7:
+  Assistència total:1791 persones. Major:83,36% Minor:9,72% Minor de 8:6,92%
+  Recaptació total:25280 euros. Major:94,49% Minor:5,51%
+
+Sala 8, Sessió 1:
+  Assistència:370 persones. Major:86,49% Minor:8,65% Minor de 8:4,86%
+  Recaptació:5376 euros. Major:95,24% Minor:4,76%
+Sala 8, Sessió 2:
+  Assistència:367 persones. Major:85,01% Minor:7,36% Minor de 8:7,63%
+  Recaptació:5208 euros. Major:95,85% Minor:4,15%
+Sala 8, Sessió 3:
+  Assistència:372 persones. Major:86,56% Minor:7,80% Minor de 8:5,65%
+  Recaptació:5384 euros. Major:95,69% Minor:4,31%
+Sala 8, Sessió 4:
+  Assistència:361 persones. Major:83,66% Minor:7,48% Minor de 8:8,86%
+  Recaptació:5048 euros. Major:95,72% Minor:4,28%
+Sala 8, Sessió 5:
+  Assistència:381 persones. Major:86,35% Minor:8,40% Minor de 8:5,25%
+  Recaptació:5520 euros. Major:95,36% Minor:4,64%
+Total Sala 8:
+  Assistència total:1851 persones. Major:85,63% Minor:7,94% Minor de 8:6,43%
+  Recaptació total:26536 euros. Major:95,57% Minor:4,43%
+
+Dia 29:
+Sala 1, Sessió 1:
+  Assistència:372 persones. Major:88,44% Minor:6,72% Minor de 8:4,84%
+  Recaptació:5464 euros. Major:96,34% Minor:3,66%
+Sala 1, Sessió 2:
+  Assistència:384 persones. Major:84,64% Minor:10,68% Minor de 8:4,69%
+  Recaptació:5528 euros. Major:94,07% Minor:5,93%
+Sala 1, Sessió 3:
+  Assistència:360 persones. Major:83,06% Minor:10,00% Minor de 8:6,94%
+  Recaptació:5072 euros. Major:94,32% Minor:5,68%
+Total Sala 1:
+  Assistència total:1116 persones. Major:85,39% Minor:9,14% Minor de 8:5,47%
+  Recaptació total:16064 euros. Major:94,92% Minor:5,08%
+
+Sala 2, Sessió 1:
+  Assistència:386 persones. Major:85,23% Minor:11,66% Minor de 8:3,11%
+  Recaptació:5624 euros. Major:93,60% Minor:6,40%
+Sala 2, Sessió 2:
+  Assistència:340 persones. Major:81,76% Minor:10,88% Minor de 8:7,35%
+  Recaptació:4744 euros. Major:93,76% Minor:6,24%
+Sala 2, Sessió 3:
+  Assistència:377 persones. Major:83,82% Minor:10,88% Minor de 8:5,31%
+  Recaptació:5384 euros. Major:93,91% Minor:6,09%
+Total Sala 2:
+  Assistència total:1103 persones. Major:83,68% Minor:11,15% Minor de 8:5,17%
+  Recaptació total:15752 euros. Major:93,75% Minor:6,25%
+
+Sala 3, Sessió 1:
+  Assistència:366 persones. Major:83,33% Minor:8,20% Minor de 8:8,47%
+  Recaptació:5120 euros. Major:95,31% Minor:4,69%
+Sala 3, Sessió 2:
+  Assistència:393 persones. Major:84,73% Minor:9,41% Minor de 8:5,85%
+  Recaptació:5624 euros. Major:94,74% Minor:5,26%
+Sala 3, Sessió 3:
+  Assistència:342 persones. Major:85,38% Minor:9,36% Minor de 8:5,26%
+  Recaptació:4928 euros. Major:94,81% Minor:5,19%
+Total Sala 3:
+  Assistència total:1101 persones. Major:84,47% Minor:8,99% Minor de 8:6,54%
+  Recaptació total:15672 euros. Major:94,95% Minor:5,05%
+
+Sala 4, Sessió 1:
+  Assistència:333 persones. Major:81,08% Minor:10,81% Minor de 8:8,11%
+  Recaptació:4608 euros. Major:93,75% Minor:6,25%
+Sala 4, Sessió 2:
+  Assistència:371 persones. Major:85,98% Minor:10,24% Minor de 8:3,77%
+  Recaptació:5408 euros. Major:94,38% Minor:5,62%
+Sala 4, Sessió 3:
+  Assistència:382 persones. Major:82,98% Minor:9,95% Minor de 8:7,07%
+  Recaptació:5376 euros. Major:94,35% Minor:5,65%
+Total Sala 4:
+  Assistència total:1086 persones. Major:83,43% Minor:10,31% Minor de 8:6,26%
+  Recaptació total:15392 euros. Major:94,18% Minor:5,82%
+
+Sala 5, Sessió 1:
+  Assistència:381 persones. Major:86,09% Minor:9,71% Minor de 8:4,20%
+  Recaptació:5544 euros. Major:94,66% Minor:5,34%
+Sala 5, Sessió 2:
+  Assistència:322 persones. Major:82,61% Minor:10,87% Minor de 8:6,52%
+  Recaptació:4536 euros. Major:93,83% Minor:6,17%
+Sala 5, Sessió 3:
+  Assistència:321 persones. Major:84,11% Minor:12,77% Minor de 8:3,12%
+  Recaptació:4648 euros. Major:92,94% Minor:7,06%
+Total Sala 5:
+  Assistència total:1024 persones. Major:84,38% Minor:11,04% Minor de 8:4,59%
+  Recaptació total:14728 euros. Major:93,86% Minor:6,14%
+
+Sala 6, Sessió 1:
+  Assistència:321 persones. Major:79,44% Minor:11,53% Minor de 8:9,03%
+  Recaptació:4376 euros. Major:93,24% Minor:6,76%
+Sala 6, Sessió 2:
+  Assistència:323 persones. Major:83,90% Minor:8,36% Minor de 8:7,74%
+  Recaptació:4552 euros. Major:95,25% Minor:4,75%
+Sala 6, Sessió 3:
+  Assistència:372 persones. Major:82,53% Minor:9,68% Minor de 8:7,80%
+  Recaptació:5200 euros. Major:94,46% Minor:5,54%
+Total Sala 6:
+  Assistència total:1016 persones. Major:81,99% Minor:9,84% Minor de 8:8,17%
+  Recaptació total:14128 euros. Major:94,34% Minor:5,66%
+
+Sala 7, Sessió 1:
+  Assistència:352 persones. Major:82,95% Minor:10,80% Minor de 8:6,25%
+  Recaptació:4976 euros. Major:93,89% Minor:6,11%
+Sala 7, Sessió 2:
+  Assistència:342 persones. Major:84,80% Minor:8,77% Minor de 8:6,43%
+  Recaptació:4880 euros. Major:95,08% Minor:4,92%
+Sala 7, Sessió 3:
+  Assistència:340 persones. Major:84,12% Minor:9,71% Minor de 8:6,18%
+  Recaptació:4840 euros. Major:94,55% Minor:5,45%
+Total Sala 7:
+  Assistència total:1034 persones. Major:83,95% Minor:9,77% Minor de 8:6,29%
+  Recaptació total:14696 euros. Major:94,50% Minor:5,50%
+
+Sala 8, Sessió 1:
+  Assistència:339 persones. Major:84,37% Minor:9,73% Minor de 8:5,90%
+  Recaptació:4840 euros. Major:94,55% Minor:5,45%
+Sala 8, Sessió 2:
+  Assistència:359 persones. Major:80,22% Minor:8,91% Minor de 8:10,86%
+  Recaptació:4864 euros. Major:94,74% Minor:5,26%
+Sala 8, Sessió 3:
+  Assistència:375 persones. Major:84,80% Minor:8,80% Minor de 8:6,40%
+  Recaptació:5352 euros. Major:95,07% Minor:4,93%
+Total Sala 8:
+  Assistència total:1073 persones. Major:83,13% Minor:9,13% Minor de 8:7,74%
+  Recaptació total:15056 euros. Major:94,79% Minor:5,21%
+
+Dia 30:
+Sala 1, Sessió 1:
+  Assistència:336 persones. Major:86,01% Minor:10,42% Minor de 8:3,57%
+  Recaptació:4904 euros. Major:94,29% Minor:5,71%
+Sala 1, Sessió 2:
+  Assistència:329 persones. Major:79,64% Minor:10,94% Minor de 8:9,42%
+  Recaptació:4480 euros. Major:93,57% Minor:6,43%
+Sala 1, Sessió 3:
+  Assistència:369 persones. Major:85,37% Minor:9,21% Minor de 8:5,42%
+  Recaptació:5312 euros. Major:94,88% Minor:5,12%
+Total Sala 1:
+  Assistència total:1034 persones. Major:83,75% Minor:10,15% Minor de 8:6,09%
+  Recaptació total:14696 euros. Major:94,28% Minor:5,72%
+
+Sala 2, Sessió 1:
+  Assistència:323 persones. Major:83,59% Minor:9,91% Minor de 8:6,50%
+  Recaptació:4576 euros. Major:94,41% Minor:5,59%
+Sala 2, Sessió 2:
+  Assistència:344 persones. Major:80,23% Minor:12,50% Minor de 8:7,27%
+  Recaptació:4760 euros. Major:92,77% Minor:7,23%
+Sala 2, Sessió 3:
+  Assistència:356 persones. Major:80,34% Minor:11,52% Minor de 8:8,15%
+  Recaptació:4904 euros. Major:93,31% Minor:6,69%
+Total Sala 2:
+  Assistència total:1023 persones. Major:81,33% Minor:11,34% Minor de 8:7,33%
+  Recaptació total:14240 euros. Major:93,48% Minor:6,52%
+
+Sala 3, Sessió 1:
+  Assistència:358 persones. Major:86,03% Minor:10,06% Minor de 8:3,91%
+  Recaptació:5216 euros. Major:94,48% Minor:5,52%
+Sala 3, Sessió 2:
+  Assistència:384 persones. Major:79,43% Minor:12,76% Minor de 8:7,81%
+  Recaptació:5272 euros. Major:92,56% Minor:7,44%
+Sala 3, Sessió 3:
+  Assistència:361 persones. Major:81,99% Minor:10,53% Minor de 8:7,48%
+  Recaptació:5040 euros. Major:93,97% Minor:6,03%
+Total Sala 3:
+  Assistència total:1103 persones. Major:82,41% Minor:11,15% Minor de 8:6,44%
+  Recaptació total:15528 euros. Major:93,66% Minor:6,34%
+
+Sala 4, Sessió 1:
+  Assistència:339 persones. Major:83,48% Minor:10,62% Minor de 8:5,90%
+  Recaptació:4816 euros. Major:94,02% Minor:5,98%
+Sala 4, Sessió 2:
+  Assistència:342 persones. Major:83,92% Minor:9,94% Minor de 8:6,14%
+  Recaptació:4864 euros. Major:94,41% Minor:5,59%
+Sala 4, Sessió 3:
+  Assistència:379 persones. Major:83,38% Minor:9,50% Minor de 8:7,12%
+  Recaptació:5344 euros. Major:94,61% Minor:5,39%
+Total Sala 4:
+  Assistència total:1060 persones. Major:83,58% Minor:10,00% Minor de 8:6,42%
+  Recaptació total:15024 euros. Major:94,36% Minor:5,64%
+
+Sala 5, Sessió 1:
+  Assistència:356 persones. Major:81,74% Minor:10,96% Minor de 8:7,30%
+  Recaptació:4968 euros. Major:93,72% Minor:6,28%
+Sala 5, Sessió 2:
+  Assistència:370 persones. Major:82,43% Minor:10,81% Minor de 8:6,76%
+  Recaptació:5200 euros. Major:93,85% Minor:6,15%
+Sala 5, Sessió 3:
+  Assistència:342 persones. Major:85,09% Minor:9,65% Minor de 8:5,26%
+  Recaptació:4920 euros. Major:94,63% Minor:5,37%
+Total Sala 5:
+  Assistència total:1068 persones. Major:83,05% Minor:10,49% Minor de 8:6,46%
+  Recaptació total:15088 euros. Major:94,06% Minor:5,94%
+
+Sala 6, Sessió 1:
+  Assistència:368 persones. Major:80,98% Minor:12,77% Minor de 8:6,25%
+  Recaptació:5144 euros. Major:92,69% Minor:7,31%
+Sala 6, Sessió 2:
+  Assistència:386 persones. Major:83,94% Minor:11,40% Minor de 8:4,66%
+  Recaptació:5536 euros. Major:93,64% Minor:6,36%
+Sala 6, Sessió 3:
+  Assistència:329 persones. Major:85,11% Minor:9,12% Minor de 8:5,78%
+  Recaptació:4720 euros. Major:94,92% Minor:5,08%
+Total Sala 6:
+  Assistència total:1083 persones. Major:83,29% Minor:11,17% Minor de 8:5,54%
+  Recaptació total:15400 euros. Major:93,71% Minor:6,29%
+
+Sala 7, Sessió 1:
+  Assistència:332 persones. Major:82,23% Minor:11,14% Minor de 8:6,63%
+  Recaptació:4664 euros. Major:93,65% Minor:6,35%
+Sala 7, Sessió 2:
+  Assistència:374 persones. Major:82,35% Minor:11,50% Minor de 8:6,15%
+  Recaptació:5272 euros. Major:93,47% Minor:6,53%
+Sala 7, Sessió 3:
+  Assistència:335 persones. Major:81,19% Minor:12,84% Minor de 8:5,97%
+  Recaptació:4696 euros. Major:92,67% Minor:7,33%
+Total Sala 7:
+  Assistència total:1041 persones. Major:81,94% Minor:11,82% Minor de 8:6,24%
+  Recaptació total:14632 euros. Major:93,28% Minor:6,72%
+
+Sala 8, Sessió 1:
+  Assistència:360 persones. Major:81,39% Minor:11,11% Minor de 8:7,50%
+  Recaptació:5008 euros. Major:93,61% Minor:6,39%
+Sala 8, Sessió 2:
+  Assistència:392 persones. Major:80,10% Minor:12,76% Minor de 8:7,14%
+  Recaptació:5424 euros. Major:92,63% Minor:7,37%
+Sala 8, Sessió 3:
+  Assistència:362 persones. Major:82,04% Minor:11,88% Minor de 8:6,08%
+  Recaptació:5096 euros. Major:93,25% Minor:6,75%
+Total Sala 8:
+  Assistència total:1114 persones. Major:81,15% Minor:11,94% Minor de 8:6,91%
+  Recaptació total:15528 euros. Major:93,15% Minor:6,85%
+

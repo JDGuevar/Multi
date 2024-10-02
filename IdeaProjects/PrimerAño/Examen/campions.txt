@@ -1,0 +1,20 @@
+Gragas#Jungla
+Miss Fortune#ADC
+Zed#Mid
+Darius#Top
+Leona#Support
+Ezreal#ADC
+Ahri#Mid
+Renekton#Top
+Thresh#Support
+KhaZix#Jungla
+Jhin#ADC
+Syndra#Mid
+Fiora#Top
+Nautilus#Support
+Lee Sin#Jungla
+KaiSa#ADC
+Orianna#Mid
+Camille#Top
+Lulu#Support
+Elise#Jungla

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="-11 -11 22 22"
+     width="500" height="500">
+  <defs>
+    <mask id="circol">
+      <circle r="11" fill="white"/>
+    </mask>
+
+    <circle id="circulillo" r="11" fill="none" stroke="black" stroke-width="0.5"/>
+
+    <g id="circulo">
+      <circle r="11" fill="white" stroke="black" stroke-width="2"/>
+      <use xlink:href="#circulillo" x="2.5" y="2.5"/>
+      <use xlink:href="#circulillo" x="4.5" y="4.5"/>
+      <use xlink:href="#circulillo" x="6.5" y="6.5"/>
+      <use xlink:href="#circulillo" x="8.5" y="8.5"/>
+      <use xlink:href="#circulillo" x="8.5" y="8.5"/>
+      <use xlink:href="#circulillo" x="10.5" y="10.5"/>
+      <use xlink:href="#circulillo" x="12.5" y="12.5"/>
+      <use xlink:href="#circulillo" x="14.5" y="14.5"/>
+    </g>
+
+  </defs>
+  <rect x="-100%" y="-100%" width="200%" height="200%" fill="white"/>
+  <use xlink:href="#circulo" mask="url(#circol)" y="-11"/>
+  <use xlink:href="#circulo" mask="url(#circol)" transform="rotate(90)" y="11"/>
+  <use xlink:href="#circulo" mask="url(#circol)" transform="rotate(90)" y="-11"/>
+  <use xlink:href="#circulo" mask="url(#circol)" y="11"/>
+</svg>

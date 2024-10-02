@@ -1,0 +1,85 @@
+ID: 123abc 
+Nom: JuanPérez 
+Nascut al: 1980-05-15 
+1400
+****
+ID: 123abc 
+Nom: JuanPérez 
+Nascut al: 1980-05-15 
+1800
+****
+ID: 789abc 
+Nom: CarlosLópez 
+Nascut al: 1985-03-10 
+350
+****
+ID: 789abc 
+Nom: CarlosLópez 
+Nascut al: 1985-03-10 
+1800
+****
+ID: 567abc 
+Nom: PedroMartínez 
+Nascut al: 1998-02-25 
+350
+****
+ID: 567abc 
+Nom: PedroMartínez 
+Nascut al: 1998-02-25 
+1800
+****
+ID: 567abc 
+Nom: PedroMartínez 
+Nascut al: 1998-02-25 
+1800
+****
+ID: 901iop 
+Nom: JavierRamírez 
+Nascut al: 1995-07-22 
+1400
+****
+ID: 765iop 
+Nom: DanielRuiz 
+Nascut al: 1983-06-14 
+245
+****
+ID: 765iop 
+Nom: DanielRuiz 
+Nascut al: 1983-06-14 
+1800
+****
+ID: 543iop 
+Nom: SergioVargas 
+Nascut al: 1986-10-28 
+350
+****
+ID: 543iop 
+Nom: SergioVargas 
+Nascut al: 1986-10-28 
+1800
+****
+ID: 210xez 
+Nom: RaúlCastro 
+Nascut al: 1989-12-01 
+245
+****
+ID: 109xez 
+Nom: AndrésOrtega 
+Nascut al: 1984-08-23 
+1400
+****
+ID: 109xez 
+Nom: AndrésOrtega 
+Nascut al: 1984-08-23 
+1800
+****
+ID: 543wer 
+Nom: LuisaParedes 
+Nascut al: 1981-09-27 
+350
+****
+ID: 543wer 
+Nom: LuisaParedes 
+Nascut al: 1981-09-27 
+1800
+****

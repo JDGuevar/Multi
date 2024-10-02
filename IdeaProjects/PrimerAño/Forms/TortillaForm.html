@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>F O R M S</title>
+    <style>
+        form{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: cadetblue;
+            width: fit-content;
+            height: fit-content;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        label{
+            margin: 10px;
+            align-items: center;
+            display: flex;
+        }
+        input, select, button, datalist{
+            margin: 5px;
+        }
+        error{
+            color: red;
+            font-size: 12px;
+        }
+        div{
+            background-color: chartreuse;
+            display: contents;
+        }
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url("img/tortilla.webp");
+            background-size: cover;
+            background-repeat: no-repeat;
+            overflow: hidden;
+        }
+        text{
+            font-size: 20px;
+        }
+        h1{
+            color: white;
+            text-align: center;
+        }
+        button{
+            background-color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover{
+            background-color: lightgray;
+        }
+
+        #Date {
+            appearance: none;
+            padding: 4px;
+            display: inline-block;
+            visibility: visible;
+            width: 140px;
+            border: 0;
+            margin: 0;
+            border-radius: 0;
+            box-shadow: none;
+            -webkit-appearance: none;
+        }
+        #Date:focus {
+            color: #495057;
+            background-color: #FFFFFF;
+            border-color: #80BDFF;
+            outline: 0;
+            box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+        }
+    </style>
+</head>
+<body>
+<form novalidate onsubmit="return validarForm()">
+    <h1>Order your Tortilla Española</h1>
+
+    <label id="nom"><text>Name</text>
+        <input type="text" name="nom">
+        <error></error>
+    </label>
+
+    <label id="mail"><text>Mail</text>
+        <input type="email" name="mail">
+        <error></error>
+    </label>
+
+    <label id="postal"><text>Postal Code</text>
+        <input type="text" name="nom">
+        <error></error>
+    </label>
+
+    <label id="opcion">
+        <text>Tortilla Española: <error></error> </text>
+        <label><input type="radio" name="opcion" value="onion"> With onion</label>
+        <label><input type="radio" name="opcion" value="no-onion"> Without onion</label>
+    </label>
+
+    <label id="ingredientCheckBox">
+        <text>Ingredients: <error></error></text>
+        <div>
+            <label><input type="checkbox" name="ingredient">Potato</label>
+            <label><input type="checkbox" name="ingredient">Egg</label>
+            <label><input type="checkbox" name="ingredient">Onion</label>
+            <label><input type="checkbox" name="ingredient">Salt</label>
+            <label><input type="checkbox" name="ingredient">Olive oil</label>
+        </div>
+    </label>
+
+    <label id="City">
+        <text>City: <error></error></text>
+        <input list="ciudades" name="city">
+        <datalist id="ciudades">
+            <option value="Madrid">Madrid</option>
+            <option value="New York">New York</option>
+            <option value="Amsterdam">Amsterdam</option>
+            <option value="Paris">Paris</option>
+            <option value="Bilbao">Bilbao</option>
+        </datalist>
+    </label>
+
+    <label id="Apt">
+        <text>Tipe of housing </text>
+        <select name="apt">
+            <option value="none" selected disabled>Select an option</option>
+            <option value="house">House</option>
+            <option value="flat">Flat</option>
+            <option value="apartment">Apartment</option>
+        </select>
+    </label>
+
+    <label id="Date">
+        <text>Date for delivery <error></error></text>
+        <input type="date" name="date" required>
+    </label>
+
+    <label id="range">
+        <text>How cooked: <rtext></rtext> <error></error> </text> <br/>
+        <input type="range" name="range" min="0" max="2" step="1" value="1" onchange="rangeControl()">
+    </label>
+
+    <button type="submit">Sign Up</button>
+</form>
+<script>
+    const rangeControl = () => {
+        let element = document.querySelector("#range rtext");
+        let range = document.querySelector("#range input");
+        switch (range.value){
+            case "0":
+                element.textContent = "Raw";
+                break;
+            case "1":
+                element.textContent = "Medium";
+                break;
+            case "2":
+                element.textContent = "Well done";
+                break;
+        }
+    }
+
+    const validar = (selector, regular) => {
+        let element = document.querySelector(selector + " input");
+        let message = document.querySelector(selector + " error");
+        if(element.value.length === 0){
+            element.title = "you should fill this field";
+            message.textContent = "mandatory field";
+            return false;
+        }
+        if(!regular.test(element.value)){
+            message.textContent = "invalid format";
+            return false;
+        }
+
+        message.textContent = "";
+        return true;
+    }
+    const validarRadio = () => {
+        let radios = document.querySelectorAll("input[name=opcion]");
+        let message = document.querySelector("#opcion error");
+        for (let radio of radios)
+            if(radio.checked){
+                message.textContent = "";
+                return true;
+            }
+        message.textContent = "you should select one option";
+        return false;
+    }
+
+    const validarCheckBox = () => {
+        let element = document.querySelectorAll("div input[type=checkbox]");
+        let message = document.querySelector("#ingredientCheckBox error");
+        let cont = 0;
+
+        for (let el of element)
+            if(el.checked){
+                cont++;
+            }
+            if(cont > 1){
+                message.textContent = "";
+                return true;
+            }
+        message.textContent = "you should select at least two ingredient";
+        return false;
+    }
+
+    const validarList = () => {
+        let element = document.querySelector("#City input[list=ciudades]");
+        let message = document.querySelector("#City error");
+        if(element.value.length === 0 || !document.querySelector(`#ciudades option[value="${element.value}"]`)){
+            message.textContent = "you should select a city";
+            return false;
+        }
+        message.textContent = "";
+        return true;
+    }
+
+    const validarRange = () => {
+        let element = document.querySelector("#range rtext");
+        let message = document.querySelector("#range error");
+        if(element.textContent === ""){
+            message.textContent = "you should select a value";
+            return false;
+        }
+        message.textContent = "";
+        return true;
+    }
+
+    const validarDate = () => {
+        let element = document.querySelector("#Date input");
+        let message = document.querySelector("#Date error");
+        if(element.value.length === 0){
+            message.textContent = "you should select a date";
+            return false;
+        }
+        let date = new Date(element.value);
+        let now = new Date();
+        if(date < now){
+            message.textContent = "you should select a date after today";
+            return false;
+        }
+        message.textContent = "";
+        return true;
+    }
+
+    const validarForm = () => {
+        let valid = true;
+        valid = validarCheckBox() && valid;
+        valid = validarRadio() && valid;
+        valid = validarList() && valid;
+        valid = validarRange() && valid;
+        valid = validarDate() && valid;
+        valid = validar("#postal", /\d{5}/) && valid;
+        valid = validar("#nom", /[A-Z][a-z]+( [A-Z]([.]|[a-z]+))?( [A-Z][a-z]+){1,2}/) && valid;
+        valid = validar("#mail", /[a-z]{3,}(\d*|(([._])[a-z]+)?(\3[a-z]+)?)@[a-z]{3,}[.][a-z]{2,4}/) && valid;
+        return valid;
+    }
+</script>
+</body>
+</html>

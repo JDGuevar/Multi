@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad>
+        <nombre>Lisboa</nombre>
+        <pais continente="Europa">Portugal</pais>
+        <idioma>Portugués</idioma>
+        <nhabitantes>1/2M</nhabitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>Nueva Delhi</nombre>
+        <pais continente="Asia">India</pais>
+        <idioma>Hindi</idioma>
+        <nhabitantes>20000</nhabitantes>
+    </ciudad>
+    <ciudad>
+        <nombre>El Cairo</nombre>
+        <pais continente="África">Egipto</pais>
+        <idioma>Árabe</idioma>
+        <nhabitantes>10000</nhabitantes>
+    </ciudad>
+</ciudades>

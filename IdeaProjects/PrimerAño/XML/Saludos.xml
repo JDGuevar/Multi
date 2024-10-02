@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Saludos[
+        <!ELEMENT Saludos (Saludo*)>
+        <!ELEMENT Saludo (#PCDATA)>
+        <!ATTLIST Saludo idioma (ALE|ITA|FRA|POR|ESP) "ESP">
+        ]>
+<Saludos>
+    <Saludo idioma="ALE">Hallo</Saludo>
+    <Saludo idioma="ITA">Ciao</Saludo>
+    <Saludo idioma="FRA">Salut</Saludo>
+    <Saludo>¡Hola!</Saludo>
+    <Saludo idioma="POR">Olá</Saludo>
+</Saludos>

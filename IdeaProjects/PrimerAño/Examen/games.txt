@@ -1,0 +1,12 @@
+Equipo Rojo: 
+Gragas Jungla Vida Actual: 1364, Objeto Equipado: Capucha del Espectro
+Zed Mid Vida Actual: 2570, Objeto Equipado: Sombrero mortal de Rabadon
+Darius Top Vida Actual: 2436, Objeto Equipado: Corazón de Hielo
+Leona Support Vida Actual: 1540, Objeto Equipado: Cuerno del Guardián
+Renekton Top Vida Actual: 1675, Objeto Equipado: Corazón de Hielo
+Equipo Azul: 
+Syndra Mid Vida Actual;2094, Objeto Equipado: Sombrero mortal de Rabadon
+Nautilus Support Vida Actual;2427, Objeto Equipado: Cuerno del Guardián
+KaiSa ADC Vida Actual;1450, Objeto Equipado: Espada de Doran
+Orianna Mid Vida Actual;1690, Objeto Equipado: Sombrero mortal de Rabadon
+Lulu Support Vida Actual;2500, Objeto Equipado: Cuerno del Guardián

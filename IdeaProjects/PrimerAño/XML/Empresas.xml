@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Empresas[
+        <!ELEMENT Empresas (Empresa*)>
+        <!ELEMENT Empresa EMPTY>
+        <!ATTLIST Empresa
+                nombre CDATA #REQUIRED
+                fecha_de_fundacion CDATA #IMPLIED>
+        ]>
+<Empresas>
+    <Empresa nombre="Apple" fecha_de_fundacion="1976"/>
+    <Empresa nombre="Microsoft" fecha_de_fundacion="1975"/>
+    <Empresa nombre="Google"/>
+</Empresas>

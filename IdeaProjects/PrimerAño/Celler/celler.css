@@ -1,0 +1,152 @@
+@font-face {
+    font-family: 'estandar';
+    src: url('./fuentes/estandar.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'firma';
+    src: url('./fuentes/firma.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'celler';
+    src: url('./fuentes/vellita.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+table{
+    padding: 4mm 4mm 8mm 4mm;
+    margin: 0;
+    width: 210mm;
+    height: 297mm;
+    border-spacing: 0.5mm;
+}
+
+body {
+    font-family: estandar, serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    border: black 0.5mm solid;
+    border-radius: 2mm;
+    padding: 0.5mm;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    height: 25mm;
+    font-family: celler, serif;
+    font-size: 30px;
+}
+
+.header > td{
+    background-color: darkgreen;
+}
+
+.header1 {
+    color: white;
+    text-align: center;
+    height: 13mm;
+}
+
+.header2 {
+    color: black;
+    text-align: center;
+}
+
+.header2 >td
+{
+    background-color: lightgray;
+}
+
+.header1 > td{
+    height: 9mm;
+    background-color: darkgreen;
+}
+
+.unitats {
+    color: black;
+    text-align: right;
+}
+
+.unitats:nth-child(odd) > td {
+    background-color: lightgray;
+}
+.unitats:nth-child(even) > td {
+    background-color: white;
+}
+
+.unitats > td ,
+.header2 > td{
+    height: 7mm;
+}
+
+.dineros {
+    background-color: darkgreen;
+    color: white;
+    height: 9mm;
+}
+
+.number{
+    text-align: right;
+}
+
+.text{
+    text-align: center;
+}
+
+.PagoYFirma{
+    color: white;
+    text-align: center;
+}
+.PagoYFirma >td{
+    background-color: darkgreen;
+    height: 40mm;
+}
+
+.firma{
+    font-family: firma, serif;
+    font-size: 50px;
+}
+
+.noVisible ,
+.noVisible > td{
+    background-color: transparent;
+    border: none;
+    height: 1.5mm;
+}
+
+.c1 {
+    width: 18mm;
+}
+.c2 {
+    width: 89mm;
+}
+.c3 {
+    width: 19mm;
+}
+
+.c4 , .c5{
+    width: 33mm;
+}
+
+.cash{
+    background-image: url("./images/cash.webp");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card{
+    background-image: url("./images/Visa.webp");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

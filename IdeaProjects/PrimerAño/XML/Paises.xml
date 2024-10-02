@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE paises [
+    <!ELEMENT paises (pais*)>
+    <!ELEMENT pais (nombre*, continente, poblacion, gobierno)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT continente ANY>
+    <!ELEMENT poblacion (#PCDATA)>
+    <!ELEMENT gobierno EMPTY>
+]>
+<paises>
+    <pais>
+        <nombre>Argentina</nombre>
+        <continente>América</continente>
+        <poblacion>40.117.096</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Brasil</nombre>
+        <continente>América</continente>
+        <poblacion>207.353.391</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Chile</nombre>
+        <continente>América</continente>
+        <poblacion>17.363.894</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Colombia</nombre>
+        <continente>América</continente>
+        <poblacion>49.065.615</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Ecuador</nombre>
+        <continente>América</continente>
+        <poblacion>16.385.068</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Perú</nombre>
+        <continente>América</continente>
+        <poblacion>31.826.018</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Uruguay</nombre>
+        <continente>América</continente>
+        <poblacion>3.444.006</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Venezuela</nombre>
+        <continente>América</continente>
+        <poblacion>31.568.179</poblacion>
+        <gobierno/>
+    </pais>
+    <pais>
+        <nombre>Canadá</nombre>
+        <continente>América</continente>
+        <poblacion>36.289.822</poblacion>
+        <gobierno/>
+    </pais>
+</paises>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE biblioteca [
+        <!ELEMENT biblioteca (bibliotecario ,libros)>
+        <!ELEMENT bibliotecario (nombre, identificador)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT identificador (#PCDATA)>
+        <!ELEMENT libros (libro+)>
+        <!ELEMENT libro (titulo, autor+, año, editorial?)>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT autor (#PCDATA)>
+        <!ELEMENT año (#PCDATA)>
+        <!ELEMENT editorial (#PCDATA)>
+        ]>
+<biblioteca>
+    <bibliotecario>
+        <nombre>María</nombre>
+        <identificador>1234</identificador>
+    </bibliotecario>
+    <libros>
+        <libro>
+            <titulo>El principito</titulo>
+            <autor>Antoine de Saint-Exupéry</autor>
+            <año>1943</año>
+            <editorial>Reynal &amp; Hitchcock</editorial>
+        </libro>
+        <libro>
+            <titulo>El túnel</titulo>
+            <autor>Ernesto Sabato</autor>
+            <autor>José Guevara</autor>
+            <año>1948</año>
+        </libro>
+    </libros>
+
+
+</biblioteca>

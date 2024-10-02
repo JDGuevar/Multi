@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Libreria[
+        <!ELEMENT Libreria (Autores,Libros)>
+        <!ELEMENT Libros (Libro*)>
+        <!ELEMENT Autores (Autor*)>
+        <!ELEMENT Autor EMPTY>
+        <!ATTLIST Autor
+                identificador ID #REQUIRED
+                nombre CDATA #IMPLIED>
+        <!ELEMENT Libro EMPTY>
+        <!ATTLIST Libro
+                identificador ID #REQUIRED
+                nombre CDATA #IMPLIED
+                relacion IDREFS #IMPLIED
+                autor IDREFS #IMPLIED>
+        ]>
+<Libreria>
+    <Autores>
+        <Autor identificador="a1" nombre="Jorge Luis Borges"/>
+        <Autor identificador="a2" nombre="Gabriel García Márquez"/>
+        <Autor identificador="a3" nombre="Julio Cortázar"/>
+    </Autores>
+    <Libros>
+        <Libro identificador="F" nombre="Ficciones" autor="a1"/>
+        <Libro identificador="CADS" nombre="Cien años de soledad" autor="a2"/>
+        <Libro identificador="R" relacion="CADS F" nombre="Rayuela" autor="a3"/>
+        <Libro identificador="MR" relacion="A RSY" nombre="Maldita Roma"/>
+        <Libro identificador="RSY" nombre="Roma soy Yo"/>
+        <Libro identificador="A" nombre="Africanus"/>
+    </Libros>
+
+</Libreria>

@@ -1,0 +1,96 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT playa (origen,elaborado,nombre,localidad,prediccion)>
+<!ATTLIST playa
+    xmlns CDATA #FIXED ''
+    id  #REQUIRED>
+
+<!ELEMENT origen (productor,web,language,copyright,nota_legal)>
+<!ATTLIST origen
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT elaborado (#PCDATA)>
+<!ATTLIST elaborado
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ATTLIST nombre
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT localidad (#PCDATA)>
+<!ATTLIST localidad
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT prediccion (dia)+>
+<!ATTLIST prediccion
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT productor (#PCDATA)>
+<!ATTLIST productor
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT web (#PCDATA)>
+<!ATTLIST web
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT language (#PCDATA)>
+<!ATTLIST language
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT copyright (#PCDATA)>
+<!ATTLIST copyright
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nota_legal (#PCDATA)>
+<!ATTLIST nota_legal
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT dia (estado_cielo,viento,oleaje,t_maxima,s_termica,t_agua,uv_max)>
+<!ATTLIST dia
+    xmlns CDATA #FIXED ''
+    fecha  #REQUIRED>
+
+<!ELEMENT estado_cielo EMPTY>
+<!ATTLIST estado_cielo
+    xmlns CDATA #FIXED ''
+    descripcion1  #REQUIRED
+    descripcion2 CDATA #REQUIRED
+    f1  #REQUIRED
+    f2  #REQUIRED>
+
+<!ELEMENT viento EMPTY>
+<!ATTLIST viento
+    xmlns CDATA #FIXED ''
+    descripcion1  #REQUIRED
+    descripcion2  #REQUIRED
+    f1  #REQUIRED
+    f2  #REQUIRED>
+
+<!ELEMENT oleaje EMPTY>
+<!ATTLIST oleaje
+    xmlns CDATA #FIXED ''
+    descripcion1  #REQUIRED
+    descripcion2  #REQUIRED
+    f1  #REQUIRED
+    f2  #REQUIRED>
+
+<!ELEMENT t_maxima EMPTY>
+<!ATTLIST t_maxima
+    xmlns CDATA #FIXED ''
+    valor1  #REQUIRED>
+
+<!ELEMENT s_termica EMPTY>
+<!ATTLIST s_termica
+    xmlns CDATA #FIXED ''
+    descripcion1  #REQUIRED
+    valor1  #REQUIRED>
+
+<!ELEMENT t_agua EMPTY>
+<!ATTLIST t_agua
+    xmlns CDATA #FIXED ''
+    valor1  #REQUIRED>
+
+<!ELEMENT uv_max EMPTY>
+<!ATTLIST uv_max
+    xmlns CDATA #FIXED ''
+    valor1  #REQUIRED>

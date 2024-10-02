@@ -1,0 +1,16 @@
+tr:nth-child(even) {
+    background-color: aliceblue;
+}
+
+tr:nth-child(odd) {
+    background-color: cadetblue;
+}
+
+tr:hover {
+    background-color: darkolivegreen;
+}
+
+td {
+    padding: 4px;
+    height: 0.7cm;
+}

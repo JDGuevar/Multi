@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web>
+    <marcadores>
+        <pagina>
+            <titulo>Wikipedia</titulo>
+            <descripcion>La enciclopedia libre</descripcion>
+            <url>https://www.wikipedia.org/</url>
+            <visitas> 1000000 </visitas>
+        </pagina>
+        <pagina>
+            <titulo>Google</titulo>
+            <descripcion>El buscador más popular</descripcion>
+            <url>https://www.google.com/</url>
+            <visitas> 1000000 </visitas>
+        </pagina>
+        <pagina>
+            <titulo>Youtube</titulo>
+            <descripcion>Sitio web dedicado a compartir videos</descripcion>
+            <url>https://www.youtube.com/</url>
+            <visitas> 1000000 </visitas>
+            <anuncios/>
+        </pagina>
+    </marcadores>
+
+    <interes>
+        <pagina>
+            <url> https://www.bookfinder.com/ </url>
+            <tipo> pagina de libros </tipo>
+        </pagina>
+    </interes>
+
+    <descargas>
+        <pagina>
+            <url> https://www.casadellibro.com/ </url>
+            <tipo> pagina de ebooks </tipo>
+        </pagina>
+    </descargas>
+</web>

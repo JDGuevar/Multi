@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="-13 -22.5 26 45"
+     width="520" height="900">
+  <defs>
+    <radialGradient id="shadow">
+      <stop stop-color="white" offset="0"/>
+      <stop stop-color="white" offset="0.45"/>
+      <stop stop-color="black" offset="1"/>
+    </radialGradient>
+    <mask id="shadowMask">
+      <circle id="shape" r="11" fill="url(#shadow)"/>
+    </mask>
+    <mask id="cuttingMask">
+      <circle r="11" fill="white"/>
+      <g fill="black">
+        <circle r="11" cy="15"/>
+        <circle r="11" cy="-7.5" cx="-13"/>
+        <circle r="11" cy="-7.5" cx="13"/>
+      </g>
+    </mask>
+    <g id="piece" mask="url(#cuttingMask)">
+      <circle r="11"/>
+      <g fill="white">
+        <circle r="11.8" cy="15"/>
+        <circle r="11.8" cy="-7.5" cx="-13"/>
+        <circle r="11.8" cy="-7.5" cx="13"/>
+      </g>
+    </g>
+    <use id="alfa" href="#piece"/>
+    <use id="beta" href="#piece" transform="rotate(180)" mask="url(#shadowMask)"/>
+    <g id="combo">
+      <use href="#alfa"/>
+      <use href="#beta" y="-15"/>
+      <use href="#beta" x="-13" y="7.5"/>
+      <use href="#beta" x="13" y="7.5"/>
+    </g>
+    <polygon id="back" points="0 -15 13 -7.5 13 7.5 0 15 -13 7.5 -13 -7.5" fill="none"/>
+    <g id="floor">
+      <use href="#back"/>
+      <use href="#back" x="-13" y="-22.5"/>
+      <use href="#back" x="-13" y="22.5"/>
+      <use href="#back" x="13" y="-22.5"/>
+      <use href="#back" x="13" y="22.5"/>
+    </g>
+  </defs>
+  <rect x="-100%" y="-100%" width="200%" height="200%" fill="#222"/>
+  <use href="#floor" stroke="#444" stroke-width="4"/>
+  <use href="#combo" fill="#369"/>
+  <g fill="green" transform="rotate(180)">
+    <use href="#combo" x="-13" y="-22.5"/>
+    <use href="#combo" x="-13" y="22.5"/>
+    <use href="#combo" x="13" y="-22.5"/>
+    <use href="#combo" x="13" y="22.5"/>
+  </g>
+</svg>

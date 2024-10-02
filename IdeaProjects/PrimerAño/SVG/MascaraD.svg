@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="800"
+     viewBox="-100 -100 200 200">
+  <defs>
+    <linearGradient id="grad1">
+      <stop stop-color="#333" offset="0%"/>
+      <stop stop-color="#FFF" offset="30%"/>
+      <stop stop-color="#FFF" offset="70%"/>
+      <stop stop-color="#333" offset="100%"/>
+    </linearGradient>
+
+    <rect id="cero" x="-75" y="-25" width="150" height="50"/>
+
+    <mask id="mascara">
+      <use xlink:href="#cero" fill="url(#grad1)"/>
+    </mask>
+
+    <g id="uno">
+      <use xlink:href="#cero" x="-50" y="-50" mask="url(#mascara)"/>
+      <use xlink:href="#cero" x="150" y="-50" mask="url(#mascara)"/>
+    </g>
+
+  </defs>
+  <rect x="-100" y="-100" width="200" height="200"/>
+  <use xlink:href="#uno" fill="#F00"/>
+  <use xlink:href="#uno" transform="rotate(90)" fill="#0F0"/>
+  <use xlink:href="#uno" transform="rotate(180)" fill="#00F"/>
+  <use xlink:href="#uno" transform="rotate(-90)" fill="#FF0"/>
+
+</svg>

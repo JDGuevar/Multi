@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ShoppingCenter[
+        <!ELEMENT ShoppingCenter (Store*,Customer*)>
+        <!ELEMENT Stores (Store*)>
+        <!ELEMENT Store (name, product*)>
+        <!ELEMENT product (#PCDATA)>
+        <!ATTLIST Store
+                id ID #REQUIRED>
+        <!ATTLIST product
+                id ID #REQUIRED>
+        <!ELEMENT Customers (Customer*)>
+        <!ELEMENT Customer (name, purchases)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT purchases EMPTY>
+        <!ATTLIST Customer
+                id ID #REQUIRED
+                favoriteStore IDREF #IMPLIED>
+        <!ATTLIST purchases
+                productRefs IDREFS #REQUIRED>
+        ]>
+<ShoppingCenter>
+    <Store id="st1">
+        <name>Electronics Emporium</name>
+        <product id="p1">Laptop</product>
+        <product id="p2">Tablet</product>
+    </Store>
+    <Customer id="c1" favoriteStore="st1">
+        <name>John Doe</name>
+        <purchases productRefs="p1 p2"/>
+    </Customer>
+</ShoppingCenter>

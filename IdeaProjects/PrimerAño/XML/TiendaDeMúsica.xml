@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TiendaDeMúsica[
+        <!ELEMENT TiendaDeMúsica (propietario, albums)>
+        <!ELEMENT propietario EMPTY>
+        <!ELEMENT albums (album+)>
+        <!ELEMENT album (nombre, artista, año, etiqueta)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT artista (#PCDATA)>
+        <!ELEMENT año (#PCDATA)>
+        <!ELEMENT etiqueta (#PCDATA)>
+        <!ATTLIST album genero (rock | pop | jazz | clásica | hiphop | otros) "otros">
+        <!ATTLIST album tipo (digital | físico) "digital">
+        ]>
+<TiendaDeMúsica>
+    <propietario/>
+    <albums>
+        <album genero="clásica" tipo="físico">
+            <nombre></nombre>
+            <artista></artista>
+            <año></año>
+            <etiqueta></etiqueta>
+        </album>
+    </albums>
+</TiendaDeMúsica>

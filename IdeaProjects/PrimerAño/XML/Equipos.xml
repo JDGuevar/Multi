@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<partido>
+    <equipo>
+        <nombre>BARSA</nombre>
+        <ciudad>BARSELONA</ciudad>
+        <entrenador/>
+        <jugador posicion="DELANTERO">
+            <nombre>MESI</nombre>
+            <nacionalidad>CHE</nacionalidad>
+        </jugador>
+        <jugador posicion="CENTRAL">
+            <nombre>NEYMAR</nombre>
+            <nacionalidad>FABELA</nacionalidad>
+        </jugador>
+    </equipo>
+
+    <equipo>
+        <nombre>MADRI</nombre>
+        <ciudad>MADRI</ciudad>
+        <entrenador/>
+        <jugador posicion="DELANTERO">
+            <nombre>ELBICHOOO</nombre>
+            <nacionalidad>PORTU</nacionalidad>
+        </jugador>
+        <jugador posicion="">
+            <nombre>BENZEMA</nombre>
+            <nacionalidad>FRANCHI</nacionalidad>
+        </jugador>
+    </equipo>
+</partido>

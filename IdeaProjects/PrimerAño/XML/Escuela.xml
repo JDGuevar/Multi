@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Escuela[
+        <!ELEMENT Escuela (profesores, alumnos, clases)>
+        <!ELEMENT profesores (profesor+)>
+        <!ELEMENT profesor (nombre)>
+        <!ATTLIST profesor
+                identificador ID #REQUIRED>
+        <!ELEMENT alumnos (alumno+)>
+        <!ELEMENT alumno (nombre)>
+        <!ATTLIST alumno
+                identificador ID #REQUIRED
+                amigos IDREFS #IMPLIED>
+        <!ELEMENT clases (clase+)>
+        <!ELEMENT clase (nombre)>
+        <!ATTLIST clase
+                identificador ID #REQUIRED
+                profesor IDREFS #IMPLIED
+                alumnos IDREFS #IMPLIED>
+
+        <!ELEMENT nombre (#PCDATA)>
+        ]>
+<Escuela>
+    <profesores>
+        <profesor identificador="p1"> <nombre>Juan</nombre> </profesor>
+        <profesor identificador="p2"> <nombre>Pedro</nombre> </profesor>
+        <profesor identificador="p3"> <nombre>Antonio</nombre> </profesor>
+    </profesores>
+    <alumnos>
+        <alumno identificador="a1" amigos="a2"> <nombre>Ana</nombre> </alumno>
+        <alumno identificador="a2" amigos="a1"> <nombre>Maria</nombre> </alumno>
+        <alumno identificador="a3"> <nombre>Lucia</nombre> </alumno>
+    </alumnos>
+    <clases>
+        <clase identificador="C1" profesor="p1" alumnos="a1 a2"> <nombre>Matemáticas</nombre> </clase>
+        <clase identificador="C2" profesor="p2" alumnos="a2 a3"> <nombre>Historia</nombre> </clase>
+        <clase identificador="C3" profesor="p3" alumnos="a1 a3"> <nombre>Física</nombre> </clase>
+    </clases>
+</Escuela>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <libros>
+        <libro categoria="Caballería">
+            <titulo idioma="es">El Quijote</titulo>
+            <autor>Miguel de Cervantes</autor>
+            <añopublicacion>1605</añopublicacion>
+            <precio>20</precio>
+        </libro>
+        <libro categoria="Ficción">
+            <titulo idioma="es">El Señor de los Anillos</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <añopublicacion>1954</añopublicacion>
+            <precio>30</precio>
+        </libro>
+        <libro categoria="Fantasía">
+            <titulo idioma="es">Harry Potter</titulo>
+            <autor>J.K. Rowling</autor>
+            <añopublicacion>1997</añopublicacion>
+            <precio>25</precio>
+        </libro>
+        <libro categoria="Ficción">
+            <titulo idioma="es">El Imperio Final</titulo>
+            <autor>Brandon Sanderson</autor>
+            <añopublicacion>2006</añopublicacion>
+            <precio>40</precio>
+        </libro>
+        <libro categoria="Fantasía">
+            <titulo idioma="es">El Hobbit</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <añopublicacion>1937</añopublicacion>
+            <precio>25</precio>
+        </libro>
+    </libros>
+</tienda>

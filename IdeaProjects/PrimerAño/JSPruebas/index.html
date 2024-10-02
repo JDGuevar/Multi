@@ -1,0 +1,57 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>JSProves</title>
+  <style>
+    :root{
+      --peque-width: calc(16 * 10px);
+      --peque-height: calc(9 * 10px);
+      --imagenes: 8;
+    }
+    img{
+      display: block;
+      float: left;
+      width: var(--peque-width);
+      height: var(--peque-height);
+    }
+    td{
+      background: crimson;
+      padding: 0;
+    }
+    table{
+      border-collapse: collapse;
+    }
+
+    #grandes{
+      width: calc(var(--peque-width) * var(--imagenes));
+      height: calc(var(--peque-height) * var(--imagenes));
+      background-size: cover;
+    }
+  </style>
+</head>
+<body>
+<table>
+  <tr>
+    <td id="grandes"></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="img/1.webp">
+      <img src="img/2.webp">
+      <img src="img/3.webp">
+      <img src="img/4.webp">
+      <img src="img/5.webp">
+      <img src="img/6.webp">
+      <img src="img/7.webp">
+      <img src="img/8.webp">
+    </td>
+  </tr>
+</table>
+
+<script src="js/proves.js"></script>
+
+</body>
+
+</html>
